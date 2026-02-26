@@ -1,0 +1,64 @@
+{
+  "date": "2026-02-23",
+  "generated_at": "2026-02-24T01:00:00Z",
+  "article_count": 27,
+  "headline": "百度文心大模型 5.0 发布，xAI Grok 3 向全球用户开放",
+  "summary": "2026年2月23日，中国 AI 领域迎来重磅更新——百度正式发布文心大模型 5.0，在中文理解、逻辑推理和多模态交互方面全面超越上一代，并首次推出面向企业的\"文心一言 Pro 企业版\"订阅套餐。百度表示，文心大模型 5.0 已接入百度搜索、地图、网盘等多款核心产品，月活跃用户预计突破1亿。\n\n马斯克旗下 xAI 宣布将 Grok 3 向全球非美国用户正式开放，支持包括中文在内的15种语言，并提供免费基础版和付费高级版两种接入选项。Grok 3 以其实时联网能力和无审查策略在部分用户群体中具有较高热度。\n\n技术层面，微软研究院发布了关于\"多智能体系统协作\"的重磅论文，提出一套标准化的 AI Agent 通信协议，为未来复杂 AI 系统的互联互通奠定理论基础。",
+  "sections": {
+    "product_updates": [
+      {
+        "title": "百度文心大模型 5.0 正式发布，中文能力再创新高",
+        "content": "百度发布文心大模型 5.0，在 C-Eval、CMMLU 等中文基准测试中均取得最高分。新版本引入\"中文感知推理\"技术，对中文习语、古诗词和法律文书的理解精度大幅提升。文心一言 Pro 企业版同步上线，提供专属算力、私有化部署和专业客服支持，面向金融、法律、医疗行业的定制版本将于3月推出。",
+        "source": "百度 AI 开放平台",
+        "url": "https://ai.baidu.com/",
+        "importance": "high"
+      },
+      {
+        "title": "xAI Grok 3 全球开放，覆盖15种语言含中文",
+        "content": "马斯克旗下 xAI 宣布 Grok 3 正式向全球用户开放，支持15种语言，免费版每日可进行10次对话，付费版 Grok 3 Pro 提供无限次使用和实时联网功能。xAI 强调 Grok 3 在科学与数学推理方面具有优势，并以较低审查门槛作为差异化竞争策略。",
+        "source": "xAI Blog",
+        "url": "https://x.ai/",
+        "importance": "high"
+      },
+      {
+        "title": "Adobe Firefly 4 发布，支持基于文本的视频编辑",
+        "content": "Adobe 正式推出 Firefly 4，最大亮点是\"文本驱动视频编辑\"功能：用户只需输入自然语言指令（如\"将背景改为雨天\"或\"给人物换一件红色外套\"），系统即可自动对视频片段进行局部编辑，全程无需手动遮罩。该功能已在 Adobe Premiere Pro 和 After Effects 插件中上线。",
+        "source": "Adobe Blog",
+        "url": "https://blog.adobe.com/",
+        "importance": "medium"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "微软研究院发布 AI Agent 标准通信协议，推动多智能体协作",
+        "content": "微软研究院在 arXiv 发布论文，提出\"Agent Communication Protocol（ACP）\"框架，定义了异构 AI Agent 之间进行任务委托、状态同步和结果交接的标准化接口。论文附带参考实现代码已在 GitHub 上开源，AutoGen、LangChain 等主流 Agent 框架团队已表示将予以适配支持。",
+        "source": "Microsoft Research",
+        "url": "https://www.microsoft.com/en-us/research/",
+        "importance": "high"
+      },
+      {
+        "title": "清华大学提出高效视觉语言模型训练方法，显存需求降低50%",
+        "content": "清华大学计算机系研究团队在 CVPR 2026 预印本中提出\"梯度检查点自适应分配\"技术，将视觉语言模型（VLM）的训练显存需求降低约50%，同时保持相近的模型精度。该方法已在 LLaVA 和 InternVL 系列模型上验证，对降低多模态模型的训练门槛具有重要意义。",
+        "source": "清华大学 / arXiv",
+        "url": "https://arxiv.org/",
+        "importance": "high"
+      }
+    ],
+    "interesting_news": [
+      {
+        "title": "韩国偶像公司签约 AI 虚拟偶像，首张 AI 专辑登上榜单第三名",
+        "content": "韩国某顶级娱乐公司正式签约旗下完全由 AI 生成的虚拟偶像组合，其首张专辑在 Melon 和 Spotify Korea 榜单上分别达到第3名和第7名，创下 AI 音乐人商业成绩新高。公司表示未来将推出 AI 偶像与真人偶像合作的混合演唱形式，韩国音乐产业界对此产生激烈讨论。",
+        "source": "Korea JoongAng Daily",
+        "url": "https://koreajoongangdaily.joins.com/",
+        "importance": "low"
+      },
+      {
+        "title": "OpenAI 开始向小学开放 ChatGPT Edu 计划，含家长监控功能",
+        "content": "OpenAI 宣布将 ChatGPT Edu 计划扩展至小学阶段，新增\"家长监控面板\"，家长可实时查看孩子的对话内容摘要和使用时长统计。目前已有美国、英国、澳大利亚的约500所小学参与试点，教育界对于 AI 介入低龄教育的时机和方式仍存在较大分歧。",
+        "source": "EdSurge",
+        "url": "https://www.edsurge.com/",
+        "importance": "medium"
+      }
+    ]
+  }
+}

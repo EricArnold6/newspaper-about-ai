@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI 日报 · 全球人工智能动态</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&family=Noto+Sans+SC:wght@400;600;700&display=swap" rel="stylesheet" />
+  <style>
+    /* ── Reset & Variables ──────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink:        #1a1a1a;
+      --ink-light:  #444;
+      --ink-muted:  #888;
+      --paper:      #faf8f3;
+      --paper-warm: #f3efe4;
+      --accent:     #b5121b;
+      --accent-2:   #1a3a6b;
+      --border:     #c8bfa8;
+      --card-bg:    #ffffff;
+      --high-badge: #b5121b;
+      --mid-badge:  #e07a00;
+      --low-badge:  #5a7a3a;
+      --font-serif: 'Noto Serif SC', 'Georgia', 'SimSun', serif;
+      --font-sans:  'Noto Sans SC', 'Helvetica Neue', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+    }
+
+    body {
+      background: var(--paper);
+      color: var(--ink);
+      font-family: var(--font-serif);
+      min-height: 100vh;
+    }
+
+    /* ── Masthead ────────────────────────────────────────────────────── */
+    .masthead {
+      background: var(--ink);
+      color: #fff;
+      text-align: center;
+      padding: 28px 20px 20px;
+      border-bottom: 4px double var(--accent);
+    }
+    .masthead-kicker {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #aaa;
+      margin-bottom: 8px;
+    }
+    .masthead-title {
+      font-size: clamp(2.4rem, 8vw, 4.2rem);
+      font-weight: 700;
+      letter-spacing: -1px;
+      color: #fff;
+      line-height: 1;
+    }
+    .masthead-subtitle {
+      font-family: var(--font-sans);
+      font-size: 13px;
+      color: #bbb;
+      margin-top: 6px;
+      letter-spacing: 1px;
+    }
+    .masthead-rule {
+      border: none;
+      border-top: 1px solid #555;
+      margin: 14px auto 10px;
+      width: 80%;
+    }
+    .masthead-meta {
+      font-family: var(--font-sans);
+      font-size: 12px;
+      color: #999;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .masthead-meta span { white-space: nowrap; }
+
+    /* ── Navigation / Date Picker ────────────────────────────────────── */
+    .date-bar {
+      background: var(--paper-warm);
+      border-bottom: 2px solid var(--border);
+      padding: 10px 20px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .date-bar label {
+      font-family: var(--font-sans);
+      font-size: 13px;
+      color: var(--ink-light);
+      font-weight: 600;
+    }
+    .date-btn-group {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .date-btn {
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 3px;
+      padding: 5px 12px;
+      font-family: var(--font-sans);
+      font-size: 13px;
+      color: var(--ink-light);
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+    }
+    .date-btn:hover { background: var(--paper-warm); color: var(--ink); }
+    .date-btn.active {
+      background: var(--accent-2);
+      color: #fff;
+      border-color: var(--accent-2);
+    }
+    .date-picker-input {
+      border: 1px solid var(--border);
+      border-radius: 3px;
+      padding: 5px 10px;
+      font-family: var(--font-sans);
+      font-size: 13px;
+      background: #fff;
+      color: var(--ink);
+      cursor: pointer;
+    }
+    .date-picker-input:focus { outline: 2px solid var(--accent-2); }
+
+    /* ── Main layout ─────────────────────────────────────────────────── */
+    .page-wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 16px 60px;
+    }
+
+    /* ── Loading / Error states ──────────────────────────────────────── */
+    .state-msg {
+      text-align: center;
+      padding: 80px 20px;
+      font-family: var(--font-sans);
+      color: var(--ink-muted);
+    }
+    .state-msg .icon { font-size: 3rem; margin-bottom: 12px; }
+    .state-msg h2 { font-size: 1.2rem; margin-bottom: 8px; color: var(--ink-light); }
+    .state-msg p  { font-size: 0.9rem; }
+
+    /* ── Edition date banner ─────────────────────────────────────────── */
+    .edition-banner {
+      background: var(--accent);
+      color: #fff;
+      text-align: center;
+      padding: 10px 20px;
+      font-family: var(--font-sans);
+      font-size: 14px;
+      letter-spacing: 2px;
+      font-weight: 700;
+      margin: 0 -16px;
+    }
+
+    /* ── Headline ───────────────────────────────────────────────────── */
+    .headline-block {
+      border-bottom: 3px double var(--border);
+      padding: 24px 0 20px;
+      text-align: center;
+    }
+    .headline-label {
+      font-family: var(--font-sans);
+      font-size: 10px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+    .headline-text {
+      font-size: clamp(1.5rem, 4vw, 2.2rem);
+      font-weight: 700;
+      line-height: 1.3;
+      color: var(--ink);
+      max-width: 760px;
+      margin: 0 auto 16px;
+    }
+    .summary-text {
+      font-size: 1rem;
+      line-height: 1.9;
+      color: var(--ink-light);
+      max-width: 760px;
+      margin: 0 auto;
+      text-align: left;
+    }
+    .summary-text p + p { margin-top: 12px; }
+
+    /* ── Sections ───────────────────────────────────────────────────── */
+    .sections-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0;
+      margin-top: 0;
+    }
+
+    .section {
+      border-bottom: 2px solid var(--border);
+      padding: 24px 0;
+    }
+    .section:last-child { border-bottom: none; }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+    .section-icon { font-size: 1.5rem; }
+    .section-title {
+      font-family: var(--font-sans);
+      font-size: 0.75rem;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      font-weight: 700;
+      color: var(--accent-2);
+    }
+    .section-rule {
+      flex: 1;
+      height: 1px;
+      background: var(--border);
+    }
+
+    /* ── News Cards ─────────────────────────────────────────────────── */
+    .cards-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 16px;
+    }
+
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-top: 3px solid var(--accent-2);
+      padding: 18px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      transition: box-shadow 0.15s;
+    }
+    .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.08); }
+
+    .card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+
+    .card-title {
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.4;
+      color: var(--ink);
+      flex: 1;
+    }
+
+    .importance-badge {
+      flex-shrink: 0;
+      font-family: var(--font-sans);
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      padding: 2px 7px;
+      border-radius: 2px;
+      color: #fff;
+    }
+    .importance-badge.high   { background: var(--high-badge); }
+    .importance-badge.medium { background: var(--mid-badge);  }
+    .importance-badge.low    { background: var(--low-badge);  }
+
+    .card-content {
+      font-size: 0.9rem;
+      line-height: 1.8;
+      color: var(--ink-light);
+    }
+
+    .card-footer {
+      margin-top: auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-family: var(--font-sans);
+      font-size: 12px;
+      color: var(--ink-muted);
+      border-top: 1px solid var(--border);
+      padding-top: 10px;
+    }
+    .card-source::before { content: "📰 "; }
+    .card-link {
+      color: var(--accent-2);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .card-link:hover { text-decoration: underline; }
+
+    /* ── Footer ─────────────────────────────────────────────────────── */
+    .site-footer {
+      background: var(--ink);
+      color: #aaa;
+      text-align: center;
+      padding: 20px;
+      font-family: var(--font-sans);
+      font-size: 12px;
+      margin-top: 40px;
+    }
+    .site-footer a { color: #ccc; }
+
+    /* ── Responsive ─────────────────────────────────────────────────── */
+    @media (max-width: 600px) {
+      .masthead { padding: 18px 12px 14px; }
+      .cards-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ══ MASTHEAD ══════════════════════════════════════════════════════ -->
+<header class="masthead">
+  <div class="masthead-kicker">每日更新 · 全球视野 · 智能未来</div>
+  <h1 class="masthead-title">AI 日报</h1>
+  <div class="masthead-subtitle">全球人工智能产品与技术突破追踪</div>
+  <hr class="masthead-rule" />
+  <div class="masthead-meta">
+    <span id="today-display">加载中…</span>
+    <span>每日北京时间 09:00 自动更新</span>
+    <span>数据来源：全球主流科技媒体</span>
+  </div>
+</header>
+
+<!-- ══ DATE NAVIGATION ═══════════════════════════════════════════════ -->
+<nav class="date-bar" aria-label="日期导航">
+  <label>查看日期：</label>
+  <div class="date-btn-group" id="date-btn-group" role="group" aria-label="快捷日期选择">
+    <!-- Populated by JS -->
+  </div>
+  <input
+    type="date"
+    class="date-picker-input"
+    id="date-picker"
+    title="选择任意日期"
+    aria-label="选择任意日期"
+  />
+</nav>
+
+<!-- ══ MAIN CONTENT ══════════════════════════════════════════════════ -->
+<main>
+  <div class="page-wrap" id="content">
+    <div class="state-msg">
+      <div class="icon">⏳</div>
+      <h2>正在加载…</h2>
+      <p>请稍候</p>
+    </div>
+  </div>
+</main>
+
+<!-- ══ FOOTER ════════════════════════════════════════════════════════ -->
+<footer class="site-footer">
+  <p>
+    AI 日报 &nbsp;|&nbsp; 内容由 AI 自动生成，仅供参考
+    &nbsp;|&nbsp; 数据每日北京时间 09:00 自动更新
+    &nbsp;|&nbsp;
+    <a href="https://github.com/EricArnold6/newspaper-about-ai" target="_blank" rel="noopener">
+      GitHub
+    </a>
+  </p>
+</footer>
+
+<script>
+// ── Constants ───────────────────────────────────────────────────────
+const DATA_BASE = "data/";
+const MANIFEST  = DATA_BASE + "manifest.json";
+
+const SECTION_META = {
+  product_updates:       { icon: "🚀", label: "产品更新" },
+  technical_breakthroughs: { icon: "🔬", label: "技术突破" },
+  interesting_news:      { icon: "✨", label: "趣闻速递" },
+};
+
+const IMPORTANCE_LABEL = { high: "重要", medium: "关注", low: "一般" };
+
+// ── State ────────────────────────────────────────────────────────────
+let availableDates = [];
+let currentDate   = null;
+
+// ── Helpers ──────────────────────────────────────────────────────────
+function formatDisplay(dateStr) {
+  if (!dateStr) return "";
+  const [y, m, d] = dateStr.split("-");
+  return `${y}年${parseInt(m)}月${parseInt(d)}日`;
+}
+
+function todayUTC8() {
+  const now = new Date();
+  const offset = 8 * 60;   // CST = UTC+8
+  const local  = new Date(now.getTime() + (offset - now.getTimezoneOffset()) * 60000);
+  return local.toISOString().slice(0, 10);
+}
+
+function escHtml(str) {
+  return String(str)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+// ── Render helpers ───────────────────────────────────────────────────
+function renderCard(item) {
+  const imp    = (item.importance || "low").toLowerCase();
+  const impLbl = IMPORTANCE_LABEL[imp] || imp;
+  return `
+    <article class="card" role="article">
+      <div class="card-header">
+        <h3 class="card-title">${escHtml(item.title)}</h3>
+        <span class="importance-badge ${imp}" aria-label="重要性：${impLbl}">${impLbl}</span>
+      </div>
+      <p class="card-content">${escHtml(item.content)}</p>
+      <div class="card-footer">
+        <span class="card-source">${escHtml(item.source)}</span>
+        ${item.url ? `<a class="card-link" href="${escHtml(item.url)}" target="_blank" rel="noopener noreferrer">阅读原文 →</a>` : ""}
+      </div>
+    </article>`;
+}
+
+function renderSection(key, items) {
+  if (!items || items.length === 0) return "";
+  const meta = SECTION_META[key] || { icon: "📌", label: key };
+  return `
+    <section class="section" aria-labelledby="section-${key}">
+      <div class="section-header">
+        <span class="section-icon" aria-hidden="true">${meta.icon}</span>
+        <h2 class="section-title" id="section-${key}">${meta.label}</h2>
+        <div class="section-rule" aria-hidden="true"></div>
+      </div>
+      <div class="cards-grid">${items.map(renderCard).join("")}</div>
+    </section>`;
+}
+
+function renderData(data) {
+  const summaryParas = (data.summary || "")
+    .split(/\n+/)
+    .filter(Boolean)
+    .map(p => `<p>${escHtml(p)}</p>`)
+    .join("");
+
+  const sections = Object.entries(data.sections || {})
+    .map(([k, v]) => renderSection(k, v))
+    .join("");
+
+  return `
+    <div class="edition-banner">
+      ${formatDisplay(data.date)} 版 &nbsp;·&nbsp; 共收录 ${data.article_count || 0} 篇原文
+    </div>
+    <div class="headline-block">
+      <div class="headline-label">今日要闻</div>
+      <h2 class="headline-text">${escHtml(data.headline || "")}</h2>
+      <div class="summary-text">${summaryParas}</div>
+    </div>
+    <div class="sections-grid">${sections}</div>`;
+}
+
+// ── Fetch & display ──────────────────────────────────────────────────
+async function loadDate(dateStr) {
+  currentDate = dateStr;
+
+  // Sync controls
+  document.getElementById("date-picker").value = dateStr;
+  document.querySelectorAll(".date-btn").forEach(btn => {
+    btn.classList.toggle("active", btn.dataset.date === dateStr);
+    btn.setAttribute("aria-pressed", btn.dataset.date === dateStr ? "true" : "false");
+  });
+  document.getElementById("today-display").textContent = formatDisplay(dateStr) + " 版";
+
+  const content = document.getElementById("content");
+  content.innerHTML = `
+    <div class="state-msg">
+      <div class="icon">⏳</div>
+      <h2>正在加载 ${formatDisplay(dateStr)} 的内容…</h2>
+    </div>`;
+
+  try {
+    const res = await fetch(`${DATA_BASE}${dateStr}.json?t=${Date.now()}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    content.innerHTML = renderData(data);
+  } catch (err) {
+    content.innerHTML = `
+      <div class="state-msg">
+        <div class="icon">📭</div>
+        <h2>${formatDisplay(dateStr)} 暂无数据</h2>
+        <p>该日期尚未生成 AI 日报，请选择其他日期。<br/>
+           （${escHtml(err.message)}）</p>
+      </div>`;
+  }
+}
+
+// ── Build date buttons ───────────────────────────────────────────────
+function buildDateButtons(dates) {
+  const container = document.getElementById("date-btn-group");
+  container.innerHTML = "";
+
+  // Show at most 7 most recent dates as quick buttons
+  const shown = dates.slice(0, 7);
+  shown.forEach(d => {
+    const btn = document.createElement("button");
+    btn.className = "date-btn";
+    btn.dataset.date = d;
+    btn.setAttribute("role", "radio");
+    btn.setAttribute("aria-pressed", "false");
+    const [y, m, day] = d.split("-");
+    btn.textContent = `${parseInt(m)}/${parseInt(day)}`;
+    btn.title = formatDisplay(d);
+    btn.addEventListener("click", () => loadDate(d));
+    container.appendChild(btn);
+  });
+}
+
+// ── Initialise ───────────────────────────────────────────────────────
+async function init() {
+  // Set date picker max to today (CST)
+  const today = todayUTC8();
+  const picker = document.getElementById("date-picker");
+  picker.max = today;
+
+  picker.addEventListener("change", () => {
+    if (picker.value) loadDate(picker.value);
+  });
+
+  try {
+    const res  = await fetch(`${MANIFEST}?t=${Date.now()}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const manifest = await res.json();
+    availableDates = (manifest.dates || []).sort().reverse();
+  } catch {
+    availableDates = [];
+  }
+
+  buildDateButtons(availableDates);
+
+  // Default: most recent available date, or yesterday
+  const target = availableDates[0] || (() => {
+    const d = new Date(Date.now() - 86400000);
+    return d.toISOString().slice(0, 10);
+  })();
+
+  loadDate(target);
+}
+
+init();
+</script>
+</body>
+</html>
