@@ -44,6 +44,42 @@
 4. 点击 Actions → **Deploy to GitHub Pages** → **Run workflow** 完成首次部署
 5. 访问 `https://<你的用户名>.github.io/newspaper-about-ai/`
 
+## 为什么需要调用 OpenAI 模型服务
+
+NewsAPI 只能返回原始英文新闻（标题 + 摘要 + 链接），这些内容需要经过以下处理才能变成你看到的中文日报：
+
+1. **翻译 & 写作**：将英文标题与摘要转写成流畅的中文新闻条目
+2. **归类分析**：自动将新闻分到「产品更新」「技术突破」「趣闻速递」三个版块
+3. **重要性评级**：为每条新闻打上 `high / medium / low` 标签，帮助读者快速抓住重点
+4. **结构化输出**：生成网页直接可用的 JSON 格式，省去手工编辑
+
+如果不使用大语言模型，以上四步需要人工完成。
+
+### 代码位置
+
+核心逻辑在 **`scripts/fetch_news.py`**：
+
+| 位置 | 说明 |
+|------|------|
+| 第 16 行 | `from openai import OpenAI` — 引入 OpenAI Python SDK |
+| 第 46–118 行 | `summarize_with_openai()` 函数完整定义（整个函数体）— 拼装 Prompt、调用模型、解析返回 JSON |
+| 第 103–117 行 | `client.chat.completions.create(model="gpt-4o", ...)` — 实际 API 调用，多行参数形式，传入英文新闻列表，要求返回结构化中文 JSON |
+| 第 155–156 行 | `client = OpenAI(...)` / `summarize_with_openai(...)` — 在 `main()` 中被调用 |
+
+整个流程如下：
+
+```
+NewsAPI 返回最多 50 篇英文文章
+        │
+        ▼
+summarize_with_openai()          ← scripts/fetch_news.py 第 46–118 行
+  ├─ 构建中文 Prompt，列出文章标题/摘要/链接（最多取前 40 篇）
+  ├─ 调用 gpt-4o（json_object 模式）  ← 第 103–117 行
+  └─ 解析返回的 JSON，写入 data/YYYY-MM-DD.json
+```
+
+---
+
 ## 架构
 
 ```
