@@ -5,6 +5,8 @@ Fetch yesterday's global AI industry news and generate a Chinese-language daily 
 Required environment variables:
   NEWS_API_KEY   - API key from https://newsapi.org/
   OPENAI_API_KEY - API key from https://platform.openai.com/
+               OR
+  GITHUB_TOKEN   - GitHub personal access token or Actions token (uses GitHub Models/Copilot)
 """
 
 import json
@@ -17,6 +19,7 @@ from openai import OpenAI
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 MANIFEST_FILE = os.path.join(DATA_DIR, "manifest.json")
+DEFAULT_MODEL = "gpt-4o"
 
 
 def fetch_ai_news(date_str: str, api_key: str) -> list[dict]:
@@ -43,8 +46,8 @@ def fetch_ai_news(date_str: str, api_key: str) -> list[dict]:
     return [a for a in articles if a.get("title") and a["title"] != "[Removed]"]
 
 
-def summarize_with_openai(articles: list[dict], date_str: str, client: OpenAI) -> dict:
-    """Use GPT-4o to curate and summarise the articles into structured Chinese JSON."""
+def summarize_with_llm(articles: list[dict], date_str: str, client: OpenAI, model: str = "gpt-4o") -> dict:
+    """Use an LLM to curate and summarise the articles into structured Chinese JSON."""
     articles_text = "\n\n".join(
         f"Title: {a['title']}\n"
         f"Source: {a['source']['name']}\n"
@@ -101,7 +104,7 @@ def summarize_with_openai(articles: list[dict], date_str: str, client: OpenAI) -
 """
 
     response = client.chat.completions.create(
-        model="gpt-4o",
+        model=model,
         messages=[
             {
                 "role": "system",
@@ -133,12 +136,16 @@ def save_manifest(manifest: dict) -> None:
 def main() -> None:
     news_api_key = os.environ.get("NEWS_API_KEY")
     openai_api_key = os.environ.get("OPENAI_API_KEY")
+    github_token = os.environ.get("GITHUB_TOKEN")
 
     if not news_api_key:
         print("ERROR: NEWS_API_KEY environment variable is not set.", file=sys.stderr)
         sys.exit(1)
-    if not openai_api_key:
-        print("ERROR: OPENAI_API_KEY environment variable is not set.", file=sys.stderr)
+    if not openai_api_key and not github_token:
+        print(
+            "ERROR: Neither OPENAI_API_KEY nor GITHUB_TOKEN environment variable is set.",
+            file=sys.stderr,
+        )
         sys.exit(1)
 
     yesterday = datetime.now(timezone.utc) - timedelta(days=1)
@@ -152,8 +159,18 @@ def main() -> None:
         sys.exit(0)
 
     print(f"Found {len(articles)} articles. Generating summary …")
-    client = OpenAI(api_key=openai_api_key)
-    summary = summarize_with_openai(articles, date_str, client)
+    if openai_api_key:
+        client = OpenAI(api_key=openai_api_key)
+        model = DEFAULT_MODEL
+        print("Using OpenAI API.")
+    else:
+        client = OpenAI(
+            base_url="https://models.inference.ai.azure.com",
+            api_key=github_token,
+        )
+        model = DEFAULT_MODEL
+        print("Using GitHub Models (Copilot) API.")
+    summary = summarize_with_llm(articles, date_str, client, model)
 
     os.makedirs(DATA_DIR, exist_ok=True)
     output: dict = {

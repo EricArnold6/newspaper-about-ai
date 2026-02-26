@@ -30,6 +30,21 @@
 4. 新账号通常会赠送免费额度可直接使用（具体以注册时页面提示为准）；若额度用尽，进入 [https://platform.openai.com/settings/billing](https://platform.openai.com/settings/billing) 充值
 5. 本项目每次运行约消耗 2000–5000 个 Token（输入新闻摘要 + 输出结构化 JSON），实际费用请参考 [OpenAI 官方定价页面](https://openai.com/api/pricing/)，每月用量极少
 
+### GITHUB_TOKEN（免费替代方案，使用 GitHub Models / Copilot）
+
+不想使用 OpenAI 付费服务？可以改用 **GitHub Models**（GitHub Copilot 提供的大模型服务），完全免费，无需信用卡。
+
+**在 GitHub Actions 中（推荐）：**
+
+无需任何额外配置！工作流已自动注入 `GITHUB_TOKEN`，只要不设置 `OPENAI_API_KEY` Secret，脚本就会自动切换到 GitHub Models。
+
+**在本地运行时：**
+
+1. 打开 [https://github.com/settings/tokens](https://github.com/settings/tokens)，生成一个 Personal Access Token（无需勾选任何权限范围）
+2. 将 token 填入 `.env` 文件的 `GITHUB_TOKEN` 字段
+
+> **优先级说明：** 若同时设置了 `OPENAI_API_KEY` 和 `GITHUB_TOKEN`，脚本优先使用 OpenAI。若只设置了 `GITHUB_TOKEN`，则自动使用 GitHub Models（`https://models.inference.ai.azure.com`）。
+
 > **安全提示：** API 密钥属于私密凭证，请勿提交到代码仓库或泄露给他人。本项目通过 GitHub Secrets 安全传递密钥，代码中不会出现明文密钥。
 
 ---
@@ -39,7 +54,9 @@
 1. **Fork 本仓库**（点击右上角 Fork 按钮）
 2. **添加 Repository Secrets**（仓库页面 → Settings → Secrets and variables → Actions → New repository secret）：
    - 名称 `NEWS_API_KEY`，值填入上面获取的 NewsAPI 密钥
-   - 名称 `OPENAI_API_KEY`，值填入上面获取的 OpenAI 密钥
+   - **大模型服务二选一**：
+     - （方案 A，付费）名称 `OPENAI_API_KEY`，值填入 OpenAI 密钥
+     - （方案 B，免费）无需添加任何额外 Secret，`GITHUB_TOKEN` 由 GitHub Actions 自动提供
 3. **开启 GitHub Pages**（Settings → Pages → Source → **GitHub Actions**）
 4. 点击 Actions → **Deploy to GitHub Pages** → **Run workflow** 完成首次部署
 5. 访问 `https://<你的用户名>.github.io/newspaper-about-ai/`
@@ -80,10 +97,10 @@ NewsAPI 只能返回原始英文新闻（标题 + 摘要 + 链接），这些内
 
 | 位置 | 说明 |
 |------|------|
-| 第 16 行 | `from openai import OpenAI` — 引入 OpenAI Python SDK |
-| 第 46–118 行 | `summarize_with_openai()` 函数完整定义（整个函数体）— 拼装 Prompt、调用模型、解析返回 JSON |
-| 第 103–117 行 | `client.chat.completions.create(model="gpt-4o", ...)` — 实际 API 调用，多行参数形式，传入英文新闻列表，要求返回结构化中文 JSON |
-| 第 155–156 行 | `client = OpenAI(...)` / `summarize_with_openai(...)` — 在 `main()` 中被调用 |
+| 第 16 行 | `from openai import OpenAI` — 引入 OpenAI Python SDK（GitHub Models 也使用同一 SDK） |
+| 第 46–120 行 | `summarize_with_llm()` 函数完整定义（整个函数体）— 拼装 Prompt、调用模型、解析返回 JSON |
+| 第 103–117 行 | `client.chat.completions.create(model=model, ...)` — 实际 API 调用，根据环境变量自动选择 OpenAI 或 GitHub Models |
+| 第 133–172 行 | `main()` — 检测 `OPENAI_API_KEY` / `GITHUB_TOKEN`，构建对应 client 后调用 `summarize_with_llm()` |
 
 整个流程如下：
 
@@ -91,9 +108,9 @@ NewsAPI 只能返回原始英文新闻（标题 + 摘要 + 链接），这些内
 NewsAPI 返回最多 50 篇英文文章
         │
         ▼
-summarize_with_openai()          ← scripts/fetch_news.py 第 46–118 行
+summarize_with_llm()          ← scripts/fetch_news.py 第 46–120 行
   ├─ 构建中文 Prompt，列出文章标题/摘要/链接（最多取前 40 篇）
-  ├─ 调用 gpt-4o（json_object 模式）  ← 第 103–117 行
+  ├─ 调用 gpt-4o（json_object 模式）  ← OpenAI 或 GitHub Models
   └─ 解析返回的 JSON，写入 data/YYYY-MM-DD.json
 ```
 
@@ -118,5 +135,5 @@ push to main / workflow_dispatch
 ## 技术栈
 
 - **前端**：纯 HTML/CSS/JS，无构建步骤，无依赖
-- **数据获取**：Python 3 + [NewsAPI](https://newsapi.org/) + [OpenAI API](https://platform.openai.com/)
+- **数据获取**：Python 3 + [NewsAPI](https://newsapi.org/) + [OpenAI API](https://platform.openai.com/) 或 [GitHub Models](https://github.com/marketplace/models)
 - **部署**：GitHub Actions + GitHub Pages（免费静态托管）
