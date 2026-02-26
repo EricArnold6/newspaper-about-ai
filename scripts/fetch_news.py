@@ -151,6 +151,13 @@ def main() -> None:
     yesterday = datetime.now(timezone.utc) - timedelta(days=1)
     date_str = yesterday.strftime("%Y-%m-%d")
 
+    # Skip if data for this date already exists
+    manifest = load_manifest()
+    output_file = os.path.join(DATA_DIR, f"{date_str}.json")
+    if date_str in manifest.get("dates", []) and os.path.exists(output_file):
+        print(f"Data for {date_str} already exists. Skipping.")
+        sys.exit(0)
+
     print(f"Fetching AI news for {date_str} …")
     articles = fetch_ai_news(date_str, news_api_key)
 
@@ -180,12 +187,10 @@ def main() -> None:
         **summary,
     }
 
-    output_file = os.path.join(DATA_DIR, f"{date_str}.json")
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     print(f"Saved summary to {output_file}")
 
-    manifest = load_manifest()
     if date_str not in manifest["dates"]:
         manifest["dates"].append(date_str)
         manifest["dates"].sort(reverse=True)

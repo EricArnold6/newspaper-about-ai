@@ -376,8 +376,10 @@
 
 <script>
 // ── Constants ───────────────────────────────────────────────────────
-const DATA_BASE = "data/";
-const MANIFEST  = DATA_BASE + "manifest.json";
+const DATA_BASE   = "data/";
+const MANIFEST    = DATA_BASE + "manifest.json";
+const GITHUB_REPO = "EricArnold6/newspaper-about-ai";
+const WORKFLOW_ID = "daily-update.yml";
 
 const SECTION_META = {
   product_updates:       { icon: "🚀", label: "产品更新" },
@@ -468,6 +470,39 @@ function renderData(data) {
     <div class="sections-grid">${sections}</div>`;
 }
 
+// ── Trigger daily update workflow ────────────────────────────────────
+async function triggerDailyUpdate() {
+  try {
+    const res = await fetch(
+      `https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`,
+      {
+        method: "POST",
+        headers: {
+          "Accept": "application/vnd.github+json",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ ref: "main" }),
+      }
+    );
+    return res.status === 204;
+  } catch (err) {
+    console.warn("Could not trigger daily update workflow:", err);
+    return false;
+  }
+}
+
+// ── Show today-pending state ─────────────────────────────────────────
+function showTodayPending(dateStr) {
+  document.getElementById("today-display").textContent = formatDisplay(dateStr) + " 版";
+  const content = document.getElementById("content");
+  content.innerHTML = `
+    <div class="state-msg">
+      <div class="icon">⏳</div>
+      <h2>今日数据正在生成中</h2>
+      <p>${formatDisplay(dateStr)} 的 AI 日报尚未生成，系统正在自动更新，请稍后刷新页面。</p>
+    </div>`;
+}
+
 // ── Fetch & display ──────────────────────────────────────────────────
 async function loadDate(dateStr) {
   currentDate = dateStr;
@@ -546,13 +581,22 @@ async function init() {
 
   buildDateButtons(availableDates);
 
-  // Default: most recent available date, or yesterday
-  const target = availableDates[0] || (() => {
-    const d = new Date(Date.now() - 86400000);
-    return d.toISOString().slice(0, 10);
-  })();
+  if (availableDates.includes(today)) {
+    // Today's news is already available — load it directly
+    loadDate(today);
+  } else {
+    // Today's news is not yet available — show pending state and trigger workflow
+    showTodayPending(today);
+    triggerDailyUpdate();
 
-  loadDate(target);
+    // Also pre-select the date picker and buttons to today so the user can
+    // manually refresh and pick other dates
+    document.getElementById("date-picker").value = today;
+    document.querySelectorAll(".date-btn").forEach(btn => {
+      btn.classList.toggle("active", btn.dataset.date === today);
+      btn.setAttribute("aria-pressed", btn.dataset.date === today ? "true" : "false");
+    });
+  }
 }
 
 init();
