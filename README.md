@@ -44,6 +44,25 @@
 4. 点击 Actions → **Deploy to GitHub Pages** → **Run workflow** 完成首次部署
 5. 访问 `https://<你的用户名>.github.io/newspaper-about-ai/`
 
+## 本地运行
+
+如需在本机测试脚本，将 `.env.example` 复制为 `.env` 并填入真实密钥：
+
+```bash
+cp .env.example .env
+# 用编辑器打开 .env，将两个占位符替换为真实的 API Key
+```
+
+然后执行：
+
+```bash
+pip install -r requirements.txt
+set -a && source .env && set +a   # Linux/macOS：加载环境变量
+python scripts/fetch_news.py
+```
+
+> **注意：** `.env` 文件已被 `.gitignore` 忽略，不会被提交到仓库。
+
 ## 为什么需要调用 OpenAI 模型服务
 
 NewsAPI 只能返回原始英文新闻（标题 + 摘要 + 链接），这些内容需要经过以下处理才能变成你看到的中文日报：

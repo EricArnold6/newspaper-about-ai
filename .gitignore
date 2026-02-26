@@ -11,6 +11,9 @@ build/
 venv/
 env/
 
+# Local environment variables (never commit secrets)
+.env
+
 # Editor
 .vscode/
 .idea/
