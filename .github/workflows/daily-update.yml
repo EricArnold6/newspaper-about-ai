@@ -7,16 +7,11 @@ on:
   workflow_dispatch: {}   # allow manual trigger
 
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: write   # needed to commit new data files
 
 jobs:
-  fetch-and-deploy:
+  fetch:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repository
@@ -43,12 +38,3 @@ jobs:
           git add data/
           git diff --cached --quiet || git commit -m "chore: add AI news summary for $(date -u +%Y-%m-%d)"
           git push
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: "."   # serve the whole repo root (index.html + data/)
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
