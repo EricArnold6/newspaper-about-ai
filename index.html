@@ -504,7 +504,7 @@ const I18N = {
     "no-data-title": (d) => `${formatDisplayZh(d)} 暂无数据`,
     "no-data-body":  "该日期尚未生成 AI 日报，请选择其他日期。",
     "loading-date":  (d) => `正在加载 ${formatDisplayZh(d)} 的内容…`,
-    "pending-title": "今日数据正在生成中",
+    "pending-title": "数据正在生成中",
     "pending-body":  (d, trig, s) => `${formatDisplayZh(d)} 的 AI 日报尚未生成。${trig ? "已触发数据更新，" : "系统将在每日北京时间 09:00 / 15:00 / 21:00 自动更新，"}将在 <strong id="pending-countdown">${s}</strong> 秒后自动检查。`,
     "check-now":     "立即检查",
     "generating-banner": (d) => `⏳ ${formatDisplayZh(d)} 的日报正在生成中，稍后刷新可查看最新版`,
@@ -532,7 +532,7 @@ const I18N = {
     "no-data-title": (d) => `No data for ${formatDisplayEn(d)}`,
     "no-data-body":  "This edition has not been generated yet. Please select another date.",
     "loading-date":  (d) => `Loading ${formatDisplayEn(d)}…`,
-    "pending-title": "Today's data is being generated",
+    "pending-title": "Data is being generated",
     "pending-body":  (d, trig, s) => `The digest for ${formatDisplayEn(d)} hasn't been generated yet. ${trig ? "Update triggered. " : "Auto-update runs at 09:00 / 15:00 / 21:00 CST. "}Auto-checking in <strong id="pending-countdown">${s}</strong> seconds.`,
     "check-now":     "Check Now",
     "generating-banner": (d) => `⏳ ${formatDisplayEn(d)} digest is being generated. Refresh shortly to view the latest edition.`,
@@ -715,7 +715,7 @@ function renderData(data) {
 }
 
 // ── Trigger update workflow via GitHub API (requires WORKFLOW_TOKEN) ─
-async function triggerWorkflowUpdate() {
+async function triggerWorkflowUpdate(date = "") {
   if (!WORKFLOW_TOKEN) return false;
   try {
     const res = await fetch(
@@ -727,7 +727,7 @@ async function triggerWorkflowUpdate() {
           Accept: "application/vnd.github.v3+json",
           "Content-Type": "application/json",
         },
-        body: JSON.stringify({ ref: "main" }),
+        body: JSON.stringify(date ? { ref: "main", inputs: { date } } : { ref: "main" }),
       }
     );
     return res.status === 204;
@@ -742,7 +742,7 @@ let _pendingTimer = null;
 async function showTodayPending(dateStr) {
   document.getElementById("today-display").textContent = t("edition-of", dateStr);
 
-  const triggered = await triggerWorkflowUpdate();
+  const triggered = await triggerWorkflowUpdate(dateStr);
   const content   = document.getElementById("content");
 
   function renderPending(secondsLeft) {
@@ -817,12 +817,8 @@ async function loadDate(dateStr) {
     const data = await res.json();
     content.innerHTML = renderData(data);
   } catch (err) {
-    content.innerHTML = `
-      <div class="state-msg">
-        <div class="icon">📭</div>
-        <h2>${escHtml(t("no-data-title", dateStr))}</h2>
-        <p>${escHtml(t("no-data-body"))}<br/>(${escHtml(err.message)})</p>
-      </div>`;
+    console.debug(`[loadDate] No data for ${dateStr}:`, err.message);
+    showTodayPending(dateStr);
   }
 }
 
