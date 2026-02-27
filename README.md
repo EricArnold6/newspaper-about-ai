@@ -53,7 +53,10 @@ sources:
 3. 点击 Actions → **Deploy to GitHub Pages** → **Run workflow** 完成首次部署
 4. 访问 `https://<你的用户名>.github.io/newspaper-about-ai/`
 
-> **无需配置任何 Secret**：本项目完全通过公开 RSS 订阅源获取数据，不调用任何付费 API。
+> **按需更新（可选）**：若希望在用户访问时自动触发当天数据生成，请创建一个细粒度 PAT（Fine-grained token），
+> 权限仅需 **Actions: Read and Write**，然后在仓库 Settings → Secrets and variables → Actions 中
+> 添加名为 **`WORKFLOW_DISPATCH_TOKEN`** 的 Secret，部署工作流会自动将其注入前端。
+> 不设置此 Secret 时，页面仍可正常使用，但需等待当天定时任务（09:00 / 15:00 / 21:00 CST）运行后才能看到今日数据。
 
 ## 本地运行
 
@@ -65,17 +68,22 @@ python scripts/fetch_news.py
 ## 架构
 
 ```
-每日 cron (01:00 UTC)
+每日 cron (01:00 UTC = 09:00 CST)
   └─ Daily AI News Update workflow
        ├─ 读取 sources.yml 中配置的 RSS/Atom 订阅源
-       ├─ 抓取昨日各订阅源文章
+       ├─ 抓取昨日（CST）各订阅源文章
        ├─ 保存 data/YYYY-MM-DD.json
        ├─ 更新 data/manifest.json
        └─ git push → 触发 Deploy workflow
 
 push to main / workflow_dispatch
   └─ Deploy to GitHub Pages workflow
+       ├─ 将 WORKFLOW_DISPATCH_TOKEN secret 注入 index.html（如已配置）
        └─ 将 index.html + data/ 发布到 GitHub Pages
+
+用户访问（今日数据缺失时）
+  └─ 前端 JS 调用 GitHub Actions API 触发 workflow_dispatch
+       └─ Daily AI News Update 运行并生成今日数据
 ```
 
 ## 技术栈

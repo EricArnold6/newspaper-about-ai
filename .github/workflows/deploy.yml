@@ -32,6 +32,27 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Inject workflow dispatch token
+        env:
+          WORKFLOW_DISPATCH_TOKEN: ${{ secrets.WORKFLOW_DISPATCH_TOKEN }}
+        run: |
+          python3 - << 'EOF'
+          import json, os
+          token = os.environ.get('WORKFLOW_DISPATCH_TOKEN', '')
+          if token:
+              with open('index.html', 'r', encoding='utf-8') as f:
+                  content = f.read()
+              content = content.replace(
+                  'const WORKFLOW_TOKEN = "";',
+                  f'const WORKFLOW_TOKEN = {json.dumps(token)};'
+              )
+              with open('index.html', 'w', encoding='utf-8') as f:
+                  f.write(content)
+              print("WORKFLOW_DISPATCH_TOKEN injected into index.html")
+          else:
+              print("No WORKFLOW_DISPATCH_TOKEN secret set; on-demand updates disabled")
+          EOF
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
