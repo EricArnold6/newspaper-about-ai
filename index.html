@@ -187,6 +187,19 @@
       border-radius: var(--radius-pill);
       font-size: 14px;
     }
+    .state-msg .trigger-btn {
+      display: inline-block;
+      margin-top: 24px;
+      background: var(--accent);
+      color: #fff;
+      padding: 10px 24px;
+      border-radius: var(--radius-pill);
+      font-size: 14px;
+      font-family: inherit;
+      font-weight: 500;
+      text-decoration: none;
+    }
+    .state-msg .trigger-btn:hover { background: var(--accent-hover); }
 
     /* ── Edition banner ──────────────────────────────────────────────── */
     .edition-banner {
@@ -483,6 +496,7 @@ const I18N = {
     "pending-title": "数据正在生成中",
     "pending-body":  (d, trig, s) => `${formatDisplayZh(d)} 的 AI 日报尚未生成。${trig ? "已触发数据更新，" : "系统将在每日北京时间 09:00 / 15:00 / 21:00 自动更新，"}将在 <strong id="pending-countdown">${s}</strong> 秒后自动检查。`,
     "check-now":     "立即检查",
+    "trigger-manually": "在 GitHub Actions 上立即触发",
     "generating-banner": (d) => `⏳ ${formatDisplayZh(d)} 的日报正在生成中，稍后刷新可查看最新版`,
     "close":         "关闭",
     "section-count": (n) => `${n} 篇`,
@@ -511,6 +525,7 @@ const I18N = {
     "pending-title": "Data is being generated",
     "pending-body":  (d, trig, s) => `The digest for ${formatDisplayEn(d)} hasn't been generated yet. ${trig ? "Update triggered. " : "Auto-update runs at 09:00 / 15:00 / 21:00 CST. "}Auto-checking in <strong id="pending-countdown">${s}</strong> seconds.`,
     "check-now":     "Check Now",
+    "trigger-manually": "Trigger Now on GitHub Actions",
     "generating-banner": (d) => `⏳ ${formatDisplayEn(d)} digest is being generated. Refresh shortly to view the latest edition.`,
     "close":         "Close",
     "section-count": (n) => `${n} articles`,
@@ -723,11 +738,15 @@ async function showTodayPending(dateStr) {
   const content   = document.getElementById("content");
 
   function renderPending(secondsLeft) {
+    const ghActionsUrl = `https://github.com/${GITHUB_REPO}/actions/workflows/daily-update.yml`;
     content.innerHTML = `
       <div class="state-msg">
         <div class="icon">⏳</div>
         <h2>${escHtml(t("pending-title"))}</h2>
         <p>${t("pending-body", dateStr, triggered, secondsLeft)}</p>
+        ${!triggered ? `<a href="${ghActionsUrl}" target="_blank" rel="noopener noreferrer"
+          class="trigger-btn">
+          ${escHtml(t("trigger-manually"))}</a>` : ""}
         <button onclick="checkForNewData('${dateStr}')">${escHtml(t("check-now"))}</button>
       </div>`;
   }
