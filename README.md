@@ -8,121 +8,67 @@
 
 ## 功能
 
-- 📰 **每日自动更新**：每天凌晨 1:00 UTC（北京时间 09:00）自动抓取前一天的全球 AI 资讯，通过 GPT-4o 整理成中文日报
-- 🗂️ **三大版块**：产品更新 / 技术突破 / 趣闻速递，每条新闻标注重要程度
+- 📰 **每日自动更新**：每天凌晨 1:00 UTC（北京时间 09:00）自动从配置的 RSS/Atom 订阅源抓取前一天的全球 AI 资讯
+- 🗂️ **三大版块**：产品更新 / 技术突破 / 趣闻速递，版块和来源均可在 `sources.yml` 中自由配置
 - 📅 **历史回顾**：点击日期按钮或选择日历，可查阅任意历史一天的日报
 - 📱 **响应式设计**：手机、平板、电脑均可正常访问
+- 🔑 **无需 API 密钥**：仅依赖公开 RSS/Atom 订阅源，无需注册任何第三方服务
 
-## 如何获取 API 密钥
+## 配置新闻源
 
-### NEWS_API_KEY（免费）
+编辑仓库根目录下的 **`sources.yml`** 文件即可添加、修改或删除订阅源：
 
-1. 打开 [https://newsapi.org/register](https://newsapi.org/register)
-2. 填写姓名、邮箱、密码，点击 **Submit** 完成注册（无需信用卡）
-3. 注册成功后页面会直接显示你的 API Key，同时也会发送到注册邮箱
-4. 免费计划限制：每天最多 100 次请求，仅能查询最近 1 个月的新闻——对本项目每日一次的调用完全够用
+```yaml
+sections:
+  product_updates:
+    label: "产品更新"
+    icon: "🚀"
+  technical_breakthroughs:
+    label: "技术突破"
+    icon: "🔬"
+  interesting_news:
+    label: "趣闻速递"
+    icon: "✨"
 
-### OPENAI_API_KEY（按量付费，用量极少）
+sources:
+  - name: "TechCrunch AI"
+    url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+    section: "product_updates"
 
-1. 打开 [https://platform.openai.com/signup](https://platform.openai.com/signup)，用邮箱或 Google/Microsoft 账号注册
-2. 登录后进入 [https://platform.openai.com/api-keys](https://platform.openai.com/api-keys)
-3. 点击 **Create new secret key**，复制生成的密钥（只显示一次，请立即保存）
-4. 新账号通常会赠送免费额度可直接使用（具体以注册时页面提示为准）；若额度用尽，进入 [https://platform.openai.com/settings/billing](https://platform.openai.com/settings/billing) 充值
-5. 本项目每次运行约消耗 2000–5000 个 Token（输入新闻摘要 + 输出结构化 JSON），实际费用请参考 [OpenAI 官方定价页面](https://openai.com/api/pricing/)，每月用量极少
+  - name: "MIT Technology Review"
+    url: "https://www.technologyreview.com/feed/"
+    section: "technical_breakthroughs"
+  # 在此处添加更多订阅源 …
+```
 
-### GITHUB_TOKEN（免费替代方案，使用 GitHub Models / Copilot）
-
-不想使用 OpenAI 付费服务？可以改用 **GitHub Models**（GitHub Copilot 提供的大模型服务），完全免费，无需信用卡。
-
-**在 GitHub Actions 中（推荐）：**
-
-无需任何额外配置！工作流已自动注入 `GITHUB_TOKEN`，只要不设置 `OPENAI_API_KEY` Secret，脚本就会自动切换到 GitHub Models。
-
-**在本地运行时：**
-
-1. 打开 [https://github.com/settings/tokens](https://github.com/settings/tokens)，生成一个 Personal Access Token（无需勾选任何权限范围）
-2. 将 token 填入 `.env` 文件的 `GITHUB_TOKEN` 字段
-
-> **优先级说明：** 若同时设置了 `OPENAI_API_KEY` 和 `GITHUB_TOKEN`，脚本优先使用 OpenAI。若只设置了 `GITHUB_TOKEN`，则自动使用 GitHub Models（`https://models.inference.ai.azure.com`）。
-
-> **安全提示：** API 密钥属于私密凭证，请勿提交到代码仓库或泄露给他人。本项目通过 GitHub Secrets 安全传递密钥，代码中不会出现明文密钥。
+- `sections`：定义版块的显示名称和图标，可自定义
+- `sources`：每个订阅源需提供 `name`（显示名称）、`url`（RSS/Atom 地址）、`section`（所属版块 key）
 
 ---
 
 ## 快速部署（Fork 后自行使用）
 
 1. **Fork 本仓库**（点击右上角 Fork 按钮）
-2. **添加 Repository Secrets**（仓库页面 → Settings → Secrets and variables → Actions → New repository secret）：
-   - 名称 `NEWS_API_KEY`，值填入上面获取的 NewsAPI 密钥
-   - **大模型服务二选一**：
-     - （方案 A，付费）名称 `OPENAI_API_KEY`，值填入 OpenAI 密钥
-     - （方案 B，免费）无需添加任何额外 Secret，`GITHUB_TOKEN` 由 GitHub Actions 自动提供
-3. **开启 GitHub Pages**（Settings → Pages → Source → **GitHub Actions**）
-4. 点击 Actions → **Deploy to GitHub Pages** → **Run workflow** 完成首次部署
-5. 访问 `https://<你的用户名>.github.io/newspaper-about-ai/`
+2. **开启 GitHub Pages**（Settings → Pages → Source → **GitHub Actions**）
+3. 点击 Actions → **Deploy to GitHub Pages** → **Run workflow** 完成首次部署
+4. 访问 `https://<你的用户名>.github.io/newspaper-about-ai/`
+
+> **无需配置任何 Secret**：本项目完全通过公开 RSS 订阅源获取数据，不调用任何付费 API。
 
 ## 本地运行
 
-如需在本机测试脚本，将 `.env.example` 复制为 `.env` 并填入真实密钥：
-
-```bash
-cp .env.example .env
-# 用编辑器打开 .env，将两个占位符替换为真实的 API Key
-```
-
-然后执行：
-
 ```bash
 pip install -r requirements.txt
-set -a && source .env && set +a   # Linux/macOS：加载环境变量
 python scripts/fetch_news.py
 ```
-
-> **注意：** `.env` 文件已被 `.gitignore` 忽略，不会被提交到仓库。
-
-## 为什么需要调用 OpenAI 模型服务
-
-NewsAPI 只能返回原始英文新闻（标题 + 摘要 + 链接），这些内容需要经过以下处理才能变成你看到的中文日报：
-
-1. **翻译 & 写作**：将英文标题与摘要转写成流畅的中文新闻条目
-2. **归类分析**：自动将新闻分到「产品更新」「技术突破」「趣闻速递」三个版块
-3. **重要性评级**：为每条新闻打上 `high / medium / low` 标签，帮助读者快速抓住重点
-4. **结构化输出**：生成网页直接可用的 JSON 格式，省去手工编辑
-
-如果不使用大语言模型，以上四步需要人工完成。
-
-### 代码位置
-
-核心逻辑在 **`scripts/fetch_news.py`**：
-
-| 位置 | 说明 |
-|------|------|
-| 第 16 行 | `from openai import OpenAI` — 引入 OpenAI Python SDK（GitHub Models 也使用同一 SDK） |
-| 第 46–120 行 | `summarize_with_llm()` 函数完整定义（整个函数体）— 拼装 Prompt、调用模型、解析返回 JSON |
-| 第 103–117 行 | `client.chat.completions.create(model=model, ...)` — 实际 API 调用，根据环境变量自动选择 OpenAI 或 GitHub Models |
-| 第 133–172 行 | `main()` — 检测 `OPENAI_API_KEY` / `GITHUB_TOKEN`，构建对应 client 后调用 `summarize_with_llm()` |
-
-整个流程如下：
-
-```
-NewsAPI 返回最多 50 篇英文文章
-        │
-        ▼
-summarize_with_llm()          ← scripts/fetch_news.py 第 46–120 行
-  ├─ 构建中文 Prompt，列出文章标题/摘要/链接（最多取前 40 篇）
-  ├─ 调用 gpt-4o（json_object 模式）  ← OpenAI 或 GitHub Models
-  └─ 解析返回的 JSON，写入 data/YYYY-MM-DD.json
-```
-
----
 
 ## 架构
 
 ```
 每日 cron (01:00 UTC)
   └─ Daily AI News Update workflow
-       ├─ NewsAPI 获取昨日 AI 新闻 (最多 50 篇)
-       ├─ GPT-4o 生成结构化中文摘要
+       ├─ 读取 sources.yml 中配置的 RSS/Atom 订阅源
+       ├─ 抓取昨日各订阅源文章
        ├─ 保存 data/YYYY-MM-DD.json
        ├─ 更新 data/manifest.json
        └─ git push → 触发 Deploy workflow
@@ -135,5 +81,5 @@ push to main / workflow_dispatch
 ## 技术栈
 
 - **前端**：纯 HTML/CSS/JS，无构建步骤，无依赖
-- **数据获取**：Python 3 + [NewsAPI](https://newsapi.org/) + [OpenAI API](https://platform.openai.com/) 或 [GitHub Models](https://github.com/marketplace/models)
+- **数据获取**：Python 3 + [feedparser](https://feedparser.readthedocs.io/)（RSS/Atom 解析）+ [PyYAML](https://pyyaml.org/)（配置读取）
 - **部署**：GitHub Actions + GitHub Pages（免费静态托管）

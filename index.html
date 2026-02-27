@@ -379,7 +379,6 @@
 const DATA_BASE   = "data/";
 const MANIFEST    = DATA_BASE + "manifest.json";
 const GITHUB_REPO = "EricArnold6/newspaper-about-ai";
-const WORKFLOW_ID = "daily-update.yml";
 
 const SECTION_META = {
   product_updates:       { icon: "🚀", label: "产品更新" },
@@ -433,9 +432,12 @@ function renderCard(item) {
     </article>`;
 }
 
-function renderSection(key, items) {
+function renderSection(key, items, metaOverrides) {
   if (!items || items.length === 0) return "";
-  const meta = SECTION_META[key] || { icon: "📌", label: key };
+  const base = SECTION_META[key] || { icon: "📌", label: key };
+  const meta = metaOverrides && metaOverrides[key]
+    ? { icon: metaOverrides[key].icon || base.icon, label: metaOverrides[key].label || base.label }
+    : base;
   return `
     <section class="section" aria-labelledby="section-${key}">
       <div class="section-header">
@@ -454,42 +456,27 @@ function renderData(data) {
     .map(p => `<p>${escHtml(p)}</p>`)
     .join("");
 
+  const headlineBlock = data.headline ? `
+    <div class="headline-block">
+      <div class="headline-label">今日要闻</div>
+      <h2 class="headline-text">${escHtml(data.headline)}</h2>
+      ${summaryParas ? `<div class="summary-text">${summaryParas}</div>` : ""}
+    </div>` : "";
+
   const sections = Object.entries(data.sections || {})
-    .map(([k, v]) => renderSection(k, v))
+    .map(([k, v]) => renderSection(k, v, data.sections_meta))
     .join("");
 
   return `
     <div class="edition-banner">
       ${formatDisplay(data.date)} 版 &nbsp;·&nbsp; 共收录 ${data.article_count || 0} 篇原文
     </div>
-    <div class="headline-block">
-      <div class="headline-label">今日要闻</div>
-      <h2 class="headline-text">${escHtml(data.headline || "")}</h2>
-      <div class="summary-text">${summaryParas}</div>
-    </div>
+    ${headlineBlock}
     <div class="sections-grid">${sections}</div>`;
 }
 
 // ── Trigger daily update workflow ────────────────────────────────────
-async function triggerDailyUpdate() {
-  try {
-    const res = await fetch(
-      `https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`,
-      {
-        method: "POST",
-        headers: {
-          "Accept": "application/vnd.github+json",
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ ref: "main" }),
-      }
-    );
-    return res.status === 204;
-  } catch (err) {
-    console.warn("Could not trigger daily update workflow:", err);
-    return false;
-  }
-}
+// (Removed: workflow no longer requires API tokens and runs on schedule only)
 
 // ── Show today-pending state ─────────────────────────────────────────
 function showTodayPending(dateStr) {
@@ -499,7 +486,7 @@ function showTodayPending(dateStr) {
     <div class="state-msg">
       <div class="icon">⏳</div>
       <h2>今日数据正在生成中</h2>
-      <p>${formatDisplay(dateStr)} 的 AI 日报尚未生成，系统正在自动更新，请稍后刷新页面。</p>
+      <p>${formatDisplay(dateStr)} 的 AI 日报尚未生成，系统将于每日北京时间 09:00 自动更新，请稍后刷新页面。</p>
     </div>`;
 }
 
@@ -585,9 +572,8 @@ async function init() {
     // Today's news is already available — load it directly
     loadDate(today);
   } else {
-    // Today's news is not yet available — show pending state and trigger workflow
+    // Today's news is not yet available — show pending state
     showTodayPending(today);
-    triggerDailyUpdate();
 
     // Also pre-select the date picker and buttons to today so the user can
     // manually refresh and pick other dates

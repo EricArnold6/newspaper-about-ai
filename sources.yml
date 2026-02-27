@@ -1,0 +1,53 @@
+# 新闻源配置文件
+# 在此处添加、修改或删除 RSS/Atom 订阅源。
+# 每个源需指定所属的 section（版块），版块名称需与下方 sections 中的 key 对应。
+#
+# sections: 定义版块的展示名称和图标
+# sources:  定义 RSS/Atom 订阅源列表
+
+sections:
+  product_updates:
+    label: "产品更新"
+    icon: "🚀"
+  technical_breakthroughs:
+    label: "技术突破"
+    icon: "🔬"
+  interesting_news:
+    label: "趣闻速递"
+    icon: "✨"
+
+sources:
+  # ── 产品更新 ─────────────────────────────────────────────────────────
+  - name: "TechCrunch AI"
+    url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+    section: "product_updates"
+
+  - name: "VentureBeat AI"
+    url: "https://venturebeat.com/ai/feed/"
+    section: "product_updates"
+
+  - name: "The Verge AI"
+    url: "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml"
+    section: "product_updates"
+
+  # ── 技术突破 ─────────────────────────────────────────────────────────
+  - name: "MIT Technology Review"
+    url: "https://www.technologyreview.com/feed/"
+    section: "technical_breakthroughs"
+
+  - name: "Ars Technica AI"
+    url: "https://feeds.arstechnica.com/arstechnica/technology-lab"
+    section: "technical_breakthroughs"
+
+  - name: "DeepMind Blog"
+    url: "https://deepmind.google/blog/rss.xml"
+    section: "technical_breakthroughs"
+
+  # ── 趣闻速递 ─────────────────────────────────────────────────────────
+  - name: "Wired AI"
+    url: "https://www.wired.com/feed/category/artificial-intelligence/latest/rss"
+    section: "interesting_news"
+
+  - name: "IEEE Spectrum AI"
+    url: "https://spectrum.ieee.org/feeds/topic/ai.rss"
+    section: "interesting_news"
