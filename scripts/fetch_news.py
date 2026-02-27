@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 """
-Fetch yesterday's AI news from configurable RSS/Atom feeds and save as structured JSON.
+Fetch AI news from configurable RSS/Atom feeds and save as structured JSON.
+
+By default, generates today's edition (CST/UTC+8) using yesterday's articles (UTC).
+Use --date YYYY-MM-DD to generate data for a specific date.
 
 No API keys required. Feed sources are defined in sources.yml at the repository root.
 """
 
+import argparse
 import html
 import json
 import os
@@ -104,9 +108,30 @@ def save_manifest(manifest: dict) -> None:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Fetch AI news and save as JSON.")
+    parser.add_argument(
+        "--date",
+        metavar="YYYY-MM-DD",
+        help="Edition date to generate (YYYY-MM-DD). "
+             "If omitted, generates today's edition in CST (UTC+8) "
+             "using yesterday's articles (UTC).",
+    )
+    return parser.parse_args()
+
+
 def main() -> None:
-    yesterday = datetime.now(timezone.utc) - timedelta(days=1)
-    date_str = yesterday.strftime("%Y-%m-%d")
+    args = parse_args()
+
+    if args.date:
+        # Manual override: generate data for the specified date, fetching articles from that same date
+        date_str = args.date
+        target_date = args.date
+    else:
+        # Default: today's edition in CST, articles from yesterday (UTC)
+        cst_now = datetime.now(timezone.utc) + timedelta(hours=8)
+        date_str = cst_now.strftime("%Y-%m-%d")
+        target_date = (datetime.now(timezone.utc) - timedelta(days=1)).strftime("%Y-%m-%d")
 
     # Skip if data for this date already exists
     manifest = load_manifest()
@@ -122,7 +147,7 @@ def main() -> None:
     # Initialise section buckets
     sections: dict[str, list[dict]] = {key: [] for key in sections_cfg}
 
-    print(f"Fetching AI news for {date_str} from {len(sources)} configured feed(s) …")
+    print(f"Fetching AI news for {date_str} (articles from {target_date}) from {len(sources)} configured feed(s) …")
     total = 0
     for source in sources:
         section_key = source.get("section", "")
@@ -130,7 +155,7 @@ def main() -> None:
             print(f"  [SKIP] {source['name']}: unknown section '{section_key}'")
             continue
         print(f"  Fetching {source['name']} …")
-        articles = fetch_feed(source, date_str)
+        articles = fetch_feed(source, target_date)
         # Keep at most MAX_PER_SECTION newest items per section
         bucket = sections[section_key]
         bucket.extend(articles)
@@ -140,7 +165,7 @@ def main() -> None:
         print(f"    → {len(articles)} article(s) found")
 
     if total == 0:
-        print(f"No articles found for {date_str}. Skipping.", file=sys.stderr)
+        print(f"No articles found for {target_date} (edition {date_str}). Skipping.", file=sys.stderr)
         sys.exit(0)
 
     article_count = sum(len(v) for v in sections.values())

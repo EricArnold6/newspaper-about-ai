@@ -2,9 +2,17 @@ name: Daily AI News Update
 
 on:
   schedule:
-    # 01:00 UTC = 09:00 CST (UTC+8)
+    # 01:00 UTC = 09:00 CST (UTC+8) — primary daily run
     - cron: "0 1 * * *"
-  workflow_dispatch: {}   # allow manual trigger
+    # Catch-up runs in case the primary run is missed or fails
+    - cron: "0 7 * * *"   # 15:00 CST
+    - cron: "0 13 * * *"  # 21:00 CST
+  workflow_dispatch:
+    inputs:
+      date:
+        description: '目标日期（YYYY-MM-DD），留空则生成今日版（含昨日新闻）'
+        required: false
+        default: ''
 
 permissions:
   contents: write   # needed to commit new data files
@@ -25,8 +33,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch yesterday's AI news
-        run: python scripts/fetch_news.py
+      - name: Fetch AI news
+        run: |
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            python scripts/fetch_news.py --date "${{ github.event.inputs.date }}"
+          else
+            python scripts/fetch_news.py
+          fi
 
       - name: Commit updated data files
         run: |

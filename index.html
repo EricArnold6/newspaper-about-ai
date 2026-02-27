@@ -380,6 +380,10 @@ const DATA_BASE   = "data/";
 const MANIFEST    = DATA_BASE + "manifest.json";
 const GITHUB_REPO = "EricArnold6/newspaper-about-ai";
 
+// Optional: set a fine-grained PAT (Actions:write only) to trigger on-demand updates.
+// Leave empty to rely on the scheduled catch-up runs instead.
+const WORKFLOW_TOKEN = "";
+
 const SECTION_META = {
   product_updates:       { icon: "🚀", label: "产品更新" },
   technical_breakthroughs: { icon: "🔬", label: "技术突破" },
@@ -475,19 +479,92 @@ function renderData(data) {
     <div class="sections-grid">${sections}</div>`;
 }
 
-// ── Trigger daily update workflow ────────────────────────────────────
-// (Removed: workflow no longer requires API tokens and runs on schedule only)
+// ── Trigger update workflow via GitHub API (requires WORKFLOW_TOKEN) ─
+async function triggerWorkflowUpdate() {
+  if (!WORKFLOW_TOKEN) return false;
+  try {
+    const res = await fetch(
+      `https://api.github.com/repos/${GITHUB_REPO}/actions/workflows/daily-update.yml/dispatches`,
+      {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${WORKFLOW_TOKEN}`,
+          Accept: "application/vnd.github.v3+json",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ ref: "main" }),
+      }
+    );
+    return res.status === 204;
+  } catch {
+    return false;
+  }
+}
 
-// ── Show today-pending state ─────────────────────────────────────────
-function showTodayPending(dateStr) {
+// ── Show today-pending state with auto-refresh ───────────────────────
+let _pendingTimer = null;
+
+async function showTodayPending(dateStr) {
   document.getElementById("today-display").textContent = formatDisplay(dateStr) + " 版";
+
+  // Try to trigger an on-demand workflow run
+  const triggered = await triggerWorkflowUpdate();
+
   const content = document.getElementById("content");
-  content.innerHTML = `
-    <div class="state-msg">
-      <div class="icon">⏳</div>
-      <h2>今日数据正在生成中</h2>
-      <p>${formatDisplay(dateStr)} 的 AI 日报尚未生成，系统将于每日北京时间 09:00 自动更新，请稍后刷新页面。</p>
-    </div>`;
+
+  function renderPending(secondsLeft) {
+    const trigMsg = triggered
+      ? "已触发数据更新，" 
+      : "系统将在每日北京时间 09:00 / 15:00 / 21:00 自动更新，";
+    content.innerHTML = `
+      <div class="state-msg">
+        <div class="icon">⏳</div>
+        <h2>今日数据正在生成中</h2>
+        <p>${formatDisplay(dateStr)} 的 AI 日报尚未生成。${trigMsg}将在 <strong id="pending-countdown">${secondsLeft}</strong> 秒后自动检查。</p>
+        <p style="margin-top:12px">
+          <button class="date-btn" onclick="checkForNewData('${dateStr}')" style="cursor:pointer">立即检查</button>
+        </p>
+      </div>`;
+  }
+
+  renderPending(30);
+
+  // Clear any existing timer
+  if (_pendingTimer) clearInterval(_pendingTimer);
+
+  let remaining = 30;
+  _pendingTimer = setInterval(() => {
+    remaining--;
+    const el = document.getElementById("pending-countdown");
+    if (el) el.textContent = remaining;
+    if (remaining <= 0) {
+      clearInterval(_pendingTimer);
+      _pendingTimer = null;
+      checkForNewData(dateStr);
+    }
+  }, 1000);
+}
+
+// ── Check manifest for new data and load if found ────────────────────
+async function checkForNewData(dateStr) {
+  if (_pendingTimer) { clearInterval(_pendingTimer); _pendingTimer = null; }
+
+  // Always re-fetch the manifest to check for newly generated data
+  try {
+    const res = await fetch(`${MANIFEST}?t=${Date.now()}`);
+    if (res.ok) {
+      const manifest = await res.json();
+      availableDates = (manifest.dates || []).sort().reverse();
+      buildDateButtons(availableDates);
+    }
+  } catch { /* ignore */ }
+
+  if (availableDates.includes(dateStr)) {
+    loadDate(dateStr);
+  } else {
+    // Still not available — restart the pending state
+    showTodayPending(dateStr);
+  }
 }
 
 // ── Fetch & display ──────────────────────────────────────────────────
