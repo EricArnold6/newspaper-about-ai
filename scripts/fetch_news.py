@@ -2,7 +2,7 @@
 """
 Fetch AI news from configurable RSS/Atom feeds and save as structured JSON.
 
-By default, generates today's edition (CST/UTC+8) using yesterday's articles (UTC).
+By default, generates today's edition (CST/UTC+8) using yesterday's articles (CST).
 Use --date YYYY-MM-DD to generate data for a specific date.
 
 No API keys required. Feed sources are defined in sources.yml at the repository root.
@@ -115,7 +115,7 @@ def parse_args() -> argparse.Namespace:
         metavar="YYYY-MM-DD",
         help="Edition date to generate (YYYY-MM-DD). "
              "If omitted, generates today's edition in CST (UTC+8) "
-             "using yesterday's articles (UTC).",
+             "using yesterday's articles (CST).",
     )
     return parser.parse_args()
 
@@ -128,10 +128,12 @@ def main() -> None:
         date_str = args.date
         target_date = args.date
     else:
-        # Default: today's edition in CST, articles from yesterday (UTC)
+        # Default: today's edition in CST, articles from yesterday (CST).
+        # Using CST-yesterday (not UTC-yesterday) ensures the same edition date
+        # always fetches from the same calendar day, regardless of run time.
         cst_now = datetime.now(timezone.utc) + timedelta(hours=8)
         date_str = cst_now.strftime("%Y-%m-%d")
-        target_date = (datetime.now(timezone.utc) - timedelta(days=1)).strftime("%Y-%m-%d")
+        target_date = (cst_now - timedelta(days=1)).strftime("%Y-%m-%d")
 
     # Skip if data for this date already exists
     manifest = load_manifest()
@@ -147,7 +149,7 @@ def main() -> None:
     # Initialise section buckets
     sections: dict[str, list[dict]] = {key: [] for key in sections_cfg}
 
-    print(f"Fetching AI news for {date_str} (articles from {target_date}) from {len(sources)} configured feed(s) …")
+    print(f"Fetching AI news for {date_str} (articles from {target_date} CST) from {len(sources)} configured feed(s) …")
     total = 0
     for source in sources:
         section_key = source.get("section", "")

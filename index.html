@@ -365,8 +365,8 @@
 <!-- ══ FOOTER ════════════════════════════════════════════════════════ -->
 <footer class="site-footer">
   <p>
-    AI 日报 &nbsp;|&nbsp; 内容由 AI 自动生成，仅供参考
-    &nbsp;|&nbsp; 数据每日北京时间 09:00 自动更新
+    AI 日报 &nbsp;|&nbsp; 数据来自公开 RSS/Atom 订阅源
+    &nbsp;|&nbsp; 每日北京时间 09:00 自动更新
     &nbsp;|&nbsp;
     <a href="https://github.com/EricArnold6/newspaper-about-ai" target="_blank" rel="noopener">
       GitHub
@@ -623,6 +623,33 @@ function buildDateButtons(dates) {
   });
 }
 
+// ── Show a non-blocking banner when today's data is being generated ──
+function showTodayGeneratingBanner(dateStr) {
+  if (document.getElementById("generating-banner")) return; // already shown
+  const banner = document.createElement("div");
+  banner.id = "generating-banner";
+  banner.style.cssText = [
+    "background:var(--accent-2)",
+    "color:#fff",
+    "text-align:center",
+    "padding:9px 20px",
+    "font-family:var(--font-sans)",
+    "font-size:13px",
+    "display:flex",
+    "align-items:center",
+    "justify-content:center",
+    "gap:12px",
+  ].join(";");
+  banner.innerHTML = `
+    <span>⏳ ${formatDisplay(dateStr)} 的日报正在生成中，已触发数据更新，稍后刷新可查看最新版</span>
+    <button
+      onclick="document.getElementById('generating-banner').remove()"
+      style="background:none;border:1px solid rgba(255,255,255,0.6);color:#fff;padding:2px 8px;
+             cursor:pointer;border-radius:3px;font-size:12px;font-family:inherit"
+    >关闭</button>`;
+  document.querySelector(".date-bar").after(banner);
+}
+
 // ── Initialise ───────────────────────────────────────────────────────
 async function init() {
   // Set date picker max to today (CST)
@@ -648,19 +675,26 @@ async function init() {
   if (availableDates.includes(today)) {
     // Today's news is already available — load it directly
     loadDate(today);
-  } else if (availableDates.length > 0) {
-    // Today's news is not yet available — show the most recent available edition
-    // so visitors can read the latest news instead of an empty pending screen
-    loadDate(availableDates[0]);
   } else {
-    // No data at all — show pending state
-    showTodayPending(today);
+    // Today's data is not yet available — trigger an on-demand workflow run.
+    // This is fire-and-forget: the workflow will commit the data and Pages
+    // will redeploy; the user can refresh once the banner disappears.
+    triggerWorkflowUpdate();
 
-    document.getElementById("date-picker").value = today;
-    document.querySelectorAll(".date-btn").forEach(btn => {
-      btn.classList.toggle("active", btn.dataset.date === today);
-      btn.setAttribute("aria-pressed", btn.dataset.date === today ? "true" : "false");
-    });
+    if (availableDates.length > 0) {
+      // Show the most recent available edition while today's is being generated
+      loadDate(availableDates[0]);
+      showTodayGeneratingBanner(today);
+    } else {
+      // No data at all — show the classic pending screen
+      showTodayPending(today);
+
+      document.getElementById("date-picker").value = today;
+      document.querySelectorAll(".date-btn").forEach(btn => {
+        btn.classList.toggle("active", btn.dataset.date === today);
+        btn.setAttribute("aria-pressed", btn.dataset.date === today ? "true" : "false");
+      });
+    }
   }
 }
 
