@@ -648,12 +648,14 @@ async function init() {
   if (availableDates.includes(today)) {
     // Today's news is already available — load it directly
     loadDate(today);
+  } else if (availableDates.length > 0) {
+    // Today's news is not yet available — show the most recent available edition
+    // so visitors can read the latest news instead of an empty pending screen
+    loadDate(availableDates[0]);
   } else {
-    // Today's news is not yet available — show pending state
+    // No data at all — show pending state
     showTodayPending(today);
 
-    // Also pre-select the date picker and buttons to today so the user can
-    // manually refresh and pick other dates
     document.getElementById("date-picker").value = today;
     document.querySelectorAll(".date-btn").forEach(btn => {
       btn.classList.toggle("active", btn.dataset.date === today);

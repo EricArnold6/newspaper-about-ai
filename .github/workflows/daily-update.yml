@@ -39,6 +39,11 @@ jobs:
             python scripts/fetch_news.py --date "${{ github.event.inputs.date }}"
           else
             python scripts/fetch_news.py
+            # Backfill: generate data for the last 7 days if missing
+            for i in 1 2 3 4 5 6 7; do
+              PAST_DATE=$(python3 -c "from datetime import datetime,timedelta,timezone; print((datetime.now(timezone.utc)-timedelta(days=$i)).strftime('%Y-%m-%d'))")
+              python scripts/fetch_news.py --date "$PAST_DATE" || echo "[WARN] Backfill for $PAST_DATE failed or found no articles"
+            done
           fi
 
       - name: Commit updated data files
