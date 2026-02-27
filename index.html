@@ -6,7 +6,7 @@
   <title>AI 日报 · 全球人工智能动态</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&family=Noto+Sans+SC:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&family=Noto+Sans+SC:wght@400;600;700&family=Merriweather:wght@400;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet" />
   <style>
     /* ── Reset & Variables ──────────────────────────────────────────── */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -14,18 +14,19 @@
     :root {
       --ink:        #1a1a1a;
       --ink-light:  #444;
-      --ink-muted:  #888;
-      --paper:      #faf8f3;
-      --paper-warm: #f3efe4;
-      --accent:     #b5121b;
-      --accent-2:   #1a3a6b;
-      --border:     #c8bfa8;
+      --ink-muted:  #777;
+      --paper:      #fafaf8;
+      --paper-warm: #f4f1ea;
+      --accent:     #c0392b;
+      --accent-2:   #2c3e7a;
+      --accent-3:   #27ae60;
+      --border:     #d5cfc0;
+      --border-light: #e8e4da;
       --card-bg:    #ffffff;
-      --high-badge: #b5121b;
-      --mid-badge:  #e07a00;
-      --low-badge:  #5a7a3a;
-      --font-serif: 'Noto Serif SC', 'Georgia', 'SimSun', serif;
-      --font-sans:  'Noto Sans SC', 'Helvetica Neue', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+      --toc-bg:     #f8f6f0;
+      --cover-overlay: rgba(0,0,0,0.45);
+      --font-serif: 'Noto Serif SC', 'Merriweather', 'Georgia', 'SimSun', serif;
+      --font-sans:  'Noto Sans SC', 'Source Sans 3', 'Helvetica Neue', 'PingFang SC', 'Microsoft YaHei', sans-serif;
     }
 
     body {
@@ -33,6 +34,7 @@
       color: var(--ink);
       font-family: var(--font-serif);
       min-height: 100vh;
+      line-height: 1.7;
     }
 
     /* ── Masthead ────────────────────────────────────────────────────── */
@@ -40,48 +42,76 @@
       background: var(--ink);
       color: #fff;
       text-align: center;
-      padding: 28px 20px 20px;
+      padding: 32px 20px 22px;
       border-bottom: 4px double var(--accent);
+      position: relative;
+    }
+    .masthead-top-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1100px;
+      margin: 0 auto 16px;
+      padding: 0 4px;
     }
     .masthead-kicker {
       font-family: var(--font-sans);
       font-size: 11px;
       letter-spacing: 3px;
       text-transform: uppercase;
-      color: #aaa;
-      margin-bottom: 8px;
+      color: #999;
+    }
+    .lang-toggle {
+      background: transparent;
+      border: 1px solid #666;
+      border-radius: 4px;
+      color: #ccc;
+      font-family: var(--font-sans);
+      font-size: 12px;
+      font-weight: 600;
+      padding: 4px 12px;
+      cursor: pointer;
+      letter-spacing: 1px;
+      transition: all 0.2s;
+    }
+    .lang-toggle:hover {
+      background: rgba(255,255,255,0.1);
+      border-color: #aaa;
+      color: #fff;
     }
     .masthead-title {
-      font-size: clamp(2.4rem, 8vw, 4.2rem);
+      font-size: clamp(2.6rem, 9vw, 4.8rem);
       font-weight: 700;
       letter-spacing: -1px;
       color: #fff;
       line-height: 1;
+      margin-bottom: 8px;
     }
     .masthead-subtitle {
       font-family: var(--font-sans);
       font-size: 13px;
       color: #bbb;
-      margin-top: 6px;
-      letter-spacing: 1px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
     }
     .masthead-rule {
       border: none;
-      border-top: 1px solid #555;
-      margin: 14px auto 10px;
+      border-top: 1px solid #444;
+      margin: 18px auto 12px;
       width: 80%;
     }
     .masthead-meta {
       font-family: var(--font-sans);
       font-size: 12px;
-      color: #999;
+      color: #888;
       display: flex;
       justify-content: center;
       align-items: center;
-      gap: 16px;
+      gap: 20px;
       flex-wrap: wrap;
     }
     .masthead-meta span { white-space: nowrap; }
+    .masthead-meta .sep { color: #555; }
 
     /* ── Navigation / Date Picker ────────────────────────────────────── */
     .date-bar {
@@ -96,13 +126,15 @@
     }
     .date-bar label {
       font-family: var(--font-sans);
-      font-size: 13px;
+      font-size: 12px;
       color: var(--ink-light);
-      font-weight: 600;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
     }
     .date-btn-group {
       display: flex;
-      gap: 6px;
+      gap: 5px;
       flex-wrap: wrap;
       justify-content: center;
     }
@@ -110,14 +142,14 @@
       background: none;
       border: 1px solid var(--border);
       border-radius: 3px;
-      padding: 5px 12px;
+      padding: 4px 11px;
       font-family: var(--font-sans);
-      font-size: 13px;
+      font-size: 12px;
       color: var(--ink-light);
       cursor: pointer;
-      transition: background 0.15s, color 0.15s;
+      transition: background 0.15s, color 0.15s, border-color 0.15s;
     }
-    .date-btn:hover { background: var(--paper-warm); color: var(--ink); }
+    .date-btn:hover { background: var(--border-light); color: var(--ink); }
     .date-btn.active {
       background: var(--accent-2);
       color: #fff;
@@ -126,9 +158,9 @@
     .date-picker-input {
       border: 1px solid var(--border);
       border-radius: 3px;
-      padding: 5px 10px;
+      padding: 4px 10px;
       font-family: var(--font-sans);
-      font-size: 13px;
+      font-size: 12px;
       background: #fff;
       color: var(--ink);
       cursor: pointer;
@@ -137,9 +169,9 @@
 
     /* ── Main layout ─────────────────────────────────────────────────── */
     .page-wrap {
-      max-width: 1100px;
+      max-width: 900px;
       margin: 0 auto;
-      padding: 0 16px 60px;
+      padding: 0 20px 80px;
     }
 
     /* ── Loading / Error states ──────────────────────────────────────── */
@@ -149,175 +181,230 @@
       font-family: var(--font-sans);
       color: var(--ink-muted);
     }
-    .state-msg .icon { font-size: 3rem; margin-bottom: 12px; }
+    .state-msg .icon { font-size: 3rem; margin-bottom: 14px; }
     .state-msg h2 { font-size: 1.2rem; margin-bottom: 8px; color: var(--ink-light); }
-    .state-msg p  { font-size: 0.9rem; }
+    .state-msg p  { font-size: 0.9rem; line-height: 1.7; }
 
-    /* ── Edition date banner ─────────────────────────────────────────── */
+    /* ── Edition banner ──────────────────────────────────────────────── */
     .edition-banner {
       background: var(--accent);
       color: #fff;
       text-align: center;
       padding: 10px 20px;
       font-family: var(--font-sans);
-      font-size: 14px;
+      font-size: 13px;
       letter-spacing: 2px;
       font-weight: 700;
-      margin: 0 -16px;
+      text-transform: uppercase;
+      margin: 0 -20px;
     }
 
-    /* ── Headline ───────────────────────────────────────────────────── */
-    .headline-block {
-      border-bottom: 3px double var(--border);
-      padding: 24px 0 20px;
-      text-align: center;
+    /* ── Cover image ─────────────────────────────────────────────────── */
+    .cover-block {
+      position: relative;
+      height: 260px;
+      overflow: hidden;
+      margin: 0 -20px;
     }
-    .headline-label {
+    .cover-block img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .cover-overlay {
+      position: absolute;
+      inset: 0;
+      background: var(--cover-overlay);
+      display: flex;
+      align-items: flex-end;
+      padding: 20px 28px;
+    }
+    .cover-caption {
       font-family: var(--font-sans);
-      font-size: 10px;
+      font-size: 12px;
+      color: rgba(255,255,255,0.75);
+      font-style: italic;
+    }
+
+    /* ── Table of Contents ───────────────────────────────────────────── */
+    .toc-block {
+      background: var(--toc-bg);
+      border: 1px solid var(--border);
+      border-left: 4px solid var(--accent-2);
+      padding: 20px 24px;
+      margin: 28px 0;
+    }
+    .toc-title {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      font-weight: 700;
       letter-spacing: 3px;
       text-transform: uppercase;
-      color: var(--accent);
-      margin-bottom: 10px;
+      color: var(--accent-2);
+      margin-bottom: 12px;
     }
-    .headline-text {
-      font-size: clamp(1.5rem, 4vw, 2.2rem);
-      font-weight: 700;
-      line-height: 1.3;
-      color: var(--ink);
-      max-width: 760px;
-      margin: 0 auto 16px;
+    .toc-list {
+      list-style: none;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px 20px;
     }
-    .summary-text {
-      font-size: 1rem;
-      line-height: 1.9;
+    .toc-list li a {
+      font-family: var(--font-sans);
+      font-size: 13px;
       color: var(--ink-light);
-      max-width: 760px;
-      margin: 0 auto;
-      text-align: left;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      transition: color 0.15s;
     }
-    .summary-text p + p { margin-top: 12px; }
+    .toc-list li a:hover { color: var(--accent-2); }
+    .toc-count {
+      background: var(--accent-2);
+      color: #fff;
+      font-size: 10px;
+      font-weight: 700;
+      padding: 1px 5px;
+      border-radius: 10px;
+    }
 
     /* ── Sections ───────────────────────────────────────────────────── */
-    .sections-grid {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 0;
-      margin-top: 0;
-    }
-
     .section {
-      border-bottom: 2px solid var(--border);
-      padding: 24px 0;
+      border-top: 3px solid var(--ink);
+      padding: 28px 0 8px;
+      margin-top: 8px;
     }
-    .section:last-child { border-bottom: none; }
-
     .section-header {
       display: flex;
       align-items: center;
-      gap: 12px;
-      margin-bottom: 18px;
+      gap: 10px;
+      margin-bottom: 20px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--border);
     }
-    .section-icon { font-size: 1.5rem; }
+    .section-icon { font-size: 1.4rem; line-height: 1; }
     .section-title {
       font-family: var(--font-sans);
-      font-size: 0.75rem;
-      letter-spacing: 3px;
-      text-transform: uppercase;
-      font-weight: 700;
-      color: var(--accent-2);
-    }
-    .section-rule {
-      flex: 1;
-      height: 1px;
-      background: var(--border);
-    }
-
-    /* ── News Cards ─────────────────────────────────────────────────── */
-    .cards-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-      gap: 16px;
-    }
-
-    .card {
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-top: 3px solid var(--accent-2);
-      padding: 18px;
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-      transition: box-shadow 0.15s;
-    }
-    .card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.08); }
-
-    .card-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
-
-    .card-title {
       font-size: 1rem;
       font-weight: 700;
-      line-height: 1.4;
-      color: var(--ink);
-      flex: 1;
-    }
-
-    .importance-badge {
-      flex-shrink: 0;
-      font-family: var(--font-sans);
-      font-size: 10px;
-      font-weight: 700;
-      letter-spacing: 1px;
+      letter-spacing: 2px;
       text-transform: uppercase;
-      padding: 2px 7px;
-      border-radius: 2px;
-      color: #fff;
+      color: var(--ink);
     }
-    .importance-badge.high   { background: var(--high-badge); }
-    .importance-badge.medium { background: var(--mid-badge);  }
-    .importance-badge.low    { background: var(--low-badge);  }
-
-    .card-content {
-      font-size: 0.9rem;
-      line-height: 1.8;
-      color: var(--ink-light);
+    .section-count {
+      margin-left: auto;
+      font-family: var(--font-sans);
+      font-size: 11px;
+      color: var(--ink-muted);
     }
 
-    .card-footer {
-      margin-top: auto;
+    /* ── Article items ───────────────────────────────────────────────── */
+    .article-list { display: flex; flex-direction: column; gap: 0; }
+
+    .article-item {
+      display: grid;
+      grid-template-columns: 40px 1fr;
+      gap: 0 16px;
+      padding: 20px 0;
+      border-bottom: 1px solid var(--border-light);
+    }
+    .article-item:last-child { border-bottom: none; }
+
+    .article-num {
+      font-family: var(--font-sans);
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--border);
+      line-height: 1;
+      padding-top: 4px;
+      text-align: right;
+      user-select: none;
+    }
+
+    .article-body { min-width: 0; }
+
+    .article-meta {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      color: var(--ink-muted);
+      margin-bottom: 6px;
       display: flex;
-      justify-content: space-between;
       align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .article-source {
+      font-weight: 700;
+      color: var(--accent-2);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .article-time { color: var(--ink-muted); }
+
+    .article-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      line-height: 1.45;
+      color: var(--ink);
+      margin-bottom: 10px;
+    }
+    .article-title a {
+      color: inherit;
+      text-decoration: none;
+    }
+    .article-title a:hover { color: var(--accent-2); text-decoration: underline; }
+
+    .article-summary {
+      font-size: 0.9rem;
+      line-height: 1.75;
+      color: var(--ink-light);
+      border-left: 3px solid var(--border);
+      padding-left: 14px;
+      margin-bottom: 12px;
+      font-style: italic;
+    }
+
+    .article-read-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
       font-family: var(--font-sans);
       font-size: 12px;
-      color: var(--ink-muted);
-      border-top: 1px solid var(--border);
-      padding-top: 10px;
-    }
-    .card-source::before { content: "📰 "; }
-    .card-link {
+      font-weight: 700;
       color: var(--accent-2);
       text-decoration: none;
-      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      transition: color 0.15s;
     }
-    .card-link:hover { text-decoration: underline; }
+    .article-read-link:hover { color: var(--accent); text-decoration: underline; }
+    .article-read-link::after { content: " →"; }
 
     /* ── Footer ─────────────────────────────────────────────────────── */
     .site-footer {
       background: var(--ink);
-      color: #aaa;
+      color: #888;
       text-align: center;
-      padding: 20px;
+      padding: 24px 20px;
       font-family: var(--font-sans);
       font-size: 12px;
       margin-top: 40px;
+      line-height: 1.9;
     }
-    .site-footer a { color: #ccc; }
+    .site-footer a { color: #bbb; text-decoration: none; }
+    .site-footer a:hover { color: #fff; text-decoration: underline; }
+    .site-footer .sep { color: #555; margin: 0 6px; }
 
     /* ── Responsive ─────────────────────────────────────────────────── */
-    @media (max-width: 600px) {
-      .masthead { padding: 18px 12px 14px; }
-      .cards-grid { grid-template-columns: 1fr; }
+    @media (max-width: 640px) {
+      .masthead { padding: 20px 14px 16px; }
+      .masthead-top-bar { margin-bottom: 10px; }
+      .cover-block { height: 180px; }
+      .article-item { grid-template-columns: 28px 1fr; gap: 0 10px; }
+      .article-num { font-size: 1.4rem; }
+      .toc-list { flex-direction: column; gap: 6px; }
     }
   </style>
 </head>
@@ -325,20 +412,25 @@
 
 <!-- ══ MASTHEAD ══════════════════════════════════════════════════════ -->
 <header class="masthead">
-  <div class="masthead-kicker">每日更新 · 全球视野 · 智能未来</div>
-  <h1 class="masthead-title">AI 日报</h1>
-  <div class="masthead-subtitle">全球人工智能产品与技术突破追踪</div>
+  <div class="masthead-top-bar">
+    <div class="masthead-kicker" data-i18n="kicker">每日更新 · 全球视野 · 智能未来</div>
+    <button class="lang-toggle" id="lang-btn">EN</button>
+  </div>
+  <h1 class="masthead-title" data-i18n="title">AI 日报</h1>
+  <div class="masthead-subtitle" data-i18n="subtitle">全球人工智能产品与技术突破追踪</div>
   <hr class="masthead-rule" />
   <div class="masthead-meta">
     <span id="today-display">加载中…</span>
-    <span>每日北京时间 09:00 自动更新</span>
-    <span>数据来源：全球主流科技媒体</span>
+    <span class="sep">|</span>
+    <span data-i18n="meta-schedule">每日北京时间 09:00 自动更新</span>
+    <span class="sep">|</span>
+    <span data-i18n="meta-sources">数据来源：全球主流科技媒体</span>
   </div>
 </header>
 
 <!-- ══ DATE NAVIGATION ═══════════════════════════════════════════════ -->
 <nav class="date-bar" aria-label="日期导航">
-  <label>查看日期：</label>
+  <label data-i18n="date-label">查看日期：</label>
   <div class="date-btn-group" id="date-btn-group" role="group" aria-label="快捷日期选择">
     <!-- Populated by JS -->
   </div>
@@ -356,8 +448,8 @@
   <div class="page-wrap" id="content">
     <div class="state-msg">
       <div class="icon">⏳</div>
-      <h2>正在加载…</h2>
-      <p>请稍候</p>
+      <h2 data-i18n="loading">正在加载…</h2>
+      <p data-i18n="loading-sub">请稍候</p>
     </div>
   </div>
 </main>
@@ -365,12 +457,13 @@
 <!-- ══ FOOTER ════════════════════════════════════════════════════════ -->
 <footer class="site-footer">
   <p>
-    AI 日报 &nbsp;|&nbsp; 数据来自公开 RSS/Atom 订阅源
-    &nbsp;|&nbsp; 每日北京时间 09:00 自动更新
-    &nbsp;|&nbsp;
-    <a href="https://github.com/EricArnold6/newspaper-about-ai" target="_blank" rel="noopener">
-      GitHub
-    </a>
+    <span data-i18n="footer-title">AI 日报</span>
+    <span class="sep">|</span>
+    <span data-i18n="footer-source">数据来自公开 RSS/Atom 订阅源</span>
+    <span class="sep">|</span>
+    <span data-i18n="footer-schedule">每日北京时间 09:00 自动更新</span>
+    <span class="sep">|</span>
+    <a href="https://github.com/EricArnold6/newspaper-about-ai" target="_blank" rel="noopener">GitHub</a>
   </p>
 </footer>
 
@@ -385,22 +478,98 @@ const GITHUB_REPO = "EricArnold6/newspaper-about-ai";
 const WORKFLOW_TOKEN = "";
 
 const SECTION_META = {
-  product_updates:       { icon: "🚀", label: "产品更新" },
-  technical_breakthroughs: { icon: "🔬", label: "技术突破" },
-  interesting_news:      { icon: "✨", label: "趣闻速递" },
+  product_updates:         { icon: "🚀", label: "产品更新",  labelEn: "Product Updates" },
+  technical_breakthroughs: { icon: "🔬", label: "技术突破",  labelEn: "Tech Breakthroughs" },
+  interesting_news:        { icon: "✨", label: "趣闻速递",  labelEn: "Interesting News" },
 };
 
-const IMPORTANCE_LABEL = { high: "重要", medium: "关注", low: "一般" };
+// ── i18n strings ─────────────────────────────────────────────────────
+const I18N = {
+  zh: {
+    kicker:          "每日更新 · 全球视野 · 智能未来",
+    title:           "AI 日报",
+    subtitle:        "全球人工智能产品与技术突破追踪",
+    "meta-schedule": "每日北京时间 09:00 自动更新",
+    "meta-sources":  "数据来源：全球主流科技媒体",
+    "date-label":    "查看日期：",
+    loading:         "正在加载…",
+    "loading-sub":   "请稍候",
+    "footer-title":  "AI 日报",
+    "footer-source": "数据来自公开 RSS/Atom 订阅源",
+    "footer-schedule": "每日北京时间 09:00 自动更新",
+    "edition-of":    (d) => `${formatDisplayZh(d)} 版`,
+    "article-count": (n) => `共收录 ${n} 篇原文`,
+    "toc-heading":   "📑 目录",
+    "read-article":  "阅读原文",
+    "no-data-title": (d) => `${formatDisplayZh(d)} 暂无数据`,
+    "no-data-body":  "该日期尚未生成 AI 日报，请选择其他日期。",
+    "loading-date":  (d) => `正在加载 ${formatDisplayZh(d)} 的内容…`,
+    "pending-title": "今日数据正在生成中",
+    "pending-body":  (d, trig, s) => `${formatDisplayZh(d)} 的 AI 日报尚未生成。${trig ? "已触发数据更新，" : "系统将在每日北京时间 09:00 / 15:00 / 21:00 自动更新，"}将在 <strong id="pending-countdown">${s}</strong> 秒后自动检查。`,
+    "check-now":     "立即检查",
+    "generating-banner": (d) => `⏳ ${formatDisplayZh(d)} 的日报正在生成中，稍后刷新可查看最新版`,
+    "close":         "关闭",
+    "section-count": (n) => `${n} 篇`,
+    "cover-caption": (d) => `📸 ${formatDisplayZh(d)} 配图`,
+    "published":     "发布时间：",
+  },
+  en: {
+    kicker:          "Daily Updates · Global View · AI Future",
+    title:           "AI Daily",
+    subtitle:        "Tracking Global AI Products & Breakthroughs",
+    "meta-schedule": "Auto-updated daily at 09:00 CST",
+    "meta-sources":  "Sources: Global Tech Media",
+    "date-label":    "Edition:",
+    loading:         "Loading…",
+    "loading-sub":   "Please wait",
+    "footer-title":  "AI Daily",
+    "footer-source": "Data from public RSS/Atom feeds",
+    "footer-schedule": "Auto-updated daily at 09:00 CST",
+    "edition-of":    (d) => `Edition · ${formatDisplayEn(d)}`,
+    "article-count": (n) => `${n} articles`,
+    "toc-heading":   "📑 Contents",
+    "read-article":  "Read Article",
+    "no-data-title": (d) => `No data for ${formatDisplayEn(d)}`,
+    "no-data-body":  "This edition has not been generated yet. Please select another date.",
+    "loading-date":  (d) => `Loading ${formatDisplayEn(d)}…`,
+    "pending-title": "Today's data is being generated",
+    "pending-body":  (d, trig, s) => `The digest for ${formatDisplayEn(d)} hasn't been generated yet. ${trig ? "Update triggered. " : "Auto-update runs at 09:00 / 15:00 / 21:00 CST. "}Auto-checking in <strong id="pending-countdown">${s}</strong> seconds.`,
+    "check-now":     "Check Now",
+    "generating-banner": (d) => `⏳ ${formatDisplayEn(d)} digest is being generated. Refresh shortly to view the latest edition.`,
+    "close":         "Close",
+    "section-count": (n) => `${n} articles`,
+    "cover-caption": (d) => `📸 Cover image for ${formatDisplayEn(d)}`,
+    "published":     "Published: ",
+  },
+};
 
 // ── State ────────────────────────────────────────────────────────────
 let availableDates = [];
 let currentDate   = null;
+let lang          = "zh";
 
 // ── Helpers ──────────────────────────────────────────────────────────
-function formatDisplay(dateStr) {
+function formatDisplayZh(dateStr) {
   if (!dateStr) return "";
   const [y, m, d] = dateStr.split("-");
   return `${y}年${parseInt(m)}月${parseInt(d)}日`;
+}
+
+function formatDisplayEn(dateStr) {
+  if (!dateStr) return "";
+  const months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+  const [y, m, d] = dateStr.split("-");
+  return `${months[parseInt(m)-1]} ${parseInt(d)}, ${y}`;
+}
+
+function formatDisplay(dateStr) {
+  return lang === "en" ? formatDisplayEn(dateStr) : formatDisplayZh(dateStr);
+}
+
+function t(key, ...args) {
+  const val = I18N[lang][key];
+  if (typeof val === "function") return val(...args);
+  return val || key;
 }
 
 function todayUTC8() {
@@ -418,54 +587,119 @@ function escHtml(str) {
     .replace(/"/g, "&quot;");
 }
 
+function formatPublished(isoStr) {
+  if (!isoStr) return "";
+  try {
+    const d = new Date(isoStr);
+    if (isNaN(d.getTime())) return "";
+    return d.toLocaleString(lang === "en" ? "en-US" : "zh-CN", {
+      year: "numeric", month: "short", day: "numeric",
+      hour: "2-digit", minute: "2-digit",
+      timeZone: "Asia/Shanghai",
+    });
+  } catch { return ""; }
+}
+
+function applyI18n() {
+  document.documentElement.lang = lang === "en" ? "en" : "zh-CN";
+  document.title = lang === "en" ? "AI Daily · Global AI News" : "AI 日报 · 全球人工智能动态";
+  const langBtn = document.getElementById("lang-btn");
+  langBtn.textContent = lang === "en" ? "中文" : "EN";
+  langBtn.setAttribute("aria-label", lang === "en" ? "Switch to Chinese" : "切换为英文");
+  document.querySelector(".date-bar").setAttribute("aria-label",
+    lang === "en" ? "Date navigation" : "日期导航");
+
+  document.querySelectorAll("[data-i18n]").forEach(el => {
+    const key = el.getAttribute("data-i18n");
+    const val = I18N[lang][key];
+    if (val !== undefined) el.textContent = val;
+  });
+
+  // Re-render current data if loaded
+  if (currentDate) loadDate(currentDate);
+}
+
 // ── Render helpers ───────────────────────────────────────────────────
-function renderCard(item) {
-  const imp    = (item.importance || "low").toLowerCase();
-  const impLbl = IMPORTANCE_LABEL[imp] || imp;
+function renderArticle(item, index) {
+  const pub = formatPublished(item.published || "");
+  const urlAttr = item.url ? ` href="${escHtml(item.url)}"` : "";
+  const titleHtml = item.url
+    ? `<a${urlAttr} target="_blank" rel="noopener noreferrer">${escHtml(item.title)}</a>`
+    : escHtml(item.title);
+
   return `
-    <article class="card" role="article">
-      <div class="card-header">
-        <h3 class="card-title">${escHtml(item.title)}</h3>
-        <span class="importance-badge ${imp}" aria-label="重要性：${impLbl}">${impLbl}</span>
-      </div>
-      <p class="card-content">${escHtml(item.content)}</p>
-      <div class="card-footer">
-        <span class="card-source">${escHtml(item.source)}</span>
-        ${item.url ? `<a class="card-link" href="${escHtml(item.url)}" target="_blank" rel="noopener noreferrer">阅读原文 →</a>` : ""}
+    <article class="article-item" role="article">
+      <div class="article-num" aria-hidden="true">${index}</div>
+      <div class="article-body">
+        <div class="article-meta">
+          <span class="article-source">📰 ${escHtml(item.source)}</span>
+          ${pub ? `<span class="article-time">🕒 ${escHtml(pub)}</span>` : ""}
+        </div>
+        <h3 class="article-title">${titleHtml}</h3>
+        ${item.content ? `<blockquote class="article-summary">${escHtml(item.content)}</blockquote>` : ""}
+        ${item.url ? `<a class="article-read-link" href="${escHtml(item.url)}" target="_blank" rel="noopener noreferrer">${escHtml(t("read-article"))}</a>` : ""}
       </div>
     </article>`;
 }
 
+function getSectionMeta(key, metaOverrides) {
+  const base = SECTION_META[key] || { icon: "📌", label: key, labelEn: key };
+  if (metaOverrides && metaOverrides[key]) {
+    return {
+      icon:    metaOverrides[key].icon  || base.icon,
+      label:   metaOverrides[key].label || base.label,
+      labelEn: base.labelEn,
+    };
+  }
+  return base;
+}
+
 function renderSection(key, items, metaOverrides) {
   if (!items || items.length === 0) return "";
-  const base = SECTION_META[key] || { icon: "📌", label: key };
-  const meta = metaOverrides && metaOverrides[key]
-    ? { icon: metaOverrides[key].icon || base.icon, label: metaOverrides[key].label || base.label }
-    : base;
+  const meta = getSectionMeta(key, metaOverrides);
+  const label = lang === "en" ? meta.labelEn : meta.label;
   return `
-    <section class="section" aria-labelledby="section-${key}">
+    <section class="section" id="section-${key}" aria-labelledby="section-hd-${key}">
       <div class="section-header">
         <span class="section-icon" aria-hidden="true">${meta.icon}</span>
-        <h2 class="section-title" id="section-${key}">${meta.label}</h2>
-        <div class="section-rule" aria-hidden="true"></div>
+        <h2 class="section-title" id="section-hd-${key}">${escHtml(label)}</h2>
+        <span class="section-count">${t("section-count", items.length)}</span>
       </div>
-      <div class="cards-grid">${items.map(renderCard).join("")}</div>
+      <div class="article-list">${items.map((item, i) => renderArticle(item, i + 1)).join("")}</div>
     </section>`;
 }
 
-function renderData(data) {
-  const summaryParas = (data.summary || "")
-    .split(/\n+/)
-    .filter(Boolean)
-    .map(p => `<p>${escHtml(p)}</p>`)
-    .join("");
+function renderToc(data) {
+  const entries = Object.entries(data.sections || {})
+    .filter(([, v]) => v && v.length > 0);
+  if (entries.length === 0) return "";
 
-  const headlineBlock = data.headline ? `
-    <div class="headline-block">
-      <div class="headline-label">今日要闻</div>
-      <h2 class="headline-text">${escHtml(data.headline)}</h2>
-      ${summaryParas ? `<div class="summary-text">${summaryParas}</div>` : ""}
-    </div>` : "";
+  const items = entries.map(([k, v]) => {
+    const meta = getSectionMeta(k, data.sections_meta);
+    const label = lang === "en" ? meta.labelEn : meta.label;
+    return `<li><a href="#section-${k}">${meta.icon} ${escHtml(label)} <span class="toc-count">${v.length}</span></a></li>`;
+  }).join("");
+
+  return `
+    <nav class="toc-block" aria-label="${t("toc-heading")}">
+      <div class="toc-title">${t("toc-heading")}</div>
+      <ul class="toc-list">${items}</ul>
+    </nav>`;
+}
+
+function renderData(data) {
+  const coverUrl = `https://picsum.photos/seed/${data.date}/900/260`;
+  const coverCaption = t("cover-caption", data.date);
+
+  const cover = `
+    <div class="cover-block">
+      <img src="${coverUrl}" alt="${coverCaption}" loading="lazy" />
+      <div class="cover-overlay">
+        <span class="cover-caption">${escHtml(coverCaption)}</span>
+      </div>
+    </div>`;
+
+  const toc = renderToc(data);
 
   const sections = Object.entries(data.sections || {})
     .map(([k, v]) => renderSection(k, v, data.sections_meta))
@@ -473,10 +707,11 @@ function renderData(data) {
 
   return `
     <div class="edition-banner">
-      ${formatDisplay(data.date)} 版 &nbsp;·&nbsp; 共收录 ${data.article_count || 0} 篇原文
+      ${escHtml(t("edition-of", data.date))} &nbsp;·&nbsp; ${escHtml(t("article-count", data.article_count || 0))}
     </div>
-    ${headlineBlock}
-    <div class="sections-grid">${sections}</div>`;
+    ${cover}
+    ${toc}
+    <div id="sections-container">${sections}</div>`;
 }
 
 // ── Trigger update workflow via GitHub API (requires WORKFLOW_TOKEN) ─
@@ -505,31 +740,24 @@ async function triggerWorkflowUpdate() {
 let _pendingTimer = null;
 
 async function showTodayPending(dateStr) {
-  document.getElementById("today-display").textContent = formatDisplay(dateStr) + " 版";
+  document.getElementById("today-display").textContent = t("edition-of", dateStr);
 
-  // Try to trigger an on-demand workflow run
   const triggered = await triggerWorkflowUpdate();
-
-  const content = document.getElementById("content");
+  const content   = document.getElementById("content");
 
   function renderPending(secondsLeft) {
-    const trigMsg = triggered
-      ? "已触发数据更新，" 
-      : "系统将在每日北京时间 09:00 / 15:00 / 21:00 自动更新，";
     content.innerHTML = `
       <div class="state-msg">
         <div class="icon">⏳</div>
-        <h2>今日数据正在生成中</h2>
-        <p>${formatDisplay(dateStr)} 的 AI 日报尚未生成。${trigMsg}将在 <strong id="pending-countdown">${secondsLeft}</strong> 秒后自动检查。</p>
-        <p style="margin-top:12px">
-          <button class="date-btn" onclick="checkForNewData('${dateStr}')" style="cursor:pointer">立即检查</button>
+        <h2>${escHtml(t("pending-title"))}</h2>
+        <p>${t("pending-body", dateStr, triggered, secondsLeft)}</p>
+        <p style="margin-top:16px">
+          <button class="date-btn" onclick="checkForNewData('${dateStr}')">${escHtml(t("check-now"))}</button>
         </p>
       </div>`;
   }
 
   renderPending(30);
-
-  // Clear any existing timer
   if (_pendingTimer) clearInterval(_pendingTimer);
 
   let remaining = 30;
@@ -549,7 +777,6 @@ async function showTodayPending(dateStr) {
 async function checkForNewData(dateStr) {
   if (_pendingTimer) { clearInterval(_pendingTimer); _pendingTimer = null; }
 
-  // Always re-fetch the manifest to check for newly generated data
   try {
     const res = await fetch(`${MANIFEST}?t=${Date.now()}`);
     if (res.ok) {
@@ -562,7 +789,6 @@ async function checkForNewData(dateStr) {
   if (availableDates.includes(dateStr)) {
     loadDate(dateStr);
   } else {
-    // Still not available — restart the pending state
     showTodayPending(dateStr);
   }
 }
@@ -571,19 +797,18 @@ async function checkForNewData(dateStr) {
 async function loadDate(dateStr) {
   currentDate = dateStr;
 
-  // Sync controls
   document.getElementById("date-picker").value = dateStr;
   document.querySelectorAll(".date-btn").forEach(btn => {
     btn.classList.toggle("active", btn.dataset.date === dateStr);
     btn.setAttribute("aria-pressed", btn.dataset.date === dateStr ? "true" : "false");
   });
-  document.getElementById("today-display").textContent = formatDisplay(dateStr) + " 版";
+  document.getElementById("today-display").textContent = t("edition-of", dateStr);
 
   const content = document.getElementById("content");
   content.innerHTML = `
     <div class="state-msg">
       <div class="icon">⏳</div>
-      <h2>正在加载 ${formatDisplay(dateStr)} 的内容…</h2>
+      <h2>${escHtml(t("loading-date", dateStr))}</h2>
     </div>`;
 
   try {
@@ -595,9 +820,8 @@ async function loadDate(dateStr) {
     content.innerHTML = `
       <div class="state-msg">
         <div class="icon">📭</div>
-        <h2>${formatDisplay(dateStr)} 暂无数据</h2>
-        <p>该日期尚未生成 AI 日报，请选择其他日期。<br/>
-           （${escHtml(err.message)}）</p>
+        <h2>${escHtml(t("no-data-title", dateStr))}</h2>
+        <p>${escHtml(t("no-data-body"))}<br/>(${escHtml(err.message)})</p>
       </div>`;
   }
 }
@@ -607,7 +831,6 @@ function buildDateButtons(dates) {
   const container = document.getElementById("date-btn-group");
   container.innerHTML = "";
 
-  // Show at most 7 most recent dates as quick buttons
   const shown = dates.slice(0, 7);
   shown.forEach(d => {
     const btn = document.createElement("button");
@@ -615,7 +838,7 @@ function buildDateButtons(dates) {
     btn.dataset.date = d;
     btn.setAttribute("role", "radio");
     btn.setAttribute("aria-pressed", "false");
-    const [y, m, day] = d.split("-");
+    const [, m, day] = d.split("-");
     btn.textContent = `${parseInt(m)}/${parseInt(day)}`;
     btn.title = formatDisplay(d);
     btn.addEventListener("click", () => loadDate(d));
@@ -625,14 +848,14 @@ function buildDateButtons(dates) {
 
 // ── Show a non-blocking banner when today's data is being generated ──
 function showTodayGeneratingBanner(dateStr) {
-  if (document.getElementById("generating-banner")) return; // already shown
+  if (document.getElementById("generating-banner")) return;
   const banner = document.createElement("div");
   banner.id = "generating-banner";
   banner.style.cssText = [
     "background:var(--accent-2)",
     "color:#fff",
     "text-align:center",
-    "padding:9px 20px",
+    "padding:10px 20px",
     "font-family:var(--font-sans)",
     "font-size:13px",
     "display:flex",
@@ -641,21 +864,26 @@ function showTodayGeneratingBanner(dateStr) {
     "gap:12px",
   ].join(";");
   banner.innerHTML = `
-    <span>⏳ ${formatDisplay(dateStr)} 的日报正在生成中，已触发数据更新，稍后刷新可查看最新版</span>
+    <span>${t("generating-banner", dateStr)}</span>
     <button
       onclick="document.getElementById('generating-banner').remove()"
-      style="background:none;border:1px solid rgba(255,255,255,0.6);color:#fff;padding:2px 8px;
-             cursor:pointer;border-radius:3px;font-size:12px;font-family:inherit"
-    >关闭</button>`;
+      style="background:none;border:1px solid rgba(255,255,255,0.5);color:#fff;padding:3px 10px;
+             cursor:pointer;border-radius:3px;font-size:12px;font-family:inherit;flex-shrink:0"
+    >${t("close")}</button>`;
   document.querySelector(".date-bar").after(banner);
 }
 
+// ── Language toggle ───────────────────────────────────────────────────
 // ── Initialise ───────────────────────────────────────────────────────
 async function init() {
-  // Set date picker max to today (CST)
-  const today = todayUTC8();
+  const today  = todayUTC8();
   const picker = document.getElementById("date-picker");
-  picker.max = today;
+  picker.max   = today;
+
+  document.getElementById("lang-btn").addEventListener("click", () => {
+    lang = lang === "zh" ? "en" : "zh";
+    applyI18n();
+  });
 
   picker.addEventListener("change", () => {
     if (picker.value) loadDate(picker.value);
@@ -673,22 +901,14 @@ async function init() {
   buildDateButtons(availableDates);
 
   if (availableDates.includes(today)) {
-    // Today's news is already available — load it directly
     loadDate(today);
   } else {
-    // Today's data is not yet available — trigger an on-demand workflow run.
-    // This is fire-and-forget: the workflow will commit the data and Pages
-    // will redeploy; the user can refresh once the banner disappears.
     triggerWorkflowUpdate();
-
     if (availableDates.length > 0) {
-      // Show the most recent available edition while today's is being generated
       loadDate(availableDates[0]);
       showTodayGeneratingBanner(today);
     } else {
-      // No data at all — show the classic pending screen
       showTodayPending(today);
-
       document.getElementById("date-picker").value = today;
       document.querySelectorAll(".date-btn").forEach(btn => {
         btn.classList.toggle("active", btn.dataset.date === today);
