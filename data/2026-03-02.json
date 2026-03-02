@@ -1,0 +1,60 @@
+{
+  "date": "2026-03-02",
+  "generated_at": "2026-03-02T03:15:11.204069+00:00",
+  "article_count": 5,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
+        "content": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
+        "published": "2026-03-01T17:30:00+00:00"
+      },
+      {
+        "title": "OpenAI reveals more details about its agreement with the Pentagon",
+        "content": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+        "published": "2026-03-01T16:30:10+00:00"
+      },
+      {
+        "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
+        "content": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+        "published": "2026-03-01T14:48:58+00:00"
+      },
+      {
+        "title": "SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
+        "content": "What's behind the SaaSpocalypse? It simply seems a new supreme has risen.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
+        "published": "2026-03-01T14:00:00+00:00"
+      },
+      {
+        "title": "The trap Anthropic built for itself",
+        "content": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+        "published": "2026-03-01T00:08:58+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
