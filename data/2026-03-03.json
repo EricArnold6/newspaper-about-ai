@@ -1,0 +1,82 @@
+{
+  "date": "2026-03-03",
+  "generated_at": "2026-03-03T03:34:04.617718+00:00",
+  "article_count": 8,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "No one has a good plan for how AI companies should work with the government",
+        "content": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
+        "published": "2026-03-02T22:59:10+00:00"
+      },
+      {
+        "title": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
+        "content": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
+        "published": "2026-03-02T18:42:11+00:00"
+      },
+      {
+        "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
+        "content": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
+        "published": "2026-03-02T17:18:34+00:00"
+      },
+      {
+        "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
+        "content": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
+        "published": "2026-03-02T15:14:36+00:00"
+      },
+      {
+        "title": "Anthropic’s Claude reports widespread outage",
+        "content": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+        "published": "2026-03-02T13:31:49+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
+        "content": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely rushed.” In its a…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+        "published": "2026-03-02T17:29:42+00:00"
+      },
+      {
+        "title": "The Download: protesting AI, and what’s floating in space",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I checked out one of the biggest anti-AI protests ever Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/",
+        "published": "2026-03-02T13:20:00+00:00"
+      },
+      {
+        "title": "I checked out one of the biggest anti-AI protests yet",
+        "content": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
+        "published": "2026-03-02T12:55:20+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
