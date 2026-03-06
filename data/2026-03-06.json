@@ -1,0 +1,124 @@
+{
+  "date": "2026-03-06",
+  "generated_at": "2026-03-06T03:27:34.512720+00:00",
+  "article_count": 14,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
+        "content": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
+        "published": "2026-03-05T23:14:04+00:00"
+      },
+      {
+        "title": "AWS launches a new AI agent platform specifically for healthcare",
+        "content": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+        "published": "2026-03-05T21:54:37+00:00"
+      },
+      {
+        "title": "US reportedly considering sweeping new chip export controls",
+        "content": "In an alleged drafted proposal, the U.S. government would play a role in every chip export sale regardless of which country it's coming from.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/",
+        "published": "2026-03-05T21:24:50+00:00"
+      },
+      {
+        "title": "It’s official: The Pentagon has labeled Anthropic a supply-chain risk",
+        "content": "The Department of Defense has officially labeled Anthropic a supply-chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
+        "published": "2026-03-05T20:24:25+00:00"
+      },
+      {
+        "title": "EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models",
+        "content": "Luma introduced Luma Agents, powered by its new “Unified Intelligence” models, designed to coordinate multiple AI systems and generate end-to-end creative work across text, images, video and audio.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
+        "published": "2026-03-05T18:11:36+00:00"
+      },
+      {
+        "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
+        "content": "GPT-5.4 is billed as \"our most capable and efficient frontier model for professional work.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+        "published": "2026-03-05T18:00:15+00:00"
+      },
+      {
+        "title": "Cursor is rolling out a new kind of agentic coding tool",
+        "content": "Called Automations, the new system gives users a way to automatically launch agents within their coding environment, triggered by a new addition to the codebase, a Slack message, or a simple timer.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
+        "published": "2026-03-05T17:00:00+00:00"
+      },
+      {
+        "title": "Meta sued over AI smart glasses’ privacy concerns, after workers reviewed nudity, sex, and other footage",
+        "content": "Lawyers say Meta's marketing materials promised privacy and user control over sharing footage. But an investigation found that subcontractors are reviewing footage from customers' glasses.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+        "published": "2026-03-05T16:50:20+00:00"
+      },
+      {
+        "title": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
+        "content": "Anthropic's $200 million contract with the Department of Defense broke down due to disagreements over giving the military unrestricted access to its AI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
+        "published": "2026-03-05T16:45:51+00:00"
+      },
+      {
+        "title": "Netflix buys Ben Affleck’s AI filmmaking company InterPositive",
+        "content": "InterPositive isn't trying to make AI actors or synthetic performances. Rather, the company has created a model that helps production teams work with footage from their own productions to help make edits in post-production.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/05/netflix-buys-ben-afflecks-ai-filmmaking-company-interpositive/",
+        "published": "2026-03-05T16:19:57+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Trump gets data center companies to pledge to pay for power generation",
+        "content": "With no enforcement and questionable economics, it may not make a difference.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/tech-policy/2026/03/leading-ai-datacenter-companies-sign-pledge-to-buy-their-own-power/",
+        "published": "2026-03-05T18:41:28+00:00"
+      },
+      {
+        "title": "The Download: an AI agent’s hit piece, and preventing lightning",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Online harassment is entering its AI era Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software librar…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
+        "published": "2026-03-05T14:28:46+00:00"
+      },
+      {
+        "title": "How much wildfire prevention is too much?",
+        "content": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes. And now, one Canadian startup says it’s going after lightning. Lightning-sparked fires can be a big deal: The Canadian wild…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
+        "published": "2026-03-05T11:00:00+00:00"
+      },
+      {
+        "title": "Online harassment is entering its AI era",
+        "content": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have instit…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+        "published": "2026-03-05T10:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
