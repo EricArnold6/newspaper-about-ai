@@ -1,0 +1,103 @@
+{
+  "date": "2026-03-07",
+  "generated_at": "2026-03-07T03:17:47.877636+00:00",
+  "article_count": 11,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+        "content": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+        "published": "2026-03-06T19:50:10+00:00"
+      },
+      {
+        "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+        "content": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+        "published": "2026-03-06T19:00:22+00:00"
+      },
+      {
+        "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+        "content": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turn…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+        "published": "2026-03-06T18:09:11+00:00"
+      },
+      {
+        "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+        "content": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turn…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+        "published": "2026-03-06T18:01:38+00:00"
+      },
+      {
+        "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+        "content": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+        "published": "2026-03-06T17:56:07+00:00"
+      },
+      {
+        "title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
+        "content": "City Detect, a company that helps local governments prevent urban decay, is in at least 17 cities so far, including Dallas and Miami.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/",
+        "published": "2026-03-06T14:00:00+00:00"
+      },
+      {
+        "title": "After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil",
+        "content": "Meta is now allowing rival AI companies to provide their chatbots on WhatsApp to Brazilian users for a fee, a day after the company confirmed a similar decision for users in Europe.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/",
+        "published": "2026-03-06T13:20:43+00:00"
+      },
+      {
+        "title": "Anthropic to challenge DOD’s supply-chain label in court",
+        "content": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+        "published": "2026-03-06T01:28:54+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
+        "content": "The long, strange trip of a large assembly of advanced iOS exploits.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/",
+        "published": "2026-03-06T19:41:33+00:00"
+      },
+      {
+        "title": "Is the Pentagon allowed to surveil Americans with AI?",
+        "content": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade afte…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+        "published": "2026-03-06T19:21:22+00:00"
+      },
+      {
+        "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review’s newsroom has been ahead of the curve, tracking the developments in AI…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
+        "published": "2026-03-06T13:10:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
