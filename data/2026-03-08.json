@@ -1,0 +1,46 @@
+{
+  "date": "2026-03-08",
+  "generated_at": "2026-03-08T03:31:12.640101+00:00",
+  "article_count": 3,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
+        "content": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+        "published": "2026-03-07T22:56:31+00:00"
+      },
+      {
+        "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+        "content": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+        "published": "2026-03-07T20:44:25+00:00"
+      },
+      {
+        "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
+        "content": "The feature, which will give verified adult users access to erotica and other adult content, had already been delayed from December.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
+        "published": "2026-03-07T17:28:41+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
