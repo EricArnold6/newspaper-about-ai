@@ -1,0 +1,53 @@
+{
+  "date": "2026-03-09",
+  "generated_at": "2026-03-09T03:35:19.730564+00:00",
+  "article_count": 4,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+        "content": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+        "published": "2026-03-08T20:14:42+00:00"
+      },
+      {
+        "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+        "content": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+        "published": "2026-03-08T16:30:00+00:00"
+      },
+      {
+        "title": "A roadmap for AI, if anyone will listen",
+        "content": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+        "published": "2026-03-08T06:05:26+00:00"
+      },
+      {
+        "title": "Google just gave Sundar Pichai a $692M pay package",
+        "content": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+        "published": "2026-03-08T00:20:10+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
