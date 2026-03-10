@@ -1,0 +1,89 @@
+{
+  "date": "2026-03-10",
+  "generated_at": "2026-03-10T03:27:32.050772+00:00",
+  "article_count": 9,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
+        "content": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+        "published": "2026-03-09T21:15:17+00:00"
+      },
+      {
+        "title": "Anthropic launches code review tool to check flood of AI-generated code",
+        "content": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+        "published": "2026-03-09T19:41:34+00:00"
+      },
+      {
+        "title": "OpenAI acquires Promptfoo to secure its AI agents",
+        "content": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+        "published": "2026-03-09T17:49:04+00:00"
+      },
+      {
+        "title": "Anthropic sues Defense Department over supply-chain risk designation",
+        "content": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+        "published": "2026-03-09T17:25:40+00:00"
+      },
+      {
+        "title": "Qualcomm’s partnership with Neura Robotics is just the beginning",
+        "content": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+        "published": "2026-03-09T15:58:11+00:00"
+      },
+      {
+        "title": "Sandberg, Clegg join Nscale board as this ‘Stargate Norway’ startup hits $14.6B valuation",
+        "content": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
+        "published": "2026-03-09T15:09:35+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "How AI is turning the Iran conflict into theater",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?” The author of that post on X was referring to an online intelligence dashboard foll…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
+        "published": "2026-03-09T15:11:01+00:00"
+      },
+      {
+        "title": "The usability imperative for securing digital asset devices",
+        "content": "When Tony Fadell started working on the iPod, usability often trumped security. The result was an iterative process. Every time someone would find a security weakness or a way to hack the device, the development group would iterate to add measures and fix the issues. Yet, flaws would frequently b…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
+        "published": "2026-03-09T14:00:00+00:00"
+      },
+      {
+        "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI? The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
+        "published": "2026-03-09T13:57:44+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
