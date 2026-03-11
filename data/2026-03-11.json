@@ -1,0 +1,117 @@
+{
+  "date": "2026-03-11",
+  "generated_at": "2026-03-11T03:27:29.267934+00:00",
+  "article_count": 13,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Amazon launches its healthcare AI assistant on its website and app",
+        "content": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+        "published": "2026-03-10T20:10:06+00:00"
+      },
+      {
+        "title": "AI-powered apps struggle with long-term retention, new report shows",
+        "content": "AI can drive stronger early monetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
+        "published": "2026-03-10T18:42:33+00:00"
+      },
+      {
+        "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
+        "content": "Instead of just reading an explanation or looking at a static diagram, users can now engage directly with interactive visuals.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
+        "published": "2026-03-10T17:51:25+00:00"
+      },
+      {
+        "title": "AgentMail raises $6M to build an email service for AI agents",
+        "content": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+        "published": "2026-03-10T16:00:00+00:00"
+      },
+      {
+        "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
+        "content": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
+        "published": "2026-03-10T15:08:39+00:00"
+      },
+      {
+        "title": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
+        "content": "The option appears on the Google Photos Search screen and lets users pick which experience they want.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
+        "published": "2026-03-10T14:58:29+00:00"
+      },
+      {
+        "title": "Legora reaches $5.55 billion valuation as AI legal tech boom endures",
+        "content": "Legora, an AI platform for lawyers, is now valued at $5.55 billion following a $550 million Series D led by Accel to fuel its growth in the U.S.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
+        "published": "2026-03-10T14:34:24+00:00"
+      },
+      {
+        "title": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
+        "content": "Meta says that Moltbook's approach to \"connecting agents through an always-on-directory\" is novel.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
+        "published": "2026-03-10T14:32:05+00:00"
+      },
+      {
+        "title": "YouTube expands AI deepfake detection to politicians, government officials, and journalists",
+        "content": "YouTube's AI deepfake detection tool is becoming available to politicians, journalists, and officials, letting them flag unauthorized likenesses for removal.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/10/youtube-expands-ai-deepfake-detection-to-politicians-government-officials-and-journalists/",
+        "published": "2026-03-10T14:00:00+00:00"
+      },
+      {
+        "title": "Adobe is debuting an AI assistant for Photoshop",
+        "content": "Adobe is also adding new AI-powered image-editing features to Firefly.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
+        "published": "2026-03-10T13:06:51+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
+        "content": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching a Jigglypuff or a …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
+        "published": "2026-03-10T13:47:26+00:00"
+      },
+      {
+        "title": "Prioritizing energy intelligence for sustainable growth",
+        "content": "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce. Today, thanks to …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
+        "published": "2026-03-10T13:00:00+00:00"
+      },
+      {
+        "title": "The Download: AI’s role in the Iran war, and an escalating legal fight",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How AI is turning the Iran conflict into theater Much of the spotlight on AI in the Iran conflict has focused on models like Claude helping the US military dec…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
+        "published": "2026-03-10T12:55:32+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
