@@ -1,0 +1,131 @@
+{
+  "date": "2026-03-13",
+  "generated_at": "2026-03-13T03:29:41.749255+00:00",
+  "article_count": 15,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
+        "content": "GTC — which stands for GPU Technology Conference — is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of …",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
+        "published": "2026-03-12T23:25:39+00:00"
+      },
+      {
+        "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+        "content": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+        "published": "2026-03-12T22:25:50+00:00"
+      },
+      {
+        "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
+        "content": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
+        "published": "2026-03-12T18:20:33+00:00"
+      },
+      {
+        "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
+        "content": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
+        "published": "2026-03-12T18:00:00+00:00"
+      },
+      {
+        "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
+        "content": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+        "published": "2026-03-12T17:20:19+00:00"
+      },
+      {
+        "title": "Bumble introduces an AI dating assistant, ‘Bee’",
+        "content": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/",
+        "published": "2026-03-12T16:52:17+00:00"
+      },
+      {
+        "title": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
+        "content": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
+        "published": "2026-03-12T16:42:40+00:00"
+      },
+      {
+        "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
+        "content": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop’s intuitive agent builder is an example of the kind of tool that will unlock that potential.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
+        "published": "2026-03-12T15:30:00+00:00"
+      },
+      {
+        "title": "Alexa+ gets a new ‘adults only’ personality option that curses but won’t do NSFW content",
+        "content": "The new Sassy style can curse and roast you, but the fun ends there.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-do-nsfw-content/",
+        "published": "2026-03-12T15:16:16+00:00"
+      },
+      {
+        "title": "Wonderful raises $150M Series B at $2B valuation",
+        "content": "The funding round, led by Insight Partners, comes just four months after Wonderful raised a $100 million Series A.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/",
+        "published": "2026-03-12T15:12:35+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+        "content": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes a…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+        "published": "2026-03-12T22:23:34+00:00"
+      },
+      {
+        "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
+        "content": "Company says it doesn't know how long it will take to restore its Microsoft environment.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/",
+        "published": "2026-03-12T22:18:11+00:00"
+      },
+      {
+        "title": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hustlers are cashing in on China’s OpenClaw AI craze In January, Beijing-based software engineer Feng Qingyang started tinkering with OpenClaw, a new AI tool t…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
+        "published": "2026-03-12T13:02:48+00:00"
+      },
+      {
+        "title": "Pragmatic by design: Engineering AI for the real world",
+        "content": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the de…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+        "published": "2026-03-12T13:00:00+00:00"
+      },
+      {
+        "title": "Brutal times for the US battery industry",
+        "content": "Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds. My biggest problem was sifting through the pile to pick the most exciting news to cover. That tide has turned, an…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/",
+        "published": "2026-03-12T10:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
