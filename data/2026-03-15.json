@@ -1,0 +1,60 @@
+{
+  "date": "2026-03-15",
+  "generated_at": "2026-03-15T03:51:18.092637+00:00",
+  "article_count": 5,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "US Army announces contract with Anduril worth up to $20B",
+        "content": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+        "published": "2026-03-14T20:47:47+00:00"
+      },
+      {
+        "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+        "content": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+        "published": "2026-03-14T16:28:42+00:00"
+      },
+      {
+        "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+        "content": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+        "published": "2026-03-14T13:00:00+00:00"
+      },
+      {
+        "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+        "content": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+        "published": "2026-03-14T00:12:22+00:00"
+      },
+      {
+        "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+        "content": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+        "published": "2026-03-14T00:01:02+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
