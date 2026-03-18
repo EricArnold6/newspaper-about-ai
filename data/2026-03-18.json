@@ -1,0 +1,117 @@
+{
+  "date": "2026-03-18",
+  "generated_at": "2026-03-18T03:41:26.164732+00:00",
+  "article_count": 13,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+        "content": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+        "published": "2026-03-17T21:00:00+00:00"
+      },
+      {
+        "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+        "content": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+        "published": "2026-03-17T20:50:04+00:00"
+      },
+      {
+        "title": "The Pentagon is developing alternatives to Anthropic, report says",
+        "content": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+        "published": "2026-03-17T18:20:15+00:00"
+      },
+      {
+        "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+        "content": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
+        "published": "2026-03-17T17:17:15+00:00"
+      },
+      {
+        "title": "Google’s Personal Intelligence feature is expanding to all US users",
+        "content": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+        "published": "2026-03-17T16:00:00+00:00"
+      },
+      {
+        "title": "OpenAI expands government footprint with AWS deal, report says",
+        "content": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+        "published": "2026-03-17T15:37:03+00:00"
+      },
+      {
+        "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
+        "content": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
+        "published": "2026-03-17T15:16:21+00:00"
+      },
+      {
+        "title": "World launches tool to verify humans behind AI shopping agents",
+        "content": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
+        "published": "2026-03-17T15:00:00+00:00"
+      },
+      {
+        "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
+        "content": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
+        "published": "2026-03-17T13:00:00+00:00"
+      },
+      {
+        "title": "Gamma adds AI image-generation tools in bid to take on Canva and Adobe",
+        "content": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics, and infographics.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+        "published": "2026-03-17T13:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+        "content": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned. AI models like Anthropic’s Claude are already used to answer questions in classified settings; appl…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+        "published": "2026-03-17T22:30:46+00:00"
+      },
+      {
+        "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
+        "content": "Internet-exposed devices that give BIOS-level access? What could possibly go wrong?",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/",
+        "published": "2026-03-17T17:07:12+00:00"
+      },
+      {
+        "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Where OpenAI’s technology could show up in Iran OpenAI has controversially agreed to give the Pentagon access to its AI. But where exactly could its tech show …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
+        "published": "2026-03-17T12:26:48+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
