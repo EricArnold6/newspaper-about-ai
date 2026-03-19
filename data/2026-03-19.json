@@ -1,0 +1,117 @@
+{
+  "date": "2026-03-19",
+  "generated_at": "2026-03-19T03:41:21.006497+00:00",
+  "article_count": 13,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Meta is having trouble with rogue AI agents",
+        "content": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+        "published": "2026-03-18T23:42:46+00:00"
+      },
+      {
+        "title": "Sam Altman’s thank-you to coders draws the memes",
+        "content": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+        "published": "2026-03-18T23:12:58+00:00"
+      },
+      {
+        "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+        "content": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+        "published": "2026-03-18T20:30:52+00:00"
+      },
+      {
+        "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+        "content": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+        "published": "2026-03-18T20:01:19+00:00"
+      },
+      {
+        "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
+        "content": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
+        "published": "2026-03-18T17:54:31+00:00"
+      },
+      {
+        "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
+        "content": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
+        "published": "2026-03-18T17:15:00+00:00"
+      },
+      {
+        "title": "The Gemini-powered features in Google Workspace that are worth using",
+        "content": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+        "published": "2026-03-18T16:43:18+00:00"
+      },
+      {
+        "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
+        "content": "Artificial intelligence models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best — and who decides that? Arena, formerly LM Arena, has emerged as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+        "published": "2026-03-18T16:30:00+00:00"
+      },
+      {
+        "title": "This startup wants to make enterprise software look more like a prompt",
+        "content": "The company has raised $12 million in seed funding to build an AI operating system for enterprise.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
+        "published": "2026-03-18T16:00:00+00:00"
+      },
+      {
+        "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
+        "content": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/",
+        "published": "2026-03-18T15:58:50+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
+        "content": "One Microsoft product was approved despite years of concerns about its security.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/",
+        "published": "2026-03-18T17:36:40+00:00"
+      },
+      {
+        "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data, defense official says The Pentagon plans to set up secure environments for generative AI…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
+        "published": "2026-03-18T12:38:00+00:00"
+      },
+      {
+        "title": "What do new nuclear reactors mean for waste?",
+        "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as creative as it is varied: Drown it in water pools, encase i…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
+        "published": "2026-03-18T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
