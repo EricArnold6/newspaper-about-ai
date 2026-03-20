@@ -1,0 +1,103 @@
+{
+  "date": "2026-03-20",
+  "generated_at": "2026-03-20T03:30:58.194401+00:00",
+  "article_count": 11,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+        "content": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+        "published": "2026-03-19T22:09:24+00:00"
+      },
+      {
+        "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+        "content": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+        "published": "2026-03-19T19:09:02+00:00"
+      },
+      {
+        "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+        "content": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+        "published": "2026-03-19T17:24:13+00:00"
+      },
+      {
+        "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+        "content": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+        "published": "2026-03-19T16:14:00+00:00"
+      },
+      {
+        "title": "TechCrunch Startup Battlefield 200 nominations are still open",
+        "content": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
+        "published": "2026-03-19T15:00:00+00:00"
+      },
+      {
+        "title": "Amazon brings Alexa+ to the UK",
+        "content": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
+        "published": "2026-03-19T12:27:24+00:00"
+      },
+      {
+        "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
+        "content": "After compressing models from major AI labs, including OpenAI, Meta, DeepSeek, and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models and an API that makes them more widely available.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
+        "published": "2026-03-19T08:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
+        "content": "Broadcom says the group is misrepresenting market \"realities.\"",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/",
+        "published": "2026-03-19T21:29:53+00:00"
+      },
+      {
+        "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems In a laboratory on the outskirts of Oxford, a quantum computer built from…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
+        "published": "2026-03-19T12:17:02+00:00"
+      },
+      {
+        "title": "Can quantum computers now solve health care problems? We’ll soon find out.",
+        "content": "I’m standing in front of a quantum computer built out of atoms and light at the UK’s National Quantum Computing Centre on the outskirts of Oxford. On a laboratory table, a complex matrix of mirrors and lenses surrounds a Rubik’s Cube–size cell where 100 cesium atoms are suspended in grid formatio…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
+        "published": "2026-03-19T10:51:43+00:00"
+      },
+      {
+        "title": "Why the world doesn’t recycle more nuclear waste",
+        "content": "The prospect of making trash useful is always fascinating to me. Whether it’s used batteries, solar panels, or spent nuclear fuel, getting use out of something destined for disposal sounds like a win all around. In nuclear energy, figuring out what to do with waste has always been a challenge, si…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/19/1134399/nuclear-waste-reprocessing/",
+        "published": "2026-03-19T10:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
