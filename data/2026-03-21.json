@@ -1,0 +1,103 @@
+{
+  "date": "2026-03-21",
+  "generated_at": "2026-03-21T03:23:15.946892+00:00",
+  "article_count": 11,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+        "content": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+        "published": "2026-03-20T20:53:09+00:00"
+      },
+      {
+        "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+        "content": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot th…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+        "published": "2026-03-20T20:02:35+00:00"
+      },
+      {
+        "title": "Nvidia has an OpenClaw strategy. Do you?",
+        "content": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot th…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
+        "published": "2026-03-20T19:48:38+00:00"
+      },
+      {
+        "title": "WordPress.com now lets AI agents write and publish posts, and more",
+        "content": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+        "published": "2026-03-20T16:43:09+00:00"
+      },
+      {
+        "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
+        "content": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+        "published": "2026-03-20T16:14:04+00:00"
+      },
+      {
+        "title": "The best AI investment might be in energy tech",
+        "content": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
+        "published": "2026-03-20T12:00:00+00:00"
+      },
+      {
+        "title": "These AI notetaking devices can help you record and transcribe your meetings",
+        "content": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+        "published": "2026-03-20T11:31:38+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
+        "content": "Admins: Sorry to say, but it's likely a rotate-your-secrets kind of weekend.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/",
+        "published": "2026-03-20T20:50:46+00:00"
+      },
+      {
+        "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher OpenAI has a new grand challenge: building an AI researcher—a fully automated agent-ba…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+        "published": "2026-03-20T13:15:45+00:00"
+      },
+      {
+        "title": "OpenAI is throwing everything into building a fully automated researcher",
+        "content": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​O…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+        "published": "2026-03-20T11:57:16+00:00"
+      },
+      {
+        "title": "Mind-altering substances are (still) falling short in clinical trials",
+        "content": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, in…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
+        "published": "2026-03-20T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
