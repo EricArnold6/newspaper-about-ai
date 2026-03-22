@@ -1,0 +1,53 @@
+{
+  "date": "2026-03-22",
+  "generated_at": "2026-03-22T03:39:52.823070+00:00",
+  "article_count": 4,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+        "content": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+        "published": "2026-03-21T19:30:27+00:00"
+      },
+      {
+        "title": "Delve accused of misleading customers with ‘fake compliance’",
+        "content": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+        "published": "2026-03-21T17:00:05+00:00"
+      },
+      {
+        "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+        "content": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+        "published": "2026-03-21T16:28:00+00:00"
+      },
+      {
+        "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+        "content": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims th…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+        "published": "2026-03-21T01:40:28+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
