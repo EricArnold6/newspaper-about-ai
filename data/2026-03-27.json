@@ -1,0 +1,124 @@
+{
+  "date": "2026-03-27",
+  "generated_at": "2026-03-27T03:50:15.934659+00:00",
+  "article_count": 14,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+        "content": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+        "published": "2026-03-26T23:47:56+00:00"
+      },
+      {
+        "title": "Wikipedia cracks down on the use of AI in article writing",
+        "content": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+        "published": "2026-03-26T21:50:10+00:00"
+      },
+      {
+        "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+        "content": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+        "published": "2026-03-26T18:34:02+00:00"
+      },
+      {
+        "title": "Data centers get ready — the Senate wants to see your power bills",
+        "content": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+        "published": "2026-03-26T18:23:31+00:00"
+      },
+      {
+        "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+        "content": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+        "published": "2026-03-26T15:25:13+00:00"
+      },
+      {
+        "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+        "content": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+        "published": "2026-03-26T13:41:00+00:00"
+      },
+      {
+        "title": "Cohere launches an open source voice model specifically for transcription",
+        "content": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+        "published": "2026-03-26T13:30:00+00:00"
+      },
+      {
+        "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+        "content": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+        "published": "2026-03-26T12:00:00+00:00"
+      },
+      {
+        "title": "Mistral releases a new open source model for speech generation",
+        "content": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+        "published": "2026-03-26T11:30:00+00:00"
+      },
+      {
+        "title": "The least surprising chapter of the Manus story is what’s happening right now",
+        "content": "Did anyone think there would not be a reckoning over this tie-up?",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
+        "published": "2026-03-26T02:46:48+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+        "content": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+        "published": "2026-03-26T15:23:35+00:00"
+      },
+      {
+        "title": "The Download: a battery pivot to AI, and rewriting math",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this battery company is pivoting to AI Qichao Hu doesn’t mince words about the state of the battery industry. “Almost every Western battery company has eit…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
+        "published": "2026-03-26T12:42:53+00:00"
+      },
+      {
+        "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
+        "content": "The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages government data, its own AI models, and decades of alpine-life experience to offer better snow (an…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
+        "published": "2026-03-26T10:00:00+00:00"
+      },
+      {
+        "title": "Are high gas prices good news for EVs? It’s complicated.",
+        "content": "I live in a dense city with plentiful public transportation options and limited parking, so I don’t own a car. I’m often utterly clueless about the current price of gasoline. But as the conflict in Iran has escalated, fossil-fuel prices have been on a roller-coaster, and I’ve started paying atten…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/",
+        "published": "2026-03-26T10:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
