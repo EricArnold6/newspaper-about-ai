@@ -1,0 +1,61 @@
+{
+  "date": "2026-03-29",
+  "generated_at": "2026-03-29T03:55:19.968085+00:00",
+  "article_count": 5,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+        "content": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+        "published": "2026-03-28T23:00:00+00:00"
+      },
+      {
+        "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+        "content": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+        "published": "2026-03-28T20:45:54+00:00"
+      },
+      {
+        "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+        "content": "All but two of Musk's 11 xAI co-founders departed before this week.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+        "published": "2026-03-28T16:11:16+00:00"
+      },
+      {
+        "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+        "content": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+        "published": "2026-03-28T14:15:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "A woman’s uterus has been kept alive outside the body for the first time",
+        "content": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen. It is covered in flexible plastic tubing—which act as veins and arteries—connecting…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
+        "published": "2026-03-28T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
