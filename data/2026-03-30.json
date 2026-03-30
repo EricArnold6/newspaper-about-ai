@@ -1,0 +1,32 @@
+{
+  "date": "2026-03-30",
+  "generated_at": "2026-03-30T04:08:40.087327+00:00",
+  "article_count": 1,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Sora’s shutdown could be a reality check moment for AI video",
+        "content": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+        "published": "2026-03-29T16:30:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
