@@ -1,0 +1,75 @@
+{
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T03:44:36.983640+00:00",
+  "article_count": 7,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+        "content": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+        "published": "2026-04-01T22:12:13+00:00"
+      },
+      {
+        "title": "Meta’s natural gas binge could power South Dakota",
+        "content": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+        "published": "2026-04-01T18:35:36+00:00"
+      },
+      {
+        "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+        "content": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+        "published": "2026-04-01T16:00:00+00:00"
+      },
+      {
+        "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+        "content": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+        "published": "2026-04-01T14:00:00+00:00"
+      },
+      {
+        "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
+        "content": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+        "published": "2026-04-01T01:42:59+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "The Download: gig workers training humanoids, and better AI benchmarks",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home When Zeus, a medical student in Nigeria, returns to his apartment from a long day at the hospital, he …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
+        "published": "2026-04-01T12:10:00+00:00"
+      },
+      {
+        "title": "The gig workers who are training humanoid robots at home",
+        "content": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hands in front of him like a sleepwalker and puts a…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+        "published": "2026-04-01T11:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
