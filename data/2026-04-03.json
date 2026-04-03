@@ -1,0 +1,75 @@
+{
+  "date": "2026-04-03",
+  "generated_at": "2026-04-03T03:45:54.418038+00:00",
+  "article_count": 7,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+        "content": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+        "published": "2026-04-02T19:21:00+00:00"
+      },
+      {
+        "title": "Microsoft takes on AI rivals with three new foundational models",
+        "content": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+        "published": "2026-04-02T16:48:16+00:00"
+      },
+      {
+        "title": "Google now lets you direct avatars through prompts in its Vids app",
+        "content": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+        "published": "2026-04-02T16:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+        "content": "Both GDDRHammer and GeForge hammer GPU memory in ways that compromise the CPU.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+        "published": "2026-04-02T17:00:11+00:00"
+      },
+      {
+        "title": "Gemma 4: Byte for byte, the most capable open models",
+        "content": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+        "published": "2026-04-02T16:00:49+00:00"
+      },
+      {
+        "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next. As the war in Iran continues, one of the most visible global economic ripple effects has been fossil-fuel price…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+        "published": "2026-04-02T12:10:00+00:00"
+      },
+      {
+        "title": "Fuel prices are soaring. Plastic could be next.",
+        "content": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can’t get away from news about the price of gasoline, which just topped an average of $4 a gallon in…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
+        "published": "2026-04-02T10:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
