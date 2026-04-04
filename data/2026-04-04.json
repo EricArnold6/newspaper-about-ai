@@ -1,0 +1,82 @@
+{
+  "date": "2026-04-04",
+  "generated_at": "2026-04-04T03:34:39.529557+00:00",
+  "article_count": 8,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+        "content": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+        "published": "2026-04-03T20:35:34+00:00"
+      },
+      {
+        "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+        "content": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+        "published": "2026-04-03T20:28:40+00:00"
+      },
+      {
+        "title": "Anthropic ramps up its political activities with a new PAC",
+        "content": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+        "published": "2026-04-03T20:22:18+00:00"
+      },
+      {
+        "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+        "content": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+        "published": "2026-04-03T19:48:22+00:00"
+      },
+      {
+        "title": "People would rather have an Amazon warehouse in their backyard than a data center",
+        "content": "A new poll shows that the debate over data centers is far from settled.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+        "published": "2026-04-03T19:20:36+00:00"
+      },
+      {
+        "title": "The Facebook insider building content moderation for the AI era",
+        "content": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+        "published": "2026-04-03T14:00:15+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "OpenClaw gives users yet another reason to be freaked out about security",
+        "content": "The viral AI agentic tool let attackers silently gain admin unauthenticated access.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/",
+        "published": "2026-04-03T20:30:15+00:00"
+      },
+      {
+        "title": "Four things we’d need to put data centers in space",
+        "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
+        "published": "2026-04-03T17:03:19+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
