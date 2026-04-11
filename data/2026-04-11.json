@@ -1,0 +1,75 @@
+{
+  "date": "2026-04-11",
+  "generated_at": "2026-04-11T03:38:01.311708+00:00",
+  "article_count": 7,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+        "content": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+        "published": "2026-04-10T20:27:52+00:00"
+      },
+      {
+        "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+        "content": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+        "published": "2026-04-10T16:41:34+00:00"
+      },
+      {
+        "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+        "content": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how A…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+        "published": "2026-04-10T16:38:43+00:00"
+      },
+      {
+        "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
+        "content": "This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+        "published": "2026-04-10T14:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
+        "content": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment”? That’s the Trump-era vocabulary paradox facing Moderna, the covid-19 shot maker whose plans for next-generation mRNA vaccines against flus an…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/",
+        "published": "2026-04-10T14:04:20+00:00"
+      },
+      {
+        "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Constellations —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series. A spacecraft has…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+        "published": "2026-04-10T12:10:00+00:00"
+      },
+      {
+        "title": "Constellations",
+        "content": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s AI mind were left. Outside, the atmosphere registered as hostile to most organisms. We huddled i…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
+        "published": "2026-04-10T10:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
