@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-12",
+  "generated_at": "2026-04-12T04:11:34.730708+00:00",
+  "article_count": 1,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+        "content": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+        "published": "2026-04-11T17:18:22+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
