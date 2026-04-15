@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-15",
+  "generated_at": "2026-04-15T04:09:37.763173+00:00",
+  "article_count": 12,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+        "content": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+        "published": "2026-04-14T18:09:12+00:00"
+      },
+      {
+        "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+        "content": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+        "published": "2026-04-14T17:13:03+00:00"
+      },
+      {
+        "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+        "content": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+        "published": "2026-04-14T17:00:00+00:00"
+      },
+      {
+        "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+        "content": "The first StrictlyVC of the year will be coming to San Francisco before you know it. There are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+        "published": "2026-04-14T15:30:49+00:00"
+      },
+      {
+        "title": "Google brings its Gemini Personal Intelligence feature to India",
+        "content": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+        "published": "2026-04-14T14:48:34+00:00"
+      },
+      {
+        "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
+        "content": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
+        "published": "2026-04-14T14:22:44+00:00"
+      },
+      {
+        "title": "OpenAI has bought AI personal finance startup Hiro",
+        "content": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+        "published": "2026-04-14T00:23:33+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Redefining the future of software engineering",
+        "content": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took software from sil…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+        "published": "2026-04-14T18:00:00+00:00"
+      },
+      {
+        "title": "The Download: the state of AI, and protecting bears with drones",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Want to understand the current state of AI? Check out these charts. If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a b…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
+        "published": "2026-04-14T12:10:00+00:00"
+      },
+      {
+        "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+        "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Jared Isaacman, the recently confirmed NASA admin…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
+        "published": "2026-04-14T12:04:47+00:00"
+      },
+      {
+        "title": "Coming soon: 10 Things That Matter in AI Right Now",
+        "content": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, p…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+        "published": "2026-04-14T11:00:00+00:00"
+      },
+      {
+        "title": "The problem with thinking you’re part Neanderthal",
+        "content": "You’ve probably heard some version of this idea before: that many of us have an “inner Neanderthal.” That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met members of a cousin species—the broad-browed, heavier-set Neanderthals—and, well, one thing led to anot…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/",
+        "published": "2026-04-14T10:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
