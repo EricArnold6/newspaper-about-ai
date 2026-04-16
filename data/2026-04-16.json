@@ -1,0 +1,131 @@
+{
+  "date": "2026-04-16",
+  "generated_at": "2026-04-16T04:15:39.246038+00:00",
+  "article_count": 15,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+        "content": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+        "published": "2026-04-15T19:28:36+00:00"
+      },
+      {
+        "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+        "content": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+        "published": "2026-04-15T18:55:12+00:00"
+      },
+      {
+        "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
+        "content": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+        "published": "2026-04-15T18:51:54+00:00"
+      },
+      {
+        "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+        "content": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+        "published": "2026-04-15T18:38:10+00:00"
+      },
+      {
+        "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+        "content": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+        "published": "2026-04-15T18:33:20+00:00"
+      },
+      {
+        "title": "Google rolls out a native Gemini app for Mac",
+        "content": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+        "published": "2026-04-15T18:22:13+00:00"
+      },
+      {
+        "title": "The musician-turned-biotech-founder waiting to fundraise",
+        "content": "When Grammy-nominated singer-songwriter Aloe Blacc got COVID despite being vaccinated and boosted, he tried to fund research for a better solution. What he quickly found out? You can’t just write a check in biotech. Regulators require a commercialization plan, and philanthropy doesn’t move scienc…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
+        "published": "2026-04-15T17:58:28+00:00"
+      },
+      {
+        "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+        "content": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+        "published": "2026-04-15T17:24:18+00:00"
+      },
+      {
+        "title": "After sale of its shoe business, Allbirds pivots to AI",
+        "content": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+        "published": "2026-04-15T14:24:31+00:00"
+      },
+      {
+        "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
+        "content": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
+        "published": "2026-04-15T13:06:54+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+        "content": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+        "published": "2026-04-15T16:03:19+00:00"
+      },
+      {
+        "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work? Just before Artemis II began its historic slingshot around the …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/",
+        "published": "2026-04-15T12:10:00+00:00"
+      },
+      {
+        "title": "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
+        "content": "From inside a money-laundering center in Cambodia, an employee opens a popular Vietnamese banking app on his phone. The app asks him to upload a photo associated with the account, so he clicks on a picture of a 30-something Asian man. Next, the app requests to open the camera for a video “livenes…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
+        "published": "2026-04-15T11:26:12+00:00"
+      },
+      {
+        "title": "No one’s sure if synthetic mirror life will kill us all",
+        "content": "For four days in February 2019, some 30 synthetic biologists and ethicists hunkered down at a conference center in Northern Virginia to brainstorm high-risk, cutting-­edge, irresistibly exciting ideas that the National Science Foundation should fund. By the end of the meeting, they’d landed on a …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/",
+        "published": "2026-04-15T09:00:00+00:00"
+      },
+      {
+        "title": "Building trust in the AI era with privacy-led UX",
+        "content": "The practice of privacy-led user experience (UX) is a design philosophy that treats transparency around data collection and usage as an integral part of the customer relationship. An undertapped opportunity in digital marketing, privacy-led UX treats user consent not as a tick-box compliance exer…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
+        "published": "2026-04-15T06:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
