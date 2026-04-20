@@ -1,0 +1,53 @@
+{
+  "date": "2026-04-20",
+  "generated_at": "2026-04-20T04:20:54.586518+00:00",
+  "article_count": 4,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "OpenAI’s existential questions",
+        "content": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+        "published": "2026-04-19T21:24:06+00:00"
+      },
+      {
+        "title": "The 12-month window",
+        "content": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+        "published": "2026-04-19T19:30:00+00:00"
+      },
+      {
+        "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+        "content": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+        "published": "2026-04-19T16:30:00+00:00"
+      },
+      {
+        "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+        "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+        "published": "2026-04-19T16:01:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
