@@ -1,0 +1,110 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T04:34:53.062317+00:00",
+  "article_count": 12,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+        "content": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+        "published": "2026-04-27T17:40:38+00:00"
+      },
+      {
+        "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+        "content": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+        "published": "2026-04-27T17:24:21+00:00"
+      },
+      {
+        "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+        "content": "Skye's new AI app attracted investors before it even launched — a sign of interest in a more AI-aware iPhone.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+        "published": "2026-04-27T16:13:02+00:00"
+      },
+      {
+        "title": "China blocks Meta’s $2B Manus deal after months-long probe",
+        "content": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg’s push into AI agents.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+        "published": "2026-04-27T13:16:55+00:00"
+      },
+      {
+        "title": "OpenAI could be making a phone with AI agents replacing apps",
+        "content": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working on a phone in collaboration with MediaTek, Qualcomm, and Luxshare.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+        "published": "2026-04-27T13:08:59+00:00"
+      },
+      {
+        "title": "Meta inks deal for solar power at night, beamed from space",
+        "content": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+        "published": "2026-04-27T10:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+        "content": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly anticipated IPO, the court could rule on whether the company is allowed to exist as a for-profit enterp…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+        "published": "2026-04-27T22:52:57+00:00"
+      },
+      {
+        "title": "Open source package with 1 million monthly downloads stole user credentials",
+        "content": "If you're one of millions using element-data, it's time to check for compromise.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/",
+        "published": "2026-04-27T21:04:03+00:00"
+      },
+      {
+        "title": "The missing step between hype and profit",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In February, I picked up a flyer at an anti-AI march in London. I can’t say for sure whether or not its writers meant to riff on South Park’s underpants gnomes…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
+        "published": "2026-04-27T16:13:41+00:00"
+      },
+      {
+        "title": "Rebuilding the data stack for AI",
+        "content": "Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering that the biggest obstacle to meaningful adoption is the state of their data. While consumer-facing AI tools have dazzled users with speed and ease, enterprise leaders are discovering that deploying A…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+        "published": "2026-04-27T13:00:00+00:00"
+      },
+      {
+        "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+        "published": "2026-04-27T12:10:00+00:00"
+      },
+      {
+        "title": "Announcing our partnership with the Republic of Korea",
+        "content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+        "published": "2026-04-27T07:00:06+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
