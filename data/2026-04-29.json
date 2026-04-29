@@ -1,0 +1,89 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T04:30:43.616838+00:00",
+  "article_count": 9,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Amazon is already offering new OpenAI products on AWS",
+        "content": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+        "published": "2026-04-28T19:48:02+00:00"
+      },
+      {
+        "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+        "content": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+        "published": "2026-04-28T18:49:54+00:00"
+      },
+      {
+        "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+        "content": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+        "published": "2026-04-28T18:15:00+00:00"
+      },
+      {
+        "title": "Lovable launches its vibe-coding app on iOS and Android",
+        "content": "The app allows developers to vibe code web apps and websites on the go.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+        "published": "2026-04-28T16:09:30+00:00"
+      },
+      {
+        "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+        "content": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+        "published": "2026-04-28T13:54:06+00:00"
+      },
+      {
+        "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
+        "content": "The startup specializes in \"non-invasive\" \"mind-reading\" tech — a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+        "published": "2026-04-28T13:19:34+00:00"
+      },
+      {
+        "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+        "content": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+        "published": "2026-04-28T13:00:00+00:00"
+      },
+      {
+        "title": "Otter’s new feature lets users search across their enterprise tools",
+        "content": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow connections with Microsoft Outlook, Teams, SharePoint, and Slack.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+        "published": "2026-04-28T12:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Elon Musk and Sam Altman are going to court over OpenAI’s future Elon Musk and OpenAI CEO Sam Altman head to trial this week in a case with sweeping consequenc…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+        "published": "2026-04-28T12:10:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
