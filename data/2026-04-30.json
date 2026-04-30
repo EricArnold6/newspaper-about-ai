@@ -1,0 +1,117 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T04:33:16.904367+00:00",
+  "article_count": 13,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "On the stand, Elon Musk can’t escape his own tweets",
+        "content": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+        "published": "2026-04-29T23:58:36+00:00"
+      },
+      {
+        "title": "Meta is still burning money on AR/VR",
+        "content": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+        "published": "2026-04-29T23:58:26+00:00"
+      },
+      {
+        "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+        "content": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+        "published": "2026-04-29T23:55:23+00:00"
+      },
+      {
+        "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+        "content": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+        "published": "2026-04-29T23:02:23+00:00"
+      },
+      {
+        "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+        "content": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+        "published": "2026-04-29T22:20:48+00:00"
+      },
+      {
+        "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+        "content": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+        "published": "2026-04-29T20:59:00+00:00"
+      },
+      {
+        "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
+        "content": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in the world, inclu…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
+        "published": "2026-04-29T18:59:44+00:00"
+      },
+      {
+        "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+        "content": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+        "published": "2026-04-29T18:33:05+00:00"
+      },
+      {
+        "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+        "content": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+        "published": "2026-04-29T16:42:33+00:00"
+      },
+      {
+        "title": "More Gemini features are coming to Google TV",
+        "content": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+        "published": "2026-04-29T16:40:49+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "The Download: storing nuclear waste and orchestrating agents",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+        "published": "2026-04-29T12:10:00+00:00"
+      },
+      {
+        "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
+        "content": "Security firms find themselves especially exposed.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
+        "published": "2026-04-29T11:00:24+00:00"
+      },
+      {
+        "title": "It’s time to make a plan for nuclear waste",
+        "content": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a resurgence of money and attention in the industry. That newfound interest is exactly why it’s time …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
+        "published": "2026-04-29T08:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
