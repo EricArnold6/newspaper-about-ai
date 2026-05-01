@@ -1,0 +1,131 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T04:51:15.173385+00:00",
+  "article_count": 15,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+        "content": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+        "published": "2026-04-30T23:07:56+00:00"
+      },
+      {
+        "title": "Apple was surprised by AI-driven demand for Macs",
+        "content": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+        "published": "2026-04-30T22:12:52+00:00"
+      },
+      {
+        "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+        "content": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+        "published": "2026-04-30T20:14:47+00:00"
+      },
+      {
+        "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+        "content": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+        "published": "2026-04-30T19:27:41+00:00"
+      },
+      {
+        "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+        "content": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+        "published": "2026-04-30T18:20:03+00:00"
+      },
+      {
+        "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+        "content": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+        "published": "2026-04-30T18:03:57+00:00"
+      },
+      {
+        "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+        "content": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+        "published": "2026-04-30T17:53:53+00:00"
+      },
+      {
+        "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+        "content": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+        "published": "2026-04-30T17:46:54+00:00"
+      },
+      {
+        "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+        "content": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+        "published": "2026-04-30T17:15:19+00:00"
+      },
+      {
+        "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
+        "content": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+        "published": "2026-04-30T16:06:49+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+        "content": "CopyFail threatens multi-tenant servers, CI/CD work flows, Kubernetes containers, and more.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
+        "published": "2026-04-30T20:20:48+00:00"
+      },
+      {
+        "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
+        "content": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to serve the role of backup human bodies. by Antonio Regalado March 20, 2026 Related Stories: Access …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
+        "published": "2026-04-30T18:42:50+00:00"
+      },
+      {
+        "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+        "content": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how t…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+        "published": "2026-04-30T15:59:41+00:00"
+      },
+      {
+        "title": "Enabling a new model for healthcare with AI co-clinician",
+        "content": "Researching the path to AI-augmented care and development of an AI co-clinician.",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/ai-co-clinician/",
+        "published": "2026-04-30T12:14:15+00:00"
+      },
+      {
+        "title": "The Download: the North Pole’s future and humanoid data",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Digging for clues about the North Pole’s past In the past, getting to the North Pole involved a treacherous trip through ice many meters thick. But last year, …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
+        "published": "2026-04-30T12:10:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
