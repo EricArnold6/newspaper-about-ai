@@ -1,0 +1,39 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T04:41:37.359168+00:00",
+  "article_count": 2,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "AI-generated actors and scripts are now ineligible for Oscars",
+        "content": "Bad news for Tilly Norwood.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+        "published": "2026-05-02T21:54:58+00:00"
+      },
+      {
+        "title": "The best AI dictation apps, tested and ranked",
+        "content": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+        "published": "2026-05-02T16:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
