@@ -1,0 +1,39 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T04:41:21.768691+00:00",
+  "article_count": 2,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "‘This is fine’ creator says AI startup stole his art",
+        "content": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+        "published": "2026-05-03T20:16:51+00:00"
+      },
+      {
+        "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+        "content": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+        "published": "2026-05-03T18:00:09+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
