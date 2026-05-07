@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T04:35:22.182064+00:00",
+  "article_count": 12,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+        "content": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+        "published": "2026-05-06T21:57:56+00:00"
+      },
+      {
+        "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+        "content": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+        "published": "2026-05-06T21:43:24+00:00"
+      },
+      {
+        "title": "Is xAI a neocloud now?",
+        "content": "xAI's real business may be more about building data centers than training AI models.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+        "published": "2026-05-06T21:32:55+00:00"
+      },
+      {
+        "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+        "content": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+        "published": "2026-05-06T18:23:54+00:00"
+      },
+      {
+        "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+        "content": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+        "published": "2026-05-06T17:23:08+00:00"
+      },
+      {
+        "title": "DeepSeek could hit $45B valuation from its first investment round",
+        "content": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+        "published": "2026-05-06T17:20:34+00:00"
+      },
+      {
+        "title": "Google updates AI search to include quotes from Reddit and other sources",
+        "content": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+        "published": "2026-05-06T15:49:39+00:00"
+      },
+      {
+        "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+        "content": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+        "published": "2026-05-06T15:46:38+00:00"
+      },
+      {
+        "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+        "content": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+        "published": "2026-05-06T15:27:36+00:00"
+      },
+      {
+        "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+        "content": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+        "published": "2026-05-06T15:12:49+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
+        "content": "A celebration of the tweaks and customizations that make life easier at the CLI.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
+        "published": "2026-05-06T13:32:47+00:00"
+      },
+      {
+        "title": "The Download: seafloor science and military chatbots",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblong neon submersibles started to descend nearly 6,000 meter…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
+        "published": "2026-05-06T12:10:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
