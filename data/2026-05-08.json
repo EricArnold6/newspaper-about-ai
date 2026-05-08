@@ -1,0 +1,124 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T04:17:07.303724+00:00",
+  "article_count": 14,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "OpenAI launches new voice intelligence features in its API",
+        "content": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+        "published": "2026-05-07T22:24:50+00:00"
+      },
+      {
+        "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+        "content": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+        "published": "2026-05-07T21:02:11+00:00"
+      },
+      {
+        "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+        "content": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+        "published": "2026-05-07T20:20:20+00:00"
+      },
+      {
+        "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+        "content": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+        "published": "2026-05-07T19:57:59+00:00"
+      },
+      {
+        "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+        "content": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+        "published": "2026-05-07T19:21:21+00:00"
+      },
+      {
+        "title": "Bumble is getting rid of the swipe, CEO says",
+        "content": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+        "published": "2026-05-07T19:06:17+00:00"
+      },
+      {
+        "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+        "content": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+        "published": "2026-05-07T16:05:48+00:00"
+      },
+      {
+        "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
+        "content": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportunities for major scaling impact.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
+        "published": "2026-05-07T15:00:00+00:00"
+      },
+      {
+        "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
+        "content": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
+        "published": "2026-05-07T14:30:00+00:00"
+      },
+      {
+        "title": "Aurora’s Chris Urmson on why self-driving trucks are finally ready to scale",
+        "content": "Self-driving has been “almost here” for over a decade. But somewhere between DARPA challenges and a handful of driverless trucks hauling freight between Dallas and Houston, Aurora co-founder and CEO Chris Urmson’s story changed. The self-driving truck company started commercial driverless operati…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/",
+        "published": "2026-05-07T14:24:54+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Mozilla says 271 vulnerabilities found by Mythos have \"almost no false positives\"",
+        "content": "The developer of Firefox says it has \"completely bought in\" on AI-assisted bug discovery.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+        "published": "2026-05-07T19:18:16+00:00"
+      },
+      {
+        "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into the world over the last four decades. But the process can still be slow, painful, and expensive—and…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
+        "published": "2026-05-07T12:10:00+00:00"
+      },
+      {
+        "title": "The balcony solar boom is coming to the US",
+        "content": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions and power bills. Balcony solar is already popular in Europe, and proponents say that the systems…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
+        "published": "2026-05-07T10:00:00+00:00"
+      },
+      {
+        "title": "What’s next for IVF",
+        "content": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Forty-eight years ago this July, Louise Joy Brown became the world’s first person born with the help of in vitro fertilization. …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
+        "published": "2026-05-07T09:04:50+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
