@@ -1,0 +1,39 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T04:45:58.655071+00:00",
+  "article_count": 2,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+        "content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "published": "2026-05-09T21:45:00+00:00"
+      },
+      {
+        "title": "Nvidia has already committed $40B to equity AI deals this year",
+        "content": "Nvidia continues to be a big investor in the AI ecosystem.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+        "published": "2026-05-09T14:43:30+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
