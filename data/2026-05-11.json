@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T04:59:09.163851+00:00",
+  "article_count": 4,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Get ready for the whisper-filled office of the future",
+        "content": "How will work setups change if we spend more and more time talking to our computers?",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+        "published": "2026-05-10T21:15:30+00:00"
+      },
+      {
+        "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+        "content": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+        "published": "2026-05-10T20:40:41+00:00"
+      },
+      {
+        "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+        "content": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+        "published": "2026-05-10T15:34:25+00:00"
+      },
+      {
+        "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+        "content": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+        "published": "2026-05-10T02:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
