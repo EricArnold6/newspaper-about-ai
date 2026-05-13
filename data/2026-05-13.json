@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T04:49:00.096352+00:00",
+  "article_count": 12,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+        "content": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usuall…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+        "published": "2026-05-12T18:05:15+00:00"
+      },
+      {
+        "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+        "content": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+        "published": "2026-05-12T17:36:34+00:00"
+      },
+      {
+        "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+        "content": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+        "published": "2026-05-12T17:30:57+00:00"
+      },
+      {
+        "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+        "content": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+        "published": "2026-05-12T17:01:00+00:00"
+      },
+      {
+        "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+        "content": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+        "published": "2026-05-12T17:00:00+00:00"
+      },
+      {
+        "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+        "content": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+        "published": "2026-05-12T17:00:00+00:00"
+      },
+      {
+        "title": "Google brings agentic AI and vibe-coded widgets to Android",
+        "content": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+        "published": "2026-05-12T17:00:00+00:00"
+      },
+      {
+        "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
+        "content": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order to get a custom dashboard that you can add and resize on your home screen.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
+        "published": "2026-05-12T17:00:00+00:00"
+      },
+      {
+        "title": "Threads tests a Meta AI integration that works similarly to Grok",
+        "content": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+        "published": "2026-05-12T16:34:36+00:00"
+      },
+      {
+        "title": "Dessn raises $6M for its production-focused design tool",
+        "content": "A new startup called Dessn has raised $6 million to build AI-powered design tools that work directly with production codebases.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+        "published": "2026-05-12T13:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "World Models: 10 Things That Matter in AI Right Now",
+        "content": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology Review editors and reporters for a subscriber-only Roundtables discussion, “Can AI Learn to Under…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
+        "published": "2026-05-12T16:22:15+00:00"
+      },
+      {
+        "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three things in AI to watch, according to a Nobel-winning economist A few months before he won the Nobel Prize in economics in 2024, Daron Acemoglu published a…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/",
+        "published": "2026-05-12T12:10:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
