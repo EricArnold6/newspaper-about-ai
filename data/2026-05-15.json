@@ -1,0 +1,145 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T04:52:26.320517+00:00",
+  "article_count": 17,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+        "content": "Here's what the biggest tech court case of the year is all about.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+        "published": "2026-05-14T22:47:51+00:00"
+      },
+      {
+        "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+        "content": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+        "published": "2026-05-14T21:30:44+00:00"
+      },
+      {
+        "title": "OpenAI says Codex is coming to your phone",
+        "content": "The update gives users enhanced flexibility over how they can manage their workflows.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+        "published": "2026-05-14T20:58:55+00:00"
+      },
+      {
+        "title": "What happens when AI starts building itself?",
+        "content": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+        "published": "2026-05-14T19:57:20+00:00"
+      },
+      {
+        "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+        "content": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+        "published": "2026-05-14T19:12:03+00:00"
+      },
+      {
+        "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+        "content": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+        "published": "2026-05-14T19:05:01+00:00"
+      },
+      {
+        "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+        "content": "A year ago, it looked like this day would never happen for Cerebras.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+        "published": "2026-05-14T16:30:02+00:00"
+      },
+      {
+        "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+        "content": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+        "published": "2026-05-14T15:20:18+00:00"
+      },
+      {
+        "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
+        "content": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+        "published": "2026-05-14T14:01:14+00:00"
+      },
+      {
+        "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
+        "content": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+        "published": "2026-05-14T14:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Zero-day exploit completely defeats default Windows 11 BitLocker protections",
+        "content": "It's not entirely clear how the exploit works. Microsoft says it's investigating.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+        "published": "2026-05-14T18:32:01+00:00"
+      },
+      {
+        "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
+        "content": "Layoffs are \"not a savings-driven restructure,\" CFO says.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+        "published": "2026-05-14T16:47:43+00:00"
+      },
+      {
+        "title": "Data readiness for agentic AI in financial services",
+        "content": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+        "published": "2026-05-14T13:00:00+00:00"
+      },
+      {
+        "title": "Establishing AI and data sovereignty in the age of autonomous systems",
+        "content": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you will get powerful results. But your data passes through systems you do not own…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
+        "published": "2026-05-14T13:00:00+00:00"
+      },
+      {
+        "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognitio…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+        "published": "2026-05-14T12:10:00+00:00"
+      },
+      {
+        "title": "The Tesla Semi could be a big deal for electric trucking",
+        "content": "The Tesla Semi has officially arrived. The company recently released a photo of the first vehicle rolling off its new full-scale production line. This moment has been nearly a decade in the making: The company first announced the truck in late 2017. And now we’ve got final battery specs, official…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/14/1137197/tesla-semi-electric-trucking/",
+        "published": "2026-05-14T10:00:00+00:00"
+      },
+      {
+        "title": "The shock of seeing your body used in deepfake porn",
+        "content": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in fact return…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+        "published": "2026-05-14T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
