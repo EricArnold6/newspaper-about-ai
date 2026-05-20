@@ -1,0 +1,75 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-20T16:21:42.155333+00:00",
+  "article_count": 7,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "AI search startups are blowing up",
+        "content": "AI search has quietly become one of the most attractive targets in consumer AI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+        "published": "2026-05-20T15:04:45+00:00"
+      },
+      {
+        "title": "Stability AI releases a new audio model that can create six-minute songs",
+        "content": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+        "published": "2026-05-20T15:00:00+00:00"
+      },
+      {
+        "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+        "content": "NanoCo, the company behind OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+        "published": "2026-05-20T14:00:00+00:00"
+      },
+      {
+        "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
+        "content": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup here.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/",
+        "published": "2026-05-20T14:00:00+00:00"
+      },
+      {
+        "title": "Figma adds an AI assistant to its collaborative canvas",
+        "content": "Figma's new AI assistant will be first available on Figma Design",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+        "published": "2026-05-20T13:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Green steel startup Boston Metal is doubling down on critical metals",
+        "content": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report. The company has been known largely for its efforts to clean up steel production, an industry that’s responsible for about 8% of global greenhouse emissions tod…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
+        "published": "2026-05-20T13:00:00+00:00"
+      },
+      {
+        "title": "The Download: fully artificial chicken eggs and why Musk lost",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell The baby chicks were shifting and starting to pip—or trying to hatch. But not from…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/",
+        "published": "2026-05-20T12:10:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
