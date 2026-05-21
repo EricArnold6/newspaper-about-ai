@@ -1,0 +1,124 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-21T16:13:07.875334+00:00",
+  "article_count": 14,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+        "content": "Spotify is releasing new audiobook plans later this year",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+        "published": "2026-05-21T15:27:00+00:00"
+      },
+      {
+        "title": "Spotify takes on Google’s NotebookLM with its new app",
+        "content": "Spotify is releasing the new desktop app as a research preview in more than 20 markets",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+        "published": "2026-05-21T15:27:00+00:00"
+      },
+      {
+        "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+        "content": "Spotify will let you generate daily or weekly briefs based on your prompts",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+        "published": "2026-05-21T15:27:00+00:00"
+      },
+      {
+        "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
+        "content": "Brett Adcock's new AI startup is now valued at $6 billion by its investors.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+        "published": "2026-05-21T14:00:00+00:00"
+      },
+      {
+        "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+        "content": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+        "published": "2026-05-21T14:00:00+00:00"
+      },
+      {
+        "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+        "content": "The AI agents are coming. A lot of them.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+        "published": "2026-05-21T13:52:23+00:00"
+      },
+      {
+        "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+        "content": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+        "published": "2026-05-21T13:38:42+00:00"
+      },
+      {
+        "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+        "content": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+        "published": "2026-05-21T00:28:31+00:00"
+      },
+      {
+        "title": "Anthropic says it’s about to have its first profitable quarter",
+        "content": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+        "published": "2026-05-21T00:21:21+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+        "content": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was c…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+        "published": "2026-05-21T14:30:45+00:00"
+      },
+      {
+        "title": "US government takes $2 billion equity stake in nine quantum computing firms",
+        "content": "Beneficiaries include startup backed by firm with links to the Trump family.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
+        "published": "2026-05-21T13:48:38+00:00"
+      },
+      {
+        "title": "The Download: online safety’s future and climate tech’s big pivot",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
+        "published": "2026-05-21T12:10:00+00:00"
+      },
+      {
+        "title": "Climate tech companies are pivoting to critical minerals",
+        "content": "We’re over a year into the second Trump administration here in the US, and support for climate causes is weak. But climate tech companies are finding ways to survive and even thrive in this new environment, including by focusing on potential benefits outside decarbonization. Suddenly, it feels li…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/",
+        "published": "2026-05-21T10:00:00+00:00"
+      },
+      {
+        "title": "Tech researchers are suing the Trump administration over the future of online safety",
+        "content": "Since its earliest days back in office, the Trump administration has been going after researchers who study and try to counter hate speech, harassment, propaganda, and disinformation online. Now, some of those researchers are fighting back. Last week their lawsuit—which could have global repercus…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
+        "published": "2026-05-21T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
