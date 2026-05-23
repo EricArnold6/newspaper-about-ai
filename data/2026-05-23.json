@@ -1,0 +1,110 @@
+{
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T04:42:50.668417+00:00",
+  "article_count": 12,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "AI is being used to resurrect the voices of dead pilots",
+        "content": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+        "published": "2026-05-22T23:03:33+00:00"
+      },
+      {
+        "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+        "content": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+        "published": "2026-05-22T21:02:36+00:00"
+      },
+      {
+        "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+        "content": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+        "published": "2026-05-22T20:40:48+00:00"
+      },
+      {
+        "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+        "content": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target tha…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+        "published": "2026-05-22T18:17:07+00:00"
+      },
+      {
+        "title": "You can no longer Google the word ‘disregard’",
+        "content": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+        "published": "2026-05-22T16:16:48+00:00"
+      },
+      {
+        "title": "We tried Google’s AI glasses and they’re almost there",
+        "content": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+        "published": "2026-05-22T15:37:15+00:00"
+      },
+      {
+        "title": "SpaceX files to go public, and the math requires a little faith",
+        "content": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target tha…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+        "published": "2026-05-22T14:30:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+        "content": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+        "published": "2026-05-22T18:13:05+00:00"
+      },
+      {
+        "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attend…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+        "published": "2026-05-22T12:10:00+00:00"
+      },
+      {
+        "title": "A hacker group is poisoning open source code at an unprecedented scale",
+        "content": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+        "published": "2026-05-22T10:30:14+00:00"
+      },
+      {
+        "title": "Google I/O showed how the path for AI-driven science is shifting",
+        "content": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramaticall…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+        "published": "2026-05-22T10:00:00+00:00"
+      },
+      {
+        "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
+        "content": "This Sunday, a group of 42 athletes will gather in Las Vegas to compete in a somewhat unusual sporting competition. Participants in the inaugural Enhanced Games are being encouraged to take performance-enhancing drugs. The goal is to “push the boundaries of human performance.” The games’ organize…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
+        "published": "2026-05-22T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
