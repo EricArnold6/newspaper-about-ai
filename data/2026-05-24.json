@@ -1,0 +1,39 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T05:02:37.784350+00:00",
+  "article_count": 2,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Ferrari is using IBM’s AI to create F1 superfans",
+        "content": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+        "published": "2026-05-23T15:08:00+00:00"
+      },
+      {
+        "title": "Elon Musk has given up on solar power (on Earth)",
+        "content": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+        "published": "2026-05-23T13:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
