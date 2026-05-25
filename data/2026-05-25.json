@@ -1,0 +1,39 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T05:21:37.946847+00:00",
+  "article_count": 2,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Everyone is navigating AI security in real time — even Google",
+        "content": "We're in the transition period -- all of us.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+        "published": "2026-05-24T21:39:21+00:00"
+      },
+      {
+        "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+        "content": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+        "published": "2026-05-24T15:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
