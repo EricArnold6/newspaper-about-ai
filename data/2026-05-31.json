@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T01:47:13.008340+00:00",
+  "article_count": 5,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+        "content": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+        "published": "2026-05-30T21:45:00+00:00"
+      },
+      {
+        "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+        "content": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+        "published": "2026-05-30T16:30:00+00:00"
+      },
+      {
+        "title": "Meta is reportedly developing an AI pendant",
+        "content": "Meta seems to be making big bets on AI-powered hardware.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+        "published": "2026-05-30T15:59:58+00:00"
+      },
+      {
+        "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+        "content": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+        "published": "2026-05-30T15:30:00+00:00"
+      },
+      {
+        "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+        "content": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+        "published": "2026-05-30T13:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
