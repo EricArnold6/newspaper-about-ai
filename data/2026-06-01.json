@@ -1,0 +1,39 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T01:52:24.393454+00:00",
+  "article_count": 2,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Erin Brockovich takes aim at data center secrecy",
+        "content": "Environmental activist Erin Brockovich has a new mission.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+        "published": "2026-05-31T21:05:14+00:00"
+      },
+      {
+        "title": "Making sense of the debate over AI psychosis",
+        "content": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+        "published": "2026-05-31T15:30:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
