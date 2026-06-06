@@ -1,0 +1,103 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T01:44:10.213972+00:00",
+  "article_count": 11,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Startup Battlefield 200 applications officially close in 3 days",
+        "content": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+        "published": "2026-06-05T20:00:00+00:00"
+      },
+      {
+        "title": "Google will pay SpaceX $920M per month for compute",
+        "content": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+        "published": "2026-06-05T18:57:20+00:00"
+      },
+      {
+        "title": "The most interesting startups right now want to get you off your phone",
+        "content": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going v…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+        "published": "2026-06-05T17:17:06+00:00"
+      },
+      {
+        "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+        "content": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+        "published": "2026-06-05T14:49:12+00:00"
+      },
+      {
+        "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+        "content": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction. Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going v…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+        "published": "2026-06-05T14:00:00+00:00"
+      },
+      {
+        "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+        "content": "The Australian data center operator plans to set up 5GW of capacity in India.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+        "published": "2026-06-05T13:03:10+00:00"
+      },
+      {
+        "title": "Mira Murati steps back into the spotlight, carefully",
+        "content": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+        "published": "2026-06-05T05:06:37+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "How a USB-connected speaker can infect a PC without ever being touched",
+        "content": "Seller of the Sound Blaster Katana V2X doesn't consider the behavior a vulnerability.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+        "published": "2026-06-05T21:00:29+00:00"
+      },
+      {
+        "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instag…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+        "published": "2026-06-05T12:10:00+00:00"
+      },
+      {
+        "title": "Are AI chatbots making us lose control of our brains?",
+        "content": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital tec…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+        "published": "2026-06-05T09:00:00+00:00"
+      },
+      {
+        "title": "The Meta hack shows there’s more to AI security than Mythos",
+        "content": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+        "published": "2026-06-05T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
