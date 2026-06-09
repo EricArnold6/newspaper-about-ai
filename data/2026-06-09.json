@@ -1,0 +1,117 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T01:42:01.512512+00:00",
+  "article_count": 13,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+        "content": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+        "published": "2026-06-08T22:41:45+00:00"
+      },
+      {
+        "title": "Apple’s WWDC AI demos looked more real after $250M false ad settlement",
+        "content": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+        "published": "2026-06-08T22:39:57+00:00"
+      },
+      {
+        "title": "OpenAI files confidentially for IPO, following Anthropic",
+        "content": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+        "published": "2026-06-08T21:29:57+00:00"
+      },
+      {
+        "title": "Apple plays catch-up at WWDC",
+        "content": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to see AI as just one part of a broader effort to improve its software.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+        "published": "2026-06-08T21:15:42+00:00"
+      },
+      {
+        "title": "Apple bets cheaper AI will woo small developers",
+        "content": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+        "published": "2026-06-08T20:53:55+00:00"
+      },
+      {
+        "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+        "content": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+        "published": "2026-06-08T19:41:32+00:00"
+      },
+      {
+        "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+        "content": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+        "published": "2026-06-08T18:48:45+00:00"
+      },
+      {
+        "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+        "content": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+        "published": "2026-06-08T18:45:12+00:00"
+      },
+      {
+        "title": "Apple’s Image Playground doesn’t suck anymore",
+        "content": "Apple's AI image generator is getting a makeover that could make it more competitive.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+        "published": "2026-06-08T18:38:07+00:00"
+      },
+      {
+        "title": "Apple’s Photos app is getting new AI editing features",
+        "content": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+        "published": "2026-06-08T18:36:04+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+        "content": "73 packages run self-replicating stealer as soon as they're opened by an AI agent.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
+        "published": "2026-06-08T18:34:23+00:00"
+      },
+      {
+        "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s the first…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+        "published": "2026-06-08T12:10:00+00:00"
+      },
+      {
+        "title": "Why this year’s World Cup ball may not fly as far",
+        "content": "Much is new about this month’s upcoming FIFA World Cup tournament, which will be held in the US, Canada, and Mexico. It hosts more teams than ever before. It’s the first to occur in three different host countries. And, like predecessor cups for over half a century, it will employ a soccer ball wi…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
+        "published": "2026-06-08T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
