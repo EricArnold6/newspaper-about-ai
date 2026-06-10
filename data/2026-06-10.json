@@ -1,0 +1,159 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T01:47:45.154866+00:00",
+  "article_count": 19,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+        "content": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+        "published": "2026-06-09T23:17:51+00:00"
+      },
+      {
+        "title": "Hey, Siri, here’s what I actually want from AI",
+        "content": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+        "published": "2026-06-09T20:50:17+00:00"
+      },
+      {
+        "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+        "content": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+        "published": "2026-06-09T20:37:49+00:00"
+      },
+      {
+        "title": "Can tech companies learn to love cheaper AI models?",
+        "content": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+        "published": "2026-06-09T18:56:09+00:00"
+      },
+      {
+        "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+        "content": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+        "published": "2026-06-09T18:04:24+00:00"
+      },
+      {
+        "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+        "content": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+        "published": "2026-06-09T17:00:00+00:00"
+      },
+      {
+        "title": "It’s not FAANG anymore. It’s MANGOS.",
+        "content": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to MANGOS.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+        "published": "2026-06-09T16:09:14+00:00"
+      },
+      {
+        "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+        "content": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+        "published": "2026-06-09T13:47:25+00:00"
+      },
+      {
+        "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+        "content": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+        "published": "2026-06-09T13:00:00+00:00"
+      },
+      {
+        "title": "How an e-scooter founder raised $5 million to build space data centers",
+        "content": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+        "published": "2026-06-09T12:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
+        "content": "A separate zero-day also disclosed by Nightmare Eclipse appears to be patched as well.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
+        "published": "2026-06-09T20:56:52+00:00"
+      },
+      {
+        "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+        "content": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+        "published": "2026-06-09T15:16:25+00:00"
+      },
+      {
+        "title": "High-severity vulnerability in Linux caused by a single faulty character",
+        "content": "Use-after-free bug can be exploited to evade sandbox defenses.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
+        "published": "2026-06-09T15:12:43+00:00"
+      },
+      {
+        "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+        "content": "",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+        "published": "2026-06-09T14:10:19+00:00"
+      },
+      {
+        "title": "Powering the future of robotics in Europe",
+        "content": "",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+        "published": "2026-06-09T14:02:33+00:00"
+      },
+      {
+        "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition The outspoken longevity scientist David Sinclair has predicted that, one d…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+        "published": "2026-06-09T12:10:00+00:00"
+      },
+      {
+        "title": "Learning to lead in a hybrid human-AI enterprise",
+        "content": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce. Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordina…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+        "published": "2026-06-09T10:20:06+00:00"
+      },
+      {
+        "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+        "content": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. Now MIT Technology Review has learned that he has plans to launch human tests of an oral “reprogramming” drug as part of a $101 mi…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
+        "published": "2026-06-09T10:00:00+00:00"
+      },
+      {
+        "title": "Five things you need to know about AI",
+        "content": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+        "published": "2026-06-09T09:16:45+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
