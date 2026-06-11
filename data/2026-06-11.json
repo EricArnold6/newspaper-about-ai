@@ -1,0 +1,117 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T01:55:16.198211+00:00",
+  "article_count": 13,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+        "content": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+        "published": "2026-06-10T22:31:19+00:00"
+      },
+      {
+        "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+        "content": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+        "published": "2026-06-10T20:19:31+00:00"
+      },
+      {
+        "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+        "content": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+        "published": "2026-06-10T17:07:35+00:00"
+      },
+      {
+        "title": "How memory tools can make AI models worse",
+        "content": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+        "published": "2026-06-10T16:11:08+00:00"
+      },
+      {
+        "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+        "content": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+        "published": "2026-06-10T15:41:22+00:00"
+      },
+      {
+        "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+        "content": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+        "published": "2026-06-10T15:00:00+00:00"
+      },
+      {
+        "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
+        "content": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+        "published": "2026-06-10T14:48:01+00:00"
+      },
+      {
+        "title": "Warner Music acquires AI attribution startup Sureel AI",
+        "content": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+        "published": "2026-06-10T14:31:30+00:00"
+      },
+      {
+        "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+        "content": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+        "published": "2026-06-10T13:33:09+00:00"
+      },
+      {
+        "title": "Decart’s new world model can simulate hours of photorealistic driving — with some caveats",
+        "content": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+        "published": "2026-06-10T13:07:56+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "DiffusionGemma: 4x faster text generation",
+        "content": "",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+        "published": "2026-06-10T16:24:11+00:00"
+      },
+      {
+        "title": "The Download: the “steroid olympics” and a safer Mythos",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago, at a $50 million arena built in a casino parking lot in…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+        "published": "2026-06-10T12:10:00+00:00"
+      },
+      {
+        "title": "The “steroid olympics” were a circus—and a window into our culture",
+        "content": "Testosterone. Methenolone. Nandrolone. Human growth hormone and EPO. Meldonium, modafinil, and mixed amphetamine salts. Clomiphene, anastrozole, levothyroxine, and liothyronine. Patches and capsules, creams and pills. A whole galaxy of steroids, metabolic modulators, and synthetic hormones coursi…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
+        "published": "2026-06-10T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
