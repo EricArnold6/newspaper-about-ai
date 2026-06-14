@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T01:52:09.649597+00:00",
+  "article_count": 5,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+        "content": "Once again, AI proves to be an unreliable source of information about AI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+        "published": "2026-06-13T20:42:31+00:00"
+      },
+      {
+        "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+        "content": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+        "published": "2026-06-13T19:11:41+00:00"
+      },
+      {
+        "title": "OpenAI faces investigation from state attorneys general",
+        "content": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+        "published": "2026-06-13T16:47:18+00:00"
+      },
+      {
+        "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+        "content": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+        "published": "2026-06-13T04:14:19+00:00"
+      },
+      {
+        "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+        "content": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+        "published": "2026-06-13T02:26:30+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
