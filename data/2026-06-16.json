@@ -1,0 +1,131 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T01:58:12.611812+00:00",
+  "article_count": 15,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+        "content": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+        "published": "2026-06-15T23:51:44+00:00"
+      },
+      {
+        "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+        "content": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+        "published": "2026-06-15T21:50:21+00:00"
+      },
+      {
+        "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+        "content": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+        "published": "2026-06-15T18:30:58+00:00"
+      },
+      {
+        "title": "SpaceX is public: Everything you need to know post-IPO",
+        "content": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+        "published": "2026-06-15T18:30:34+00:00"
+      },
+      {
+        "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+        "content": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+        "published": "2026-06-15T15:29:51+00:00"
+      },
+      {
+        "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+        "content": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+        "published": "2026-06-15T14:34:45+00:00"
+      },
+      {
+        "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+        "content": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+        "published": "2026-06-15T13:46:08+00:00"
+      },
+      {
+        "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+        "content": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+        "published": "2026-06-15T13:00:00+00:00"
+      },
+      {
+        "title": "A satellite just learned to find things on its own — here’s what that means",
+        "content": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+        "published": "2026-06-15T12:00:00+00:00"
+      },
+      {
+        "title": "The AI layoff wave is becoming a powder keg",
+        "content": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+        "published": "2026-06-15T07:25:41+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Why do South Koreans love AI so much?",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my face…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+        "published": "2026-06-15T18:46:08+00:00"
+      },
+      {
+        "title": "Users cry foul after AMD stripped memory crypto from its consumer CPUs",
+        "content": "AMD's stripping of TSME from consumer CPUs appears to be a deliberate, covert move.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
+        "published": "2026-06-15T17:55:46+00:00"
+      },
+      {
+        "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+        "content": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clock…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+        "published": "2026-06-15T15:12:28+00:00"
+      },
+      {
+        "title": "The Download: cutting AC emissions, and nature’s drug designer",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway, air-condi…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+        "published": "2026-06-15T12:10:00+00:00"
+      },
+      {
+        "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+        "content": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,00…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+        "published": "2026-06-15T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
