@@ -1,0 +1,145 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T01:55:56.361049+00:00",
+  "article_count": 17,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Roelof Botha joins SpaceX’s board of directors",
+        "content": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+        "published": "2026-06-17T20:32:52+00:00"
+      },
+      {
+        "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+        "content": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+        "published": "2026-06-17T20:24:28+00:00"
+      },
+      {
+        "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+        "content": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+        "published": "2026-06-17T20:17:38+00:00"
+      },
+      {
+        "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+        "content": "French President Macron and Indian PM Modi raised alarms at the G7 summit that the U.S. could cut off access to American AI overnight — a fear the Anthropic blackout just made real.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+        "published": "2026-06-17T19:01:19+00:00"
+      },
+      {
+        "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+        "content": "Anthropic has joined the Frontier coalition, which received another $915M in pledges to fund carbon removal projects.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+        "published": "2026-06-17T18:30:56+00:00"
+      },
+      {
+        "title": "Social media’s next evolution: user-controlled algorithms",
+        "content": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+        "published": "2026-06-17T18:19:48+00:00"
+      },
+      {
+        "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+        "content": "Tokenmaxxing was the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far as it would go. Then the bill came due. Uber reportedly blew through its annual AI budget in a few months, some companies cut Claude licenses for parts of their org, and…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+        "published": "2026-06-17T18:00:00+00:00"
+      },
+      {
+        "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+        "content": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+        "published": "2026-06-17T17:43:07+00:00"
+      },
+      {
+        "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+        "content": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+        "published": "2026-06-17T17:00:01+00:00"
+      },
+      {
+        "title": "Google bets on Gemini to reinvent the smart home speaker",
+        "content": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversational Gemini interactions.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+        "published": "2026-06-17T16:30:09+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Massive breach spills credentials for thousands of sensitive networks",
+        "content": "The affected include Oracle, Lenovo, FedEx, a NATO contractor, and Fortinet.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/",
+        "published": "2026-06-17T19:54:31+00:00"
+      },
+      {
+        "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
+        "content": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
+        "published": "2026-06-17T19:43:13+00:00"
+      },
+      {
+        "title": "\"Dangerous\" AI models are coming no matter what",
+        "content": "AI models with advanced hacking capabilities will soon be the norm.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+        "published": "2026-06-17T17:50:46+00:00"
+      },
+      {
+        "title": "The Download: a reality check for geoengineering and the science of interoception",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate sy…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+        "published": "2026-06-17T12:10:00+00:00"
+      },
+      {
+        "title": "Windows and Linux users: The deadline to update Secure Boot keys is near",
+        "content": "What you need to know about the expiration of keys securing your machine's boot sequence.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
+        "published": "2026-06-17T11:15:17+00:00"
+      },
+      {
+        "title": "Entrepreneurs in Nairobi make the case for going solar",
+        "content": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-­improving economics of solar technology ha…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+        "published": "2026-06-17T09:00:00+00:00"
+      },
+      {
+        "title": "Hacking the atmosphere: Geoengineering gets a reality check",
+        "content": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high yo…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+        "published": "2026-06-17T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
