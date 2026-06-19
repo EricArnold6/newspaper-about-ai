@@ -1,0 +1,138 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T02:01:16.314818+00:00",
+  "article_count": 16,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
+        "content": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush\" marches on.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+        "published": "2026-06-18T21:20:13+00:00"
+      },
+      {
+        "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
+        "content": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
+        "published": "2026-06-18T20:30:00+00:00"
+      },
+      {
+        "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+        "content": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+        "published": "2026-06-18T19:59:22+00:00"
+      },
+      {
+        "title": "Almost half of US singles feel negatively about AI in dating, Match says",
+        "content": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+        "published": "2026-06-18T18:51:46+00:00"
+      },
+      {
+        "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+        "content": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+        "published": "2026-06-18T18:22:13+00:00"
+      },
+      {
+        "title": "AI data centers just got a government-mandated fast lane to the grid",
+        "content": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+        "published": "2026-06-18T17:49:23+00:00"
+      },
+      {
+        "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
+        "content": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+        "published": "2026-06-18T17:16:30+00:00"
+      },
+      {
+        "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+        "content": "Karamo Brown, famous for his pep talks on Netflix’s “Queer Eye,” has jumped into the wellness and AI space with his new app, Kē. After spending a year and a half focusing on his own journey—from fitness and nutrition to meditation, sobriety, relationships, and personal growth—Brown wants to help …",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+        "published": "2026-06-18T16:55:04+00:00"
+      },
+      {
+        "title": "General Intuition in talks to raise $300M at around $2B valuation",
+        "content": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+        "published": "2026-06-18T15:20:37+00:00"
+      },
+      {
+        "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
+        "content": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+        "published": "2026-06-18T15:13:21+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+        "content": "Crypto Clipper spreads over USB and communicates over Tor.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+        "published": "2026-06-18T23:28:52+00:00"
+      },
+      {
+        "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
+        "content": "The vulnerability, disclosed 12 months ago, affects multiple manufacturers.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/",
+        "published": "2026-06-18T19:41:35+00:00"
+      },
+      {
+        "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
+        "content": "One previously unreported SpaceX investor has ties to Chinese military contractors.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
+        "published": "2026-06-18T17:42:18+00:00"
+      },
+      {
+        "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The search for dark matter has been blown wide open For decades, physicists have hunted for weakly interacting massive particles (WIMPs), a leading candidate f…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+        "published": "2026-06-18T12:10:00+00:00"
+      },
+      {
+        "title": "Geoengineering still faces major practical challenges",
+        "content": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complic…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+        "published": "2026-06-18T10:00:00+00:00"
+      },
+      {
+        "title": "The search for dark matter has been blown wide open",
+        "content": "Underneath an Apennine massif, below the Jinping Mountains of Sichuan, and at the bottom of a South Dakota mine, there is a cosmic hunt afoot. Isolated deep beneath these rocky shields, massive detectors filled with liquid xenon aim to make the first direct detections of dark matter, the long-sou…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
+        "published": "2026-06-18T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
