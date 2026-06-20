@@ -1,0 +1,103 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T01:47:38.416681+00:00",
+  "article_count": 11,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+        "content": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+        "published": "2026-06-19T22:40:14+00:00"
+      },
+      {
+        "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+        "content": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an open letter calling…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+        "published": "2026-06-19T16:08:17+00:00"
+      },
+      {
+        "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+        "content": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an open letter calling…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+        "published": "2026-06-19T16:01:03+00:00"
+      },
+      {
+        "title": "Billionaire Ambani wants AI in every call, app, and home",
+        "content": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+        "published": "2026-06-19T15:23:28+00:00"
+      },
+      {
+        "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+        "content": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+        "published": "2026-06-19T13:00:00+00:00"
+      },
+      {
+        "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
+        "content": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+        "published": "2026-06-19T07:59:12+00:00"
+      },
+      {
+        "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+        "content": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+        "published": "2026-06-19T00:51:11+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "The Download: AI bottleneck debates, and BCI trials take off",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+        "published": "2026-06-19T12:10:00+00:00"
+      },
+      {
+        "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+        "content": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+        "published": "2026-06-19T10:40:24+00:00"
+      },
+      {
+        "title": "The inevitable weakness of metrics",
+        "content": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+        "published": "2026-06-19T09:00:00+00:00"
+      },
+      {
+        "title": "Brain-computer interface trials are taking off",
+        "content": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer int…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+        "published": "2026-06-19T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
