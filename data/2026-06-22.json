@@ -1,0 +1,39 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T01:56:02.136440+00:00",
+  "article_count": 2,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+        "content": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+        "published": "2026-06-21T15:28:17+00:00"
+      },
+      {
+        "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+        "content": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+        "published": "2026-06-21T14:40:28+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
