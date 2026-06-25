@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T01:46:27.134778+00:00",
+  "article_count": 18,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+        "content": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+        "published": "2026-06-24T23:26:52+00:00"
+      },
+      {
+        "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+        "content": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+        "published": "2026-06-24T22:41:41+00:00"
+      },
+      {
+        "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+        "content": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+        "published": "2026-06-24T21:56:41+00:00"
+      },
+      {
+        "title": "AI researchers continue to leave Google for its rivals",
+        "content": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+        "published": "2026-06-24T21:42:07+00:00"
+      },
+      {
+        "title": "The memory chip crunch is paying off for this US company",
+        "content": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+        "published": "2026-06-24T21:30:55+00:00"
+      },
+      {
+        "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+        "content": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+        "published": "2026-06-24T20:09:45+00:00"
+      },
+      {
+        "title": "Facebook rolls out an AI companion app for creators",
+        "content": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+        "published": "2026-06-24T17:16:24+00:00"
+      },
+      {
+        "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+        "content": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+        "published": "2026-06-24T16:48:43+00:00"
+      },
+      {
+        "title": "Figma adds code layers, support for animations, more AI features in new update",
+        "content": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+        "published": "2026-06-24T16:15:00+00:00"
+      },
+      {
+        "title": "OpenAI unveils its first custom chip, built by Broadcom",
+        "content": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+        "published": "2026-06-24T14:54:46+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
+        "content": "\"Operation Endgame\" simultaneously disrupts two widely used crime tools.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/",
+        "published": "2026-06-24T21:03:34+00:00"
+      },
+      {
+        "title": "Introducing computer use in Gemini 3.5 Flash",
+        "content": "",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+        "published": "2026-06-24T16:30:01+00:00"
+      },
+      {
+        "title": "Europe’s extreme heat is shutting down power plants",
+        "content": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, France saw its hottest day since record-keeping began in 1947.…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+        "published": "2026-06-24T15:25:28+00:00"
+      },
+      {
+        "title": "The Download: introducing the Engineering issue",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Engineering issue We can’t fix everything, but we can be ambitious. We can take on the challenge of making the world better through human inge…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+        "published": "2026-06-24T12:10:00+00:00"
+      },
+      {
+        "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+        "content": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+        "published": "2026-06-24T12:00:00+00:00"
+      },
+      {
+        "title": "The emergence of the web data infrastructure layer for AI",
+        "content": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models. To understand this challenge, consider the foundation …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+        "published": "2026-06-24T11:59:54+00:00"
+      },
+      {
+        "title": "This flying solar-powered platform could deliver better internet from the air",
+        "content": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan. Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surface,…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+        "published": "2026-06-24T09:00:00+00:00"
+      },
+      {
+        "title": "All challenges big and small",
+        "content": "When I was 18, I skipped my high school graduation and headed to Kuwait. It was 1991, the first Gulf War had just ended, and the country was in complete chaos. There was little to no electricity, aside from generator power. Rubble and unexploded ordnance were everywhere. Massive oil fires lit up …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+        "published": "2026-06-24T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
