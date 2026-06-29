@@ -1,0 +1,39 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T01:49:28.178796+00:00",
+  "article_count": 2,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+        "content": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+        "published": "2026-06-28T19:05:39+00:00"
+      },
+      {
+        "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+        "content": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+        "published": "2026-06-28T15:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
