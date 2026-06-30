@@ -1,0 +1,110 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T01:46:39.343799+00:00",
+  "article_count": 12,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Gemini’s personalized AI image generation is now free for US users",
+        "content": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+        "published": "2026-06-29T20:12:59+00:00"
+      },
+      {
+        "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+        "content": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+        "published": "2026-06-29T18:10:26+00:00"
+      },
+      {
+        "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+        "content": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+        "published": "2026-06-29T18:07:48+00:00"
+      },
+      {
+        "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+        "content": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+        "published": "2026-06-29T17:39:17+00:00"
+      },
+      {
+        "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+        "content": "Cursor has launched a new mobile app for remote oversight over coding agents.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+        "published": "2026-06-29T17:03:50+00:00"
+      },
+      {
+        "title": "TIDAL cracks down on AI music by cutting off monetization",
+        "content": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+        "published": "2026-06-29T16:29:04+00:00"
+      },
+      {
+        "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+        "content": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+        "published": "2026-06-29T14:00:08+00:00"
+      },
+      {
+        "title": "Omen AI’s plan to optimize data centers is all wet",
+        "content": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+        "published": "2026-06-29T13:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+        "content": "Operation by two Russia-state groups has been ongoing since at least March.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+        "published": "2026-06-29T22:05:33+00:00"
+      },
+      {
+        "title": "AI agents are not your “coworkers”",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls A…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+        "published": "2026-06-29T18:00:00+00:00"
+      },
+      {
+        "title": "Agent confidence on the technical frontier",
+        "content": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+        "published": "2026-06-29T14:44:01+00:00"
+      },
+      {
+        "title": "The Download: metric weaknesses and AI elephant warnings",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of peo…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+        "published": "2026-06-29T12:10:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
