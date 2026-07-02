@@ -1,0 +1,117 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T01:46:23.590201+00:00",
+  "article_count": 13,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+        "content": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+        "published": "2026-07-01T18:54:18+00:00"
+      },
+      {
+        "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+        "content": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+        "published": "2026-07-01T18:47:22+00:00"
+      },
+      {
+        "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+        "content": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+        "published": "2026-07-01T17:48:37+00:00"
+      },
+      {
+        "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+        "content": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+        "published": "2026-07-01T14:25:23+00:00"
+      },
+      {
+        "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+        "content": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+        "published": "2026-07-01T14:20:19+00:00"
+      },
+      {
+        "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+        "content": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&A on what it takes to build and scale successful companies. Register now to save up to $330.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+        "published": "2026-07-01T14:00:00+00:00"
+      },
+      {
+        "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+        "content": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+        "published": "2026-07-01T13:43:07+00:00"
+      },
+      {
+        "title": "The ‘Father of the Internet’ is finally retiring",
+        "content": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+        "published": "2026-07-01T03:15:37+00:00"
+      },
+      {
+        "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+        "content": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+        "published": "2026-07-01T02:16:06+00:00"
+      },
+      {
+        "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+        "content": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+        "published": "2026-07-01T02:04:40+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
+        "content": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
+        "published": "2026-07-01T21:21:21+00:00"
+      },
+      {
+        "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+        "content": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+        "published": "2026-07-01T14:35:16+00:00"
+      },
+      {
+        "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announc…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+        "published": "2026-07-01T12:10:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
