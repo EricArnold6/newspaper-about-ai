@@ -1,0 +1,117 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T01:38:18.068141+00:00",
+  "article_count": 13,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+        "content": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "published": "2026-07-02T23:38:10+00:00"
+      },
+      {
+        "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+        "content": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+        "published": "2026-07-02T20:11:59+00:00"
+      },
+      {
+        "title": "Meta quietly launches vibe-coded gaming app Pocket",
+        "content": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+        "published": "2026-07-02T18:44:02+00:00"
+      },
+      {
+        "title": "Anthropic is discussing a new custom chip with Samsung",
+        "content": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+        "published": "2026-07-02T18:31:09+00:00"
+      },
+      {
+        "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+        "content": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+        "published": "2026-07-02T15:20:51+00:00"
+      },
+      {
+        "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+        "content": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+        "published": "2026-07-02T13:53:00+00:00"
+      },
+      {
+        "title": "Yep, we’re using OpenClaw to date now",
+        "content": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+        "published": "2026-07-02T12:00:00+00:00"
+      },
+      {
+        "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+        "content": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+        "published": "2026-07-02T05:30:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Newly discovered PamStealer isn't your typical macOS malware",
+        "content": "The discovery underscores the increased effort being poured into Mac infostealers.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+        "published": "2026-07-02T19:38:57+00:00"
+      },
+      {
+        "title": "Achieving operational excellence with AI",
+        "content": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+        "published": "2026-07-02T15:37:08+00:00"
+      },
+      {
+        "title": "Teaching AI to run with the turbines",
+        "content": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is b…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+        "published": "2026-07-02T12:51:44+00:00"
+      },
+      {
+        "title": "The Download: a startup has a solution for AI’s groupthink problem",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a rando…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+        "published": "2026-07-02T12:10:00+00:00"
+      },
+      {
+        "title": "Why California’s carbon manure math doesn’t add up",
+        "content": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+        "published": "2026-07-02T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
