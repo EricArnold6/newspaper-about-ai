@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T01:38:22.944008+00:00",
+  "article_count": 6,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "The only AI glossary you’ll need this year",
+        "content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "published": "2026-07-03T21:20:00+00:00"
+      },
+      {
+        "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+        "content": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+        "published": "2026-07-03T18:43:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+        "content": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a d…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+        "published": "2026-07-03T17:34:37+00:00"
+      },
+      {
+        "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+        "content": "",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+        "published": "2026-07-03T14:25:43+00:00"
+      },
+      {
+        "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+        "published": "2026-07-03T12:10:00+00:00"
+      },
+      {
+        "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+        "content": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the preva…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+        "published": "2026-07-03T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
