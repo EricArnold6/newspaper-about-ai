@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T01:38:47.509833+00:00",
+  "article_count": 15,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+        "content": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+        "published": "2026-07-09T23:38:00+00:00"
+      },
+      {
+        "title": "OpenAI launches its new family of models with GPT-5.6",
+        "content": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+        "published": "2026-07-09T22:24:24+00:00"
+      },
+      {
+        "title": "An AI agent startup just let its agent run its $100M fundraise",
+        "content": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+        "published": "2026-07-09T22:08:58+00:00"
+      },
+      {
+        "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+        "content": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+        "published": "2026-07-09T22:03:54+00:00"
+      },
+      {
+        "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+        "content": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+        "published": "2026-07-09T21:57:42+00:00"
+      },
+      {
+        "title": "Can AI answer the $3 trillion question?",
+        "content": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+        "published": "2026-07-09T21:47:50+00:00"
+      },
+      {
+        "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+        "content": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+        "published": "2026-07-09T19:40:45+00:00"
+      },
+      {
+        "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+        "content": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+        "published": "2026-07-09T19:05:58+00:00"
+      },
+      {
+        "title": "Google will now disclose which ads are made with AI",
+        "content": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+        "published": "2026-07-09T18:40:51+00:00"
+      },
+      {
+        "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+        "content": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+        "published": "2026-07-09T18:34:35+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+        "content": "The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+        "published": "2026-07-09T20:52:55+00:00"
+      },
+      {
+        "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
+        "content": "Broadcom accuses Allstate of dodging VMware audits.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
+        "published": "2026-07-09T20:28:55+00:00"
+      },
+      {
+        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+        "content": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called t…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+        "published": "2026-07-09T20:22:28+00:00"
+      },
+      {
+        "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. T…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+        "published": "2026-07-09T12:10:00+00:00"
+      },
+      {
+        "title": "Four nuclear reactors hit a big milestone in the US",
+        "content": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic deadline for US nuclear power. Last year the Trump administration set a goal to see three new microreactors achieve criticality, a technical milestone…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+        "published": "2026-07-09T08:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
