@@ -1,0 +1,32 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T01:37:33.176425+00:00",
+  "article_count": 1,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+        "content": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+        "published": "2026-07-11T14:13:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
