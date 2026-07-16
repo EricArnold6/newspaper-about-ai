@@ -1,0 +1,124 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T01:37:29.110449+00:00",
+  "article_count": 14,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+        "content": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+        "published": "2026-07-15T23:59:44+00:00"
+      },
+      {
+        "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+        "content": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+        "published": "2026-07-15T19:41:38+00:00"
+      },
+      {
+        "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+        "content": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+        "published": "2026-07-15T18:06:05+00:00"
+      },
+      {
+        "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+        "content": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+        "published": "2026-07-15T18:04:06+00:00"
+      },
+      {
+        "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+        "content": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+        "published": "2026-07-15T17:00:34+00:00"
+      },
+      {
+        "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+        "content": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+        "published": "2026-07-15T17:00:00+00:00"
+      },
+      {
+        "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+        "content": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+        "published": "2026-07-15T16:20:18+00:00"
+      },
+      {
+        "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+        "content": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+        "published": "2026-07-15T15:29:33+00:00"
+      },
+      {
+        "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+        "content": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs and others. On this episo…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+        "published": "2026-07-15T15:00:00+00:00"
+      },
+      {
+        "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+        "content": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+        "published": "2026-07-15T13:10:47+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
+        "content": "The convenience store chain will use StorMagic instead.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+        "published": "2026-07-15T21:41:56+00:00"
+      },
+      {
+        "title": "Windows 0-day drops the same day Microsoft releases record number of patches",
+        "content": "HiveLegacy is a \"powerful primitive\" that's likely capable of other nefarious actions.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/",
+        "published": "2026-07-15T19:59:48+00:00"
+      },
+      {
+        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "content": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model it…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+        "published": "2026-07-15T17:09:37+00:00"
+      },
+      {
+        "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+        "published": "2026-07-15T12:10:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
