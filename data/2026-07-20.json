@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T01:42:02.580632+00:00",
+  "article_count": 4,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "What to watch for after Jensen Huang’s Japan visit",
+        "content": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+        "published": "2026-07-19T21:16:07+00:00"
+      },
+      {
+        "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+        "content": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+        "published": "2026-07-19T19:24:45+00:00"
+      },
+      {
+        "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+        "content": "\"Everybody knows the Greeks are inside.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+        "published": "2026-07-19T14:52:08+00:00"
+      },
+      {
+        "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+        "content": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+        "published": "2026-07-19T14:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
