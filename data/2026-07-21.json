@@ -1,0 +1,96 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T01:38:22.119656+00:00",
+  "article_count": 10,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Trump’s latest AI czar has already resigned",
+        "content": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+        "published": "2026-07-20T22:21:04+00:00"
+      },
+      {
+        "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+        "content": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+        "published": "2026-07-20T21:21:15+00:00"
+      },
+      {
+        "title": "AI’s most important protocol is getting a little bit easier to use",
+        "content": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+        "published": "2026-07-20T20:50:40+00:00"
+      },
+      {
+        "title": "X relaunches a rebuilt Android app after year-long effort",
+        "content": "X says the rebuilt version of its Android app is now available globally.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+        "published": "2026-07-20T19:37:39+00:00"
+      },
+      {
+        "title": "OpenAI is scared of open-weight models. Should the US be?",
+        "content": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+        "published": "2026-07-20T19:33:25+00:00"
+      },
+      {
+        "title": "Adobe camera app’s new feature will critique your photos using AI",
+        "content": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+        "published": "2026-07-20T15:45:00+00:00"
+      },
+      {
+        "title": "YouTube clarifies policies around AI slop and upsetting videos",
+        "content": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+        "published": "2026-07-20T15:23:06+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "China’s AI models have Trump’s AI world at war with itself",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sack…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+        "published": "2026-07-20T18:00:00+00:00"
+      },
+      {
+        "title": "The Download: AI hiring biases, and weather data sabotage",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+        "published": "2026-07-20T12:10:00+00:00"
+      },
+      {
+        "title": "AI is more likely than humans to form biases when hiring",
+        "content": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+        "published": "2026-07-20T08:39:01+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
