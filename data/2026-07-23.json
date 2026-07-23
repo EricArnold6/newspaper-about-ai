@@ -1,0 +1,117 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T01:38:28.753094+00:00",
+  "article_count": 13,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+        "content": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+        "published": "2026-07-22T23:47:54+00:00"
+      },
+      {
+        "title": "Google justifies its massive AI spending with a booming cloud business",
+        "content": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+        "published": "2026-07-22T22:01:52+00:00"
+      },
+      {
+        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+        "content": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+        "published": "2026-07-22T20:49:03+00:00"
+      },
+      {
+        "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+        "content": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+        "published": "2026-07-22T19:11:46+00:00"
+      },
+      {
+        "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+        "content": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+        "published": "2026-07-22T18:50:44+00:00"
+      },
+      {
+        "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+        "content": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo …",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+        "published": "2026-07-22T18:13:58+00:00"
+      },
+      {
+        "title": "Monday.com lays off hundreds to focus on AI",
+        "content": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+        "published": "2026-07-22T17:54:14+00:00"
+      },
+      {
+        "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+        "content": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+        "published": "2026-07-22T16:24:08+00:00"
+      },
+      {
+        "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+        "content": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+        "published": "2026-07-22T16:23:09+00:00"
+      },
+      {
+        "title": "OpenAI’s AI spending spree has ballooned to $750B",
+        "content": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+        "published": "2026-07-22T16:13:30+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+        "content": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+        "published": "2026-07-22T13:38:54+00:00"
+      },
+      {
+        "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+        "published": "2026-07-22T12:10:00+00:00"
+      },
+      {
+        "title": "Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own",
+        "content": "When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will attempt one of astronomy’s most precise disappearing acts to date. The telescope will carry the first space-bound “active” coronagraph, an instrument that effectively erases most of the light from a…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
+        "published": "2026-07-22T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
