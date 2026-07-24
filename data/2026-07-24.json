@@ -1,0 +1,124 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T01:37:26.767003+00:00",
+  "article_count": 14,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+        "content": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+        "published": "2026-07-23T20:33:02+00:00"
+      },
+      {
+        "title": "Anthropic updates Claude voice mode with more capable models",
+        "content": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+        "published": "2026-07-23T19:00:00+00:00"
+      },
+      {
+        "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+        "content": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+        "published": "2026-07-23T18:38:34+00:00"
+      },
+      {
+        "title": "Runway launches AI model router as generative media gets crowded",
+        "content": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+        "published": "2026-07-23T17:07:35+00:00"
+      },
+      {
+        "title": "OpenAI makes ChatGPT Health available to all US users",
+        "content": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+        "published": "2026-07-23T17:00:00+00:00"
+      },
+      {
+        "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+        "content": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+        "published": "2026-07-23T16:28:50+00:00"
+      },
+      {
+        "title": "Nvidia is sending GPUs to the moon",
+        "content": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+        "published": "2026-07-23T15:00:00+00:00"
+      },
+      {
+        "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+        "content": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+        "published": "2026-07-23T15:00:00+00:00"
+      },
+      {
+        "title": "Google’s Gemini nears billion-user milestone",
+        "content": "Gemini had over 750 million monthly users in February.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+        "published": "2026-07-23T14:52:44+00:00"
+      },
+      {
+        "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+        "content": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+        "published": "2026-07-23T11:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+        "content": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+        "published": "2026-07-23T16:58:28+00:00"
+      },
+      {
+        "title": "The Download: energy transmission and US threats against Chinese AI",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags During a heat wave on July 3, New York State’s grid imported enough electricity from Canada …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+        "published": "2026-07-23T12:10:00+00:00"
+      },
+      {
+        "title": "How AI helps scientists design the next generation of medicines",
+        "content": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+        "published": "2026-07-23T12:00:00+00:00"
+      },
+      {
+        "title": "The power line that could reshape New York’s grid is hitting snags",
+        "content": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain H…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
+        "published": "2026-07-23T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
