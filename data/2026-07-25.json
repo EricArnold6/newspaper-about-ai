@@ -1,0 +1,103 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T01:38:04.568535+00:00",
+  "article_count": 11,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "content": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+        "published": "2026-07-24T22:25:58+00:00"
+      },
+      {
+        "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+        "content": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+        "published": "2026-07-24T18:07:32+00:00"
+      },
+      {
+        "title": "Anthropic launches Opus 5",
+        "content": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+        "published": "2026-07-24T17:00:00+00:00"
+      },
+      {
+        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "content": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+        "published": "2026-07-24T15:51:49+00:00"
+      },
+      {
+        "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+        "content": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+        "published": "2026-07-24T15:13:57+00:00"
+      },
+      {
+        "title": "Midjourney acquired the astrology app Co-Star",
+        "content": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+        "published": "2026-07-24T15:09:55+00:00"
+      },
+      {
+        "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
+        "content": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security br…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+        "published": "2026-07-24T14:00:00+00:00"
+      },
+      {
+        "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+        "content": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+        "published": "2026-07-24T13:36:42+00:00"
+      },
+      {
+        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+        "content": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+        "published": "2026-07-24T01:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "The quest to keep organs alive outside the body",
+        "content": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores of human organs that…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+        "published": "2026-07-24T17:03:55+00:00"
+      },
+      {
+        "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement” When it comes to organ donation, time is everything. As soon as an organ has b…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+        "published": "2026-07-24T12:10:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
