@@ -1,0 +1,103 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T01:37:30.255919+00:00",
+  "article_count": 11,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Bot-detection startup Spur nabs $200M from Insight",
+        "content": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+        "published": "2026-07-28T21:29:34+00:00"
+      },
+      {
+        "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+        "content": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+        "published": "2026-07-28T20:45:12+00:00"
+      },
+      {
+        "title": "Sam Altman is ready to decelerate",
+        "content": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+        "published": "2026-07-28T20:17:08+00:00"
+      },
+      {
+        "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+        "content": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+        "published": "2026-07-28T15:42:26+00:00"
+      },
+      {
+        "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+        "content": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+        "published": "2026-07-28T14:00:00+00:00"
+      },
+      {
+        "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+        "content": "Recursive’s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate its own product development process.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+        "published": "2026-07-28T13:19:17+00:00"
+      },
+      {
+        "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+        "content": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+        "published": "2026-07-28T04:30:00+00:00"
+      },
+      {
+        "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+        "content": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+        "published": "2026-07-28T00:13:33+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+        "content": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+        "published": "2026-07-28T21:36:39+00:00"
+      },
+      {
+        "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of h…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+        "published": "2026-07-28T12:10:00+00:00"
+      },
+      {
+        "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+        "content": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tip…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+        "published": "2026-07-28T09:18:57+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
