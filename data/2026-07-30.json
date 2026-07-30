@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T01:37:08.975638+00:00",
+  "article_count": 15,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+        "content": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+        "published": "2026-07-29T23:00:11+00:00"
+      },
+      {
+        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+        "content": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+        "published": "2026-07-29T22:46:03+00:00"
+      },
+      {
+        "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+        "content": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+        "published": "2026-07-29T22:23:12+00:00"
+      },
+      {
+        "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+        "content": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+        "published": "2026-07-29T21:16:39+00:00"
+      },
+      {
+        "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+        "content": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+        "published": "2026-07-29T21:07:48+00:00"
+      },
+      {
+        "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+        "content": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+        "published": "2026-07-29T19:44:49+00:00"
+      },
+      {
+        "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+        "content": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+        "published": "2026-07-29T18:45:27+00:00"
+      },
+      {
+        "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+        "content": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+        "published": "2026-07-29T15:35:09+00:00"
+      },
+      {
+        "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+        "content": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+        "published": "2026-07-29T14:41:06+00:00"
+      },
+      {
+        "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+        "content": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+        "published": "2026-07-29T11:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Mythos uncovers crypto weaknesses that went unknown for years",
+        "content": "Separating the chaff from the wheat in Anthropic results is hard. We take a stab anyway.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+        "published": "2026-07-29T22:07:06+00:00"
+      },
+      {
+        "title": "How an overlooked geothermal plant got a second chance",
+        "content": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, two years later, that plant is running at full capacity ag…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+        "published": "2026-07-29T17:58:44+00:00"
+      },
+      {
+        "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+        "content": "",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+        "published": "2026-07-29T16:02:10+00:00"
+      },
+      {
+        "title": "The Download: a chip talent battle, and deflating AI hype",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocki…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+        "published": "2026-07-29T12:10:00+00:00"
+      },
+      {
+        "title": "The AI Hype Index: Unsexy AI",
+        "content": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to so…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+        "published": "2026-07-29T08:42:57+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
