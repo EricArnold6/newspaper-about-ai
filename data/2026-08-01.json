@@ -1,0 +1,117 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T01:38:13.650691+00:00",
+  "article_count": 13,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+        "content": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+        "published": "2026-07-31T22:47:26+00:00"
+      },
+      {
+        "title": "India is starting to pay for apps, not just download them",
+        "content": "India's app market generated a record $345 million in Q2.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+        "published": "2026-07-31T21:07:45+00:00"
+      },
+      {
+        "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+        "content": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+        "published": "2026-07-31T19:47:28+00:00"
+      },
+      {
+        "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+        "content": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts …",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+        "published": "2026-07-31T17:26:32+00:00"
+      },
+      {
+        "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+        "content": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+        "published": "2026-07-31T16:49:08+00:00"
+      },
+      {
+        "title": "Siri AI could come with a paywall for power users",
+        "content": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+        "published": "2026-07-31T16:08:18+00:00"
+      },
+      {
+        "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+        "content": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+        "published": "2026-07-31T15:16:17+00:00"
+      },
+      {
+        "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+        "content": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+        "published": "2026-07-31T14:47:11+00:00"
+      },
+      {
+        "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+        "content": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts …",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+        "published": "2026-07-31T14:00:00+00:00"
+      },
+      {
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "content": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+        "published": "2026-07-31T01:06:54+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+        "content": "Had the hacks used conventional methods, someone would likely go to prison.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+        "published": "2026-07-31T20:39:14+00:00"
+      },
+      {
+        "title": "The Download: Montana’s new experimental drug rules",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through preliminar…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+        "published": "2026-07-31T12:16:00+00:00"
+      },
+      {
+        "title": "Montana’s new “right to try” law can’t come soon enough for some",
+        "content": "Kris DeVault is desperate. His son, Brody, was born in March 2023. It wasn’t long before he started to show signs of developmental delay, says DeVault. As time went on, Brody started missing key milestones in speech, movement, and coordination, he says. When Brody was around two and a half years …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
+        "published": "2026-07-31T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
