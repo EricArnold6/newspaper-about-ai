@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T01:38:02.491338+00:00",
+  "article_count": 10,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+        "content": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+        "published": "2026-08-03T23:19:50+00:00"
+      },
+      {
+        "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+        "content": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+        "published": "2026-08-03T20:00:00+00:00"
+      },
+      {
+        "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+        "content": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+        "published": "2026-08-03T19:28:57+00:00"
+      },
+      {
+        "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+        "content": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+        "published": "2026-08-03T19:09:56+00:00"
+      },
+      {
+        "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+        "content": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+        "published": "2026-08-03T18:43:43+00:00"
+      },
+      {
+        "title": "Congress’ favorite AI tool? ChatGPT",
+        "content": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+        "published": "2026-08-03T16:40:55+00:00"
+      },
+      {
+        "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+        "content": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+        "published": "2026-08-03T10:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Trump’s AI protectionism has come for robotics",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+        "published": "2026-08-03T18:43:30+00:00"
+      },
+      {
+        "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+        "published": "2026-08-03T12:08:00+00:00"
+      },
+      {
+        "title": "Here’s why AI agents lie and cheat to reach their goals",
+        "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabot…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+        "published": "2026-08-03T08:30:05+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
