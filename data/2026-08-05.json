@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T01:36:45.204286+00:00",
+  "article_count": 11,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+        "content": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+        "published": "2026-08-04T21:07:26+00:00"
+      },
+      {
+        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+        "content": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+        "published": "2026-08-04T20:05:26+00:00"
+      },
+      {
+        "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+        "content": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+        "published": "2026-08-04T19:48:40+00:00"
+      },
+      {
+        "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+        "content": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+        "published": "2026-08-04T19:34:34+00:00"
+      },
+      {
+        "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+        "content": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+        "published": "2026-08-04T19:28:49+00:00"
+      },
+      {
+        "title": "Spotify expands AI remix and covers project with Merlin partnership",
+        "content": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuri…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+        "published": "2026-08-04T15:50:06+00:00"
+      },
+      {
+        "title": "Texas halts new data centers as governor calls for audits",
+        "content": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+        "published": "2026-08-04T15:42:35+00:00"
+      },
+      {
+        "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+        "content": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+        "published": "2026-08-04T15:20:06+00:00"
+      },
+      {
+        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+        "content": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+        "published": "2026-08-04T14:03:01+00:00"
+      },
+      {
+        "title": "Is the future of data centers portable? Runware builds a pod to find out",
+        "content": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+        "published": "2026-08-04T13:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite a…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+        "published": "2026-08-04T12:14:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
