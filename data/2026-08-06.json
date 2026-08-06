@@ -1,0 +1,117 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T01:37:30.398193+00:00",
+  "article_count": 13,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Meta launches Muse Code, an AI agent for large code bases",
+        "content": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+        "published": "2026-08-05T21:21:28+00:00"
+      },
+      {
+        "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+        "content": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+        "published": "2026-08-05T20:05:00+00:00"
+      },
+      {
+        "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+        "content": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+        "published": "2026-08-05T19:30:19+00:00"
+      },
+      {
+        "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+        "content": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+        "published": "2026-08-05T15:56:14+00:00"
+      },
+      {
+        "title": "Hark previews its browser use agent for completing tasks",
+        "content": "Hark claims that its browser use agent is faster and cheaper than competition.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+        "published": "2026-08-05T15:46:27+00:00"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+        "content": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+        "published": "2026-08-05T15:05:00+00:00"
+      },
+      {
+        "title": "Anthropic is hiring an AI chip design team",
+        "content": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+        "published": "2026-08-05T14:13:18+00:00"
+      },
+      {
+        "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+        "content": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+        "published": "2026-08-05T12:28:38+00:00"
+      },
+      {
+        "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+        "content": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+        "published": "2026-08-05T11:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+        "content": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+        "published": "2026-08-05T22:35:20+00:00"
+      },
+      {
+        "title": "Puzzle Corner",
+        "content": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/Ju…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+        "published": "2026-08-05T14:56:29+00:00"
+      },
+      {
+        "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+        "published": "2026-08-05T12:10:00+00:00"
+      },
+      {
+        "title": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+        "content": "At the end of August, NASA is set to launch the Nancy Grace Roman Space Telescope from Kennedy Space Center in Florida. Its goal is to help us better understand how the universe works, from the glue-like dark matter that keeps galaxies together to the elusive dark energy that drives the expansion…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+        "published": "2026-08-05T08:06:40+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
