@@ -1,0 +1,39 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T01:33:50.268325+00:00",
+  "article_count": 2,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+        "content": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+        "published": "2026-08-08T21:24:02+00:00"
+      },
+      {
+        "title": "OpenAI acquires presentation startup NextSlide",
+        "content": "NextSlide says its team members are now working on ChatGPT.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+        "published": "2026-08-08T19:41:13+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
