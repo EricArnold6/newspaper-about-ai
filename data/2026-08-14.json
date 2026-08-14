@@ -1,0 +1,145 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T01:34:53.309792+00:00",
+  "article_count": 17,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+        "content": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+        "published": "2026-08-13T21:13:24+00:00"
+      },
+      {
+        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+        "content": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+        "published": "2026-08-13T20:14:39+00:00"
+      },
+      {
+        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+        "content": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+        "published": "2026-08-13T19:22:40+00:00"
+      },
+      {
+        "title": "IBM partners with OpenAI to bolster enterprise AI push",
+        "content": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+        "published": "2026-08-13T19:19:49+00:00"
+      },
+      {
+        "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+        "content": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+        "published": "2026-08-13T18:28:14+00:00"
+      },
+      {
+        "title": "OpenAI hires new CRO as executive shake-up continues",
+        "content": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+        "published": "2026-08-13T17:07:13+00:00"
+      },
+      {
+        "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+        "content": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+        "published": "2026-08-13T15:30:52+00:00"
+      },
+      {
+        "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+        "content": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+        "published": "2026-08-13T15:08:00+00:00"
+      },
+      {
+        "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+        "content": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+        "published": "2026-08-13T14:34:43+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+        "content": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+        "published": "2026-08-13T21:00:00+00:00"
+      },
+      {
+        "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+        "content": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+        "published": "2026-08-13T19:38:58+00:00"
+      },
+      {
+        "title": "Building a practical path to post-quantum cryptography",
+        "content": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+        "published": "2026-08-13T18:11:42+00:00"
+      },
+      {
+        "title": "Introducing Gemini 3.7 Flash",
+        "content": "",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+        "published": "2026-08-13T17:04:18+00:00"
+      },
+      {
+        "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+        "content": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim direct…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+        "published": "2026-08-13T13:41:10+00:00"
+      },
+      {
+        "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teen…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+        "published": "2026-08-13T12:10:00+00:00"
+      },
+      {
+        "title": "What’s behind this summer’s heat, and why 2027 could be worse",
+        "content": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature. The heat isn’t over y…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+        "published": "2026-08-13T10:00:00+00:00"
+      },
+      {
+        "title": "How kids feel about AI, in their own words",
+        "content": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways t…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+        "published": "2026-08-13T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
