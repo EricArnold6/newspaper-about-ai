@@ -1,0 +1,138 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T01:32:23.388767+00:00",
+  "article_count": 16,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+        "content": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+        "published": "2026-08-20T22:36:37+00:00"
+      },
+      {
+        "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+        "content": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+        "published": "2026-08-20T22:09:51+00:00"
+      },
+      {
+        "title": "OK, can we actually cool data centers with our pee?",
+        "content": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+        "published": "2026-08-20T20:53:13+00:00"
+      },
+      {
+        "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+        "content": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+        "published": "2026-08-20T19:18:21+00:00"
+      },
+      {
+        "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+        "content": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+        "published": "2026-08-20T19:15:05+00:00"
+      },
+      {
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "content": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+        "published": "2026-08-20T18:20:35+00:00"
+      },
+      {
+        "title": "Grok keeps sending gibberish responses to users",
+        "content": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+        "published": "2026-08-20T17:32:16+00:00"
+      },
+      {
+        "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+        "content": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+        "published": "2026-08-20T17:18:58+00:00"
+      },
+      {
+        "title": "Ramp launches its own AI model router, called Router",
+        "content": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+        "published": "2026-08-20T16:46:00+00:00"
+      },
+      {
+        "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+        "content": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+        "published": "2026-08-20T16:07:26+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Debates over AI consciousness are a trap",
+        "content": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuma…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+        "published": "2026-08-20T15:42:39+00:00"
+      },
+      {
+        "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+        "content": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+        "published": "2026-08-20T13:00:35+00:00"
+      },
+      {
+        "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Tha…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+        "published": "2026-08-20T12:10:00+00:00"
+      },
+      {
+        "title": "The next big thing in hydrogen could be underground",
+        "content": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+        "published": "2026-08-20T10:00:00+00:00"
+      },
+      {
+        "title": "Unlocking hidden revenue streams with market models",
+        "content": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, se…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+        "published": "2026-08-20T09:47:22+00:00"
+      },
+      {
+        "title": "Support networks aim to help kids through the polycrisis",
+        "content": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They we…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+        "published": "2026-08-20T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
