@@ -1,0 +1,110 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T01:31:42.604819+00:00",
+  "article_count": 12,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Anthropic’s Opus 4.6 is a smut-machine",
+        "content": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+        "published": "2026-08-21T23:07:25+00:00"
+      },
+      {
+        "title": "Nvidia partners with data center developer Cloverleaf",
+        "content": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+        "published": "2026-08-21T22:37:38+00:00"
+      },
+      {
+        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+        "content": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+        "published": "2026-08-21T19:43:39+00:00"
+      },
+      {
+        "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+        "content": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost …",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+        "published": "2026-08-21T14:00:00+00:00"
+      },
+      {
+        "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+        "content": "There's about to be a big fight to secure access to space.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+        "published": "2026-08-21T14:00:00+00:00"
+      },
+      {
+        "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+        "content": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+        "published": "2026-08-21T00:13:44+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+        "content": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+        "published": "2026-08-21T13:11:35+00:00"
+      },
+      {
+        "title": "The Download: threats from space mirrors and credit for AI drugs",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth on demand might …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+        "published": "2026-08-21T12:10:00+00:00"
+      },
+      {
+        "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+        "content": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+        "published": "2026-08-21T11:59:48+00:00"
+      },
+      {
+        "title": "Mother tongue",
+        "content": "“Daddy?” Theo curled against my side in bed. “Where do words go when they die?” I’d orchestrated the bedtime routine flawlessly: bath (taken), teeth (brushed), potty (tinkled), books (two), song (one, poorly sung), and snuggle (his chin on my second rib). Now was the moment when our son’s eyelids…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+        "published": "2026-08-21T09:00:00+00:00"
+      },
+      {
+        "title": "When AI designs a drug, who gets the credit?",
+        "content": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+        "published": "2026-08-21T09:00:00+00:00"
+      },
+      {
+        "title": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+        "content": "A company that plans to beam sunlight from space to Earth on demand might unintentionally brighten the night sky for many more people than intended, according to a new study. Later this year, the US company Reflect Orbital plans to launch a test satellite called Eärendil-1 that will extend an 18-…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+        "published": "2026-08-21T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
