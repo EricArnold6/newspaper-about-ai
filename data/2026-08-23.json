@@ -1,0 +1,53 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T01:32:24.769114+00:00",
+  "article_count": 4,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+        "content": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+        "published": "2026-08-22T21:46:56+00:00"
+      },
+      {
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "content": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "published": "2026-08-22T19:00:00+00:00"
+      },
+      {
+        "title": "OpenAI says California should strengthen its AI safety bill",
+        "content": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+        "published": "2026-08-22T16:30:34+00:00"
+      },
+      {
+        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+        "content": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+        "published": "2026-08-22T16:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
