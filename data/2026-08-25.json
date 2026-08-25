@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T01:32:10.328418+00:00",
+  "article_count": 10,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+        "content": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+        "published": "2026-08-24T21:24:17+00:00"
+      },
+      {
+        "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+        "content": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+        "published": "2026-08-24T19:54:19+00:00"
+      },
+      {
+        "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+        "content": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+        "published": "2026-08-24T18:03:55+00:00"
+      },
+      {
+        "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+        "content": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+        "published": "2026-08-24T15:24:18+00:00"
+      },
+      {
+        "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+        "content": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+        "published": "2026-08-24T15:00:00+00:00"
+      },
+      {
+        "title": "Hugging Face reportedly in talks to be acquired for $13B",
+        "content": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+        "published": "2026-08-24T13:47:26+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
+        "content": "Is the technique outdated? Yes. Is it still creepy? Also yes.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
+        "published": "2026-08-24T19:19:21+00:00"
+      },
+      {
+        "title": "How to encourage smarter AI use in the classroom",
+        "content": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phone…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+        "published": "2026-08-24T14:20:19+00:00"
+      },
+      {
+        "title": "The Download: kids outlearning AI, and space travel agents",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hu…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+        "published": "2026-08-24T12:10:00+00:00"
+      },
+      {
+        "title": "Kids outlearn AI—and we still don’t know why",
+        "content": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two. Four short years after the release of ChatGPT,…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+        "published": "2026-08-24T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
