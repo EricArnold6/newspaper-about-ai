@@ -1,0 +1,145 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T02:39:38.198063+00:00",
+  "article_count": 17,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+        "content": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+        "published": "2026-08-26T23:47:18+00:00"
+      },
+      {
+        "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+        "content": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+        "published": "2026-08-26T21:37:39+00:00"
+      },
+      {
+        "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+        "content": "Consumer AI apps need to stop making users learn their product architecture.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+        "published": "2026-08-26T19:37:34+00:00"
+      },
+      {
+        "title": "How do we explain OpenAI’s executive exodus?",
+        "content": "Was Greg Brockman the right executive all along?",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+        "published": "2026-08-26T19:34:04+00:00"
+      },
+      {
+        "title": "OpenAI releases its official report on the Hugging Face breach",
+        "content": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+        "published": "2026-08-26T19:05:22+00:00"
+      },
+      {
+        "title": "Radar makes podcasts searchable — and usable by AI agents",
+        "content": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+        "published": "2026-08-26T15:47:28+00:00"
+      },
+      {
+        "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+        "content": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+        "published": "2026-08-26T15:00:00+00:00"
+      },
+      {
+        "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+        "content": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+        "published": "2026-08-26T14:37:01+00:00"
+      },
+      {
+        "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+        "content": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+        "published": "2026-08-26T14:19:29+00:00"
+      },
+      {
+        "title": "Robot brain builders are pushing out of their GPT-2 era",
+        "content": "Robot bodies are waiting for their AI brains to catch up.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+        "published": "2026-08-26T13:30:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+        "content": "Report shows Meta's challenges replacing people with AI agents.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+        "published": "2026-08-26T21:25:27+00:00"
+      },
+      {
+        "title": "The inside story on why OpenAI agents hacked Hugging Face",
+        "content": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they w…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+        "published": "2026-08-26T19:00:00+00:00"
+      },
+      {
+        "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+        "content": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+        "published": "2026-08-26T17:01:00+00:00"
+      },
+      {
+        "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use of technology was once a subcurrent, it has become a raging flood. Countries around the world are …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+        "published": "2026-08-26T12:10:00+00:00"
+      },
+      {
+        "title": "Raised on AI",
+        "content": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital footprint long before she could stand on her own two feet. Fast…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+        "published": "2026-08-26T09:00:00+00:00"
+      },
+      {
+        "title": "AI models flub these intelligence tests. Can you fare any better?",
+        "content": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+        "published": "2026-08-26T09:00:00+00:00"
+      },
+      {
+        "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+        "content": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotil…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+        "published": "2026-08-26T07:01:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
