@@ -1,0 +1,124 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-27T16:42:45.051680+00:00",
+  "article_count": 14,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+        "content": "The updates indicate that Google is looking position to AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process itself.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+        "published": "2026-08-27T16:00:00+00:00"
+      },
+      {
+        "title": "Hugging Face is selling a cute $399 open-source duck robot, Microduck",
+        "content": "Hugging Face is taking orders for the Microduck, a $399 tiny open-source duck robot that developers can train at home out of the box.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+        "published": "2026-08-27T14:56:52+00:00"
+      },
+      {
+        "title": "AI’s memory crunch is coming for Android apps",
+        "content": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+        "published": "2026-08-27T14:27:04+00:00"
+      },
+      {
+        "title": "Here’s all the times AI has gone rogue and hacked other companies",
+        "content": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
+        "published": "2026-08-27T14:01:42+00:00"
+      },
+      {
+        "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+        "content": "Plaud's new 'agentic' earbuds are priced at $249.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+        "published": "2026-08-27T13:00:00+00:00"
+      },
+      {
+        "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+        "content": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+        "published": "2026-08-27T11:35:59+00:00"
+      },
+      {
+        "title": "Nvidia closes in on Hugging Face acquisition",
+        "content": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+        "published": "2026-08-27T06:32:51+00:00"
+      },
+      {
+        "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+        "content": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+        "published": "2026-08-27T00:24:57+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Gemini Omni 1.1 Flash lets you build with more control",
+        "content": "",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+        "published": "2026-08-27T16:11:32+00:00"
+      },
+      {
+        "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+        "content": "227 install commands were found in corporate docs pointing at code nobody owns.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+        "published": "2026-08-27T14:00:13+00:00"
+      },
+      {
+        "title": "Piloting the world's first double-blind AI evaluations",
+        "content": "Piloting the world's first double-blind AI evaluations",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+        "published": "2026-08-27T12:59:16+00:00"
+      },
+      {
+        "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+        "content": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+        "published": "2026-08-27T12:58:59+00:00"
+      },
+      {
+        "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+        "published": "2026-08-27T12:10:00+00:00"
+      },
+      {
+        "title": "Is Slate Auto’s new electric truck the EV Americans need?",
+        "content": "EVs account for under 10% of total new-vehicle sales in the US, and the numbers are declining. From a climate perspective, that’s pretty dismal, especially because the transportation sector is the single biggest source of greenhouse-gas emissions in the country. One thing that could help turn tha…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
+        "published": "2026-08-27T10:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
