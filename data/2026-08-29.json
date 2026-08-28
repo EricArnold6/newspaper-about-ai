@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-28T17:01:51.175990+00:00",
+  "article_count": 5,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+        "content": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+        "published": "2026-08-28T12:46:12+00:00"
+      },
+      {
+        "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+        "content": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+        "published": "2026-08-28T12:21:06+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company called Gener…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+        "published": "2026-08-28T12:35:27+00:00"
+      },
+      {
+        "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+        "content": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+        "published": "2026-08-28T11:15:05+00:00"
+      },
+      {
+        "title": "How to sign up for a virtual power plant—and decide whether you should",
+        "content": "MIT Technology Review’s How To series helps you get things done. Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collec…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+        "published": "2026-08-28T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
