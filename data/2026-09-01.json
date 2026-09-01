@@ -1,0 +1,89 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T01:32:50.267750+00:00",
+  "article_count": 9,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "The Pentagon now has its own version of ChatGPT and Grok",
+        "content": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+        "published": "2026-08-31T20:13:45+00:00"
+      },
+      {
+        "title": "Instagram puts new limits on undisclosed AI profiles",
+        "content": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+        "published": "2026-08-31T19:16:59+00:00"
+      },
+      {
+        "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+        "content": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+        "published": "2026-08-31T18:35:11+00:00"
+      },
+      {
+        "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+        "content": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+        "published": "2026-08-31T16:00:00+00:00"
+      },
+      {
+        "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+        "content": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+        "published": "2026-08-31T15:15:25+00:00"
+      },
+      {
+        "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
+        "content": "Circleback is also introducing new pricing plans starting from $14 per month.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+        "published": "2026-08-31T12:56:46+00:00"
+      },
+      {
+        "title": "The US is building barriers around drones and robots, but China has scale to get around them",
+        "content": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+        "published": "2026-08-31T02:34:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Huggin…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+        "published": "2026-08-31T18:00:00+00:00"
+      },
+      {
+        "title": "Think twice before installing this device promising free movies",
+        "content": "In exchange for free stuff, devices make home connections part of a proxy network.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+        "published": "2026-08-31T16:33:38+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
