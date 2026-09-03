@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T01:29:12.554260+00:00",
+  "article_count": 16,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+        "content": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+        "published": "2026-09-02T23:01:00+00:00"
+      },
+      {
+        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+        "content": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+        "published": "2026-09-02T22:44:56+00:00"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "content": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+        "published": "2026-09-02T22:24:09+00:00"
+      },
+      {
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "content": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+        "published": "2026-09-02T20:19:14+00:00"
+      },
+      {
+        "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+        "content": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s re…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+        "published": "2026-09-02T17:18:13+00:00"
+      },
+      {
+        "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+        "content": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what’s re…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+        "published": "2026-09-02T17:09:57+00:00"
+      },
+      {
+        "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+        "content": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+        "published": "2026-09-02T17:09:06+00:00"
+      },
+      {
+        "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+        "content": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+        "published": "2026-09-02T16:04:10+00:00"
+      },
+      {
+        "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+        "content": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+        "published": "2026-09-02T16:01:48+00:00"
+      },
+      {
+        "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+        "content": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+        "published": "2026-09-02T15:01:23+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "I rented a car, and within hours, my driver's license was for sale",
+        "content": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
+        "published": "2026-09-02T20:32:02+00:00"
+      },
+      {
+        "title": "Proactive cyber defense for governments and enterprises",
+        "content": "",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+        "published": "2026-09-02T16:24:24+00:00"
+      },
+      {
+        "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+        "content": "",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+        "published": "2026-09-02T16:18:31+00:00"
+      },
+      {
+        "title": "Facilitating AI integration with simplicity at scale",
+        "content": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+        "published": "2026-09-02T14:00:00+00:00"
+      },
+      {
+        "title": "The Download: AI puzzles and a path to our nearest star system",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+        "published": "2026-09-02T12:10:00+00:00"
+      },
+      {
+        "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+        "content": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+        "published": "2026-09-02T11:00:43+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
