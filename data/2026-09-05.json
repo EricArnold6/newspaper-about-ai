@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T01:20:46.482298+00:00",
+  "article_count": 16,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "content": "The round is being raised just months after the robot data startup exited from stealth.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+        "published": "2026-09-04T23:36:14+00:00"
+      },
+      {
+        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+        "content": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+        "published": "2026-09-04T23:15:11+00:00"
+      },
+      {
+        "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+        "content": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+        "published": "2026-09-04T21:12:11+00:00"
+      },
+      {
+        "title": "What will Apple’s John Ternus era look like?",
+        "content": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+        "published": "2026-09-04T17:18:00+00:00"
+      },
+      {
+        "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+        "content": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+        "published": "2026-09-04T16:21:11+00:00"
+      },
+      {
+        "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+        "content": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk before he’s even settled in. Cook isn’t going far…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+        "published": "2026-09-04T16:04:08+00:00"
+      },
+      {
+        "title": "Google’s Gemini Spark can now manage your Google Photos library",
+        "content": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+        "published": "2026-09-04T14:47:11+00:00"
+      },
+      {
+        "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+        "content": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+        "published": "2026-09-04T14:00:00+00:00"
+      },
+      {
+        "title": "The sameness problem behind those unappetizing AI-generated menus",
+        "content": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+        "published": "2026-09-04T04:21:03+00:00"
+      },
+      {
+        "title": "Crusoe reportedly raises $3B at a $30B valuation",
+        "content": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+        "published": "2026-09-04T00:48:42+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+        "content": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
+        "published": "2026-09-04T22:17:36+00:00"
+      },
+      {
+        "title": "Architecting memory and storage in the AI era",
+        "content": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+        "published": "2026-09-04T18:39:19+00:00"
+      },
+      {
+        "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
+        "content": "Broadcom admits it put “too big a focus on VCF.”",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+        "published": "2026-09-04T17:35:02+00:00"
+      },
+      {
+        "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+        "content": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+        "published": "2026-09-04T17:18:12+00:00"
+      },
+      {
+        "title": "The Download: selling battlefield drone data and AI reshaping language",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI’s impact on democracy,…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+        "published": "2026-09-04T12:10:00+00:00"
+      },
+      {
+        "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+        "content": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fig…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+        "published": "2026-09-04T09:25:19+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
