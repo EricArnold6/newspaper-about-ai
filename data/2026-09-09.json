@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T01:25:22.868740+00:00",
+  "article_count": 14,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Hackers are stealing Claude tokens from subscribers",
+        "content": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+        "published": "2026-09-08T21:10:27+00:00"
+      },
+      {
+        "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+        "content": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+        "published": "2026-09-08T21:04:06+00:00"
+      },
+      {
+        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+        "content": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+        "published": "2026-09-08T19:00:00+00:00"
+      },
+      {
+        "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+        "content": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+        "published": "2026-09-08T17:32:15+00:00"
+      },
+      {
+        "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+        "content": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+        "published": "2026-09-08T16:20:31+00:00"
+      },
+      {
+        "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+        "content": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+        "published": "2026-09-08T15:04:09+00:00"
+      },
+      {
+        "title": "Mistral raises €3B as sovereign AI becomes big business",
+        "content": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+        "published": "2026-09-08T14:17:48+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Why this month's Microsoft patch release is a doozy",
+        "content": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+        "published": "2026-09-08T21:11:46+00:00"
+      },
+      {
+        "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "content": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+        "published": "2026-09-08T14:00:15+00:00"
+      },
+      {
+        "title": "The Download: our 35 Innovators Under 35 this year",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 2026 What will the next generation of science and technology look like? Our latest Innovators Under 35 list off…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+        "published": "2026-09-08T12:10:00+00:00"
+      },
+      {
+        "title": "This founder is teaching chips how to recycle (their energy)",
+        "content": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire Computing, a startup building chips that recycle energy usuall…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+        "published": "2026-09-08T10:36:00+00:00"
+      },
+      {
+        "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+        "content": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+        "published": "2026-09-08T10:34:00+00:00"
+      },
+      {
+        "title": "This founder is making cheaper, cleaner steel",
+        "content": "The steel industry isn’t exactly known for innovation. Very little has changed about purifying iron ore since the process was invented and commercialized in the 1850s. The majority of steelmakers melt solid iron ore at dizzyingly high temperatures inside blast furnaces, where the material reacts …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+        "published": "2026-09-08T10:33:00+00:00"
+      },
+      {
+        "title": "This geneticist’s age-reversal tech could help restore sight",
+        "content": "Yuancheng (Ryan) Lu is obsessed with aging. And with eyes. As he steps outside the Whitehead Institute in Cambridge, Massachusetts, his aviator glasses darken automatically in the sun. Age-related blindness runs in his family. A great-aunt in China, the story goes, was killed crossing a road beca…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+        "published": "2026-09-08T10:32:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
