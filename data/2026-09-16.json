@@ -1,0 +1,131 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T01:24:49.377500+00:00",
+  "article_count": 15,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "The AI data center boom is colliding with cities scarred by big industry",
+        "content": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+        "published": "2026-09-15T21:47:38+00:00"
+      },
+      {
+        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+        "content": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+        "published": "2026-09-15T20:12:53+00:00"
+      },
+      {
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "content": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "published": "2026-09-15T19:00:00+00:00"
+      },
+      {
+        "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+        "content": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+        "published": "2026-09-15T18:29:20+00:00"
+      },
+      {
+        "title": "AI agents now have a place to snitch",
+        "content": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+        "published": "2026-09-15T17:42:59+00:00"
+      },
+      {
+        "title": "Meta expands subscription push with new AI-focused plans",
+        "content": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+        "published": "2026-09-15T17:05:24+00:00"
+      },
+      {
+        "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+        "content": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+        "published": "2026-09-15T15:47:03+00:00"
+      },
+      {
+        "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+        "content": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+        "published": "2026-09-15T15:22:48+00:00"
+      },
+      {
+        "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+        "content": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+        "published": "2026-09-15T14:42:37+00:00"
+      },
+      {
+        "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+        "content": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+        "published": "2026-09-15T14:30:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Roundtables: Could AI really kill us all?",
+        "content": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether t…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+        "published": "2026-09-15T17:47:51+00:00"
+      },
+      {
+        "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "content": "",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+        "published": "2026-09-15T17:05:57+00:00"
+      },
+      {
+        "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+        "published": "2026-09-15T12:10:00+00:00"
+      },
+      {
+        "title": "AI models need more data about biology, and OpenAI is paying to create it",
+        "content": "Last year Ruxandra Teslo, a policy analyst who focuses on clinical trials, posted an idea for supercharging medical AI systems: Use data from failed biotech companies. By bidding at their bankruptcy proceedings, she proposed, it might be possible to obtain detailed regulatory filings, manufacturi…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+        "published": "2026-09-15T12:00:00+00:00"
+      },
+      {
+        "title": "What’s at stake in AI’s trillion-dollar gamble",
+        "content": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in q…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+        "published": "2026-09-15T10:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
