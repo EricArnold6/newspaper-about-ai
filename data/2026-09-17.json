@@ -1,0 +1,124 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T01:25:20.216499+00:00",
+  "article_count": 14,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+        "content": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+        "published": "2026-09-16T21:07:24+00:00"
+      },
+      {
+        "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+        "content": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+        "published": "2026-09-16T20:12:00+00:00"
+      },
+      {
+        "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+        "content": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+        "published": "2026-09-16T18:25:25+00:00"
+      },
+      {
+        "title": "Your AI agents can now control your Google Home devices",
+        "content": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+        "published": "2026-09-16T17:00:00+00:00"
+      },
+      {
+        "title": "Anthropic merges Claude chat and Cowork in one interface",
+        "content": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+        "published": "2026-09-16T16:30:00+00:00"
+      },
+      {
+        "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+        "content": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+        "published": "2026-09-16T15:00:00+00:00"
+      },
+      {
+        "title": "Threads’ new features let podcasters promote shows and reach listeners",
+        "content": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+        "published": "2026-09-16T14:24:58+00:00"
+      },
+      {
+        "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+        "content": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+        "published": "2026-09-16T14:15:00+00:00"
+      },
+      {
+        "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+        "content": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+        "published": "2026-09-16T14:00:00+00:00"
+      },
+      {
+        "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+        "content": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+        "published": "2026-09-16T13:23:02+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+        "content": "Group plans to be largely out of commission for several weeks.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+        "published": "2026-09-16T21:08:14+00:00"
+      },
+      {
+        "title": "Meet a mouse whose brain cortex is made up of human cells",
+        "content": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor. The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain tissue…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+        "published": "2026-09-16T15:00:00+00:00"
+      },
+      {
+        "title": "Building the materials foundation for AI",
+        "content": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+        "published": "2026-09-16T12:47:34+00:00"
+      },
+      {
+        "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+        "published": "2026-09-16T12:10:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
