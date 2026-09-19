@@ -1,0 +1,117 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T01:23:07.940990+00:00",
+  "article_count": 13,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+        "content": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+        "published": "2026-09-18T23:25:01+00:00"
+      },
+      {
+        "title": "Anthropic is operating a lab that conducts biology experiments",
+        "content": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+        "published": "2026-09-18T23:13:31+00:00"
+      },
+      {
+        "title": "AI hallucination nearly triggers US military operation",
+        "content": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+        "published": "2026-09-18T23:12:32+00:00"
+      },
+      {
+        "title": "Anthropic’s first embedded evaluator is … Accenture?",
+        "content": "Accenture is about to take on its most high-risk consulting engagement ever.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+        "published": "2026-09-18T21:44:33+00:00"
+      },
+      {
+        "title": "World model companies are keeping a lot of secrets",
+        "content": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+        "published": "2026-09-18T20:18:14+00:00"
+      },
+      {
+        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+        "content": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+        "published": "2026-09-18T18:49:30+00:00"
+      },
+      {
+        "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+        "content": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+        "published": "2026-09-18T17:59:53+00:00"
+      },
+      {
+        "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+        "content": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+        "published": "2026-09-18T17:33:50+00:00"
+      },
+      {
+        "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+        "content": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s alrea…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+        "published": "2026-09-18T17:09:56+00:00"
+      },
+      {
+        "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+        "content": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s alrea…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+        "published": "2026-09-18T17:06:32+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "The Download: AI’s extinction risk and bioweapons threat",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+        "published": "2026-09-18T12:10:00+00:00"
+      },
+      {
+        "title": "Could AI really kill us all? Your questions, answered.",
+        "content": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+        "published": "2026-09-18T11:29:22+00:00"
+      },
+      {
+        "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+        "content": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+        "published": "2026-09-18T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
