@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T01:34:59.706057+00:00",
+  "article_count": 4,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Anthropic’s CEO is about to have dinner with President Trump",
+        "content": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+        "published": "2026-09-27T20:34:28+00:00"
+      },
+      {
+        "title": "Can Muse overcome Meta’s trust issues?",
+        "content": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+        "published": "2026-09-27T19:57:30+00:00"
+      },
+      {
+        "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+        "content": "\"AI is the devil and I its maker.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+        "published": "2026-09-27T16:30:00+00:00"
+      },
+      {
+        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+        "content": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+        "published": "2026-09-27T01:30:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
