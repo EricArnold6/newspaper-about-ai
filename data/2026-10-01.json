@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T01:40:31.882958+00:00",
+  "article_count": 16,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+        "content": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+        "published": "2026-09-30T23:43:07+00:00"
+      },
+      {
+        "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+        "content": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+        "published": "2026-09-30T21:07:40+00:00"
+      },
+      {
+        "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+        "content": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+        "published": "2026-09-30T19:00:57+00:00"
+      },
+      {
+        "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+        "content": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+        "published": "2026-09-30T18:23:57+00:00"
+      },
+      {
+        "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+        "content": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+        "published": "2026-09-30T17:45:00+00:00"
+      },
+      {
+        "title": "The ugly economics of consumer AI",
+        "content": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+        "published": "2026-09-30T17:24:45+00:00"
+      },
+      {
+        "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+        "content": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+        "published": "2026-09-30T16:24:23+00:00"
+      },
+      {
+        "title": "DoorDash launches an AI agent you can text to order food",
+        "content": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+        "published": "2026-09-30T16:00:24+00:00"
+      },
+      {
+        "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+        "content": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+        "published": "2026-09-30T16:00:00+00:00"
+      },
+      {
+        "title": "Instinct’s new product recommendations are giving some users the ick",
+        "content": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+        "published": "2026-09-30T15:56:28+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+        "content": "A simple email gives the attackers the ability to remotely inject OS commands.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+        "published": "2026-09-30T20:44:48+00:00"
+      },
+      {
+        "title": "Gemini 4 Argon: our next era of frontier intelligence",
+        "content": "",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+        "published": "2026-09-30T20:01:45+00:00"
+      },
+      {
+        "title": "Introducing SynthID Bio",
+        "content": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+        "published": "2026-09-30T15:03:07+00:00"
+      },
+      {
+        "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the compu…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+        "published": "2026-09-30T12:10:00+00:00"
+      },
+      {
+        "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+        "content": "The move will be part of a major overhaul of the ecosystem for website authentication.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+        "published": "2026-09-30T11:15:14+00:00"
+      },
+      {
+        "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+        "content": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raise…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+        "published": "2026-09-30T10:40:30+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
