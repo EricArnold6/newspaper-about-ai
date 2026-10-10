@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T01:33:36.900217+00:00",
+  "article_count": 14,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "content": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+        "published": "2026-10-09T21:41:29+00:00"
+      },
+      {
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "content": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+        "published": "2026-10-09T19:36:56+00:00"
+      },
+      {
+        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+        "content": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from N…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+        "published": "2026-10-09T16:56:42+00:00"
+      },
+      {
+        "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+        "content": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from N…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+        "published": "2026-10-09T16:53:02+00:00"
+      },
+      {
+        "title": "Danu Robotics’ fight to build a better recycling robot",
+        "content": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+        "published": "2026-10-09T16:45:00+00:00"
+      },
+      {
+        "title": "We can’t help treating AI like it’s human. But should we?",
+        "content": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+        "published": "2026-10-09T16:40:14+00:00"
+      },
+      {
+        "title": "a16z’s Olivia Moore on the state of consumer AI",
+        "content": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+        "published": "2026-10-09T15:43:33+00:00"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+        "content": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+        "published": "2026-10-09T14:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
+        "content": "\"The current decline may be just the beginning of a new downward cycle.\"",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+        "published": "2026-10-09T18:54:52+00:00"
+      },
+      {
+        "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+        "published": "2026-10-09T12:10:00+00:00"
+      },
+      {
+        "title": "We’re putting too much faith in AI’s ability to say no",
+        "content": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recen…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+        "published": "2026-10-09T09:00:00+00:00"
+      },
+      {
+        "title": "Job titles of the future: Delivery drone air traffic controller",
+        "content": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called F…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+        "published": "2026-10-09T09:00:00+00:00"
+      },
+      {
+        "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+        "content": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age ar…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+        "published": "2026-10-09T09:00:00+00:00"
+      },
+      {
+        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "content": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be n…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+        "published": "2026-10-09T00:08:24+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
