@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T01:22:57.772179+00:00",
+  "article_count": 17,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+        "content": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+        "published": "2026-10-13T23:13:31+00:00"
+      },
+      {
+        "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+        "content": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+        "published": "2026-10-13T23:05:34+00:00"
+      },
+      {
+        "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+        "content": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+        "published": "2026-10-13T23:00:00+00:00"
+      },
+      {
+        "title": "Cerebras CEO pushes back on AI doomsday warnings",
+        "content": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+        "published": "2026-10-13T22:36:59+00:00"
+      },
+      {
+        "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+        "content": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+        "published": "2026-10-13T20:36:44+00:00"
+      },
+      {
+        "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+        "content": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+        "published": "2026-10-13T18:30:00+00:00"
+      },
+      {
+        "title": "Facebook is giving users more control over their algorithm",
+        "content": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+        "published": "2026-10-13T18:05:24+00:00"
+      },
+      {
+        "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+        "content": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+        "published": "2026-10-13T17:30:00+00:00"
+      },
+      {
+        "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+        "content": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+        "published": "2026-10-13T17:18:25+00:00"
+      },
+      {
+        "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+        "content": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+        "published": "2026-10-13T17:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Topgolf saved over $11.3 million after leaving VMware",
+        "content": "Topgolf and VMware \"ran deep\" before the migration.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+        "published": "2026-10-13T21:33:43+00:00"
+      },
+      {
+        "title": "Developing Gemini 4 Argon responsibly and safely",
+        "content": "",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+        "published": "2026-10-13T19:43:07+00:00"
+      },
+      {
+        "title": "Gemini 4 Argon for Robotics",
+        "content": "",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+        "published": "2026-10-13T16:01:58+00:00"
+      },
+      {
+        "title": "Gemini 4 Argon: Built to solve your hardest problems",
+        "content": "",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+        "published": "2026-10-13T16:01:52+00:00"
+      },
+      {
+        "title": "The Download: open model trade-offs and geothermal power’s promise",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese comp…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+        "published": "2026-10-13T12:00:00+00:00"
+      },
+      {
+        "title": "Open models have real benefits. Do they outweigh the risks?",
+        "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+        "published": "2026-10-13T10:00:00+00:00"
+      },
+      {
+        "title": "AI labs are buying data from dead startups to train their models",
+        "content": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pe…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+        "published": "2026-10-13T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
