@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T01:20:57.013053+00:00",
+  "article_count": 16,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Replit is no longer working with Anthropic, CEO says",
+        "content": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "published": "2026-10-16T21:22:28+00:00"
+      },
+      {
+        "title": "India becomes the latest country to report rogue AI agent activity",
+        "content": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+        "published": "2026-10-16T17:52:24+00:00"
+      },
+      {
+        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+        "content": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who b…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+        "published": "2026-10-16T16:30:00+00:00"
+      },
+      {
+        "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+        "content": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who b…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+        "published": "2026-10-16T16:30:00+00:00"
+      },
+      {
+        "title": "Elorian’s first AI model wants to reason with images, not just about them",
+        "content": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+        "published": "2026-10-16T16:01:37+00:00"
+      },
+      {
+        "title": "Jev is Vercel’s fastest-adopted AI model ever",
+        "content": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+        "published": "2026-10-16T15:33:49+00:00"
+      },
+      {
+        "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+        "content": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+        "published": "2026-10-16T14:26:51+00:00"
+      },
+      {
+        "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+        "content": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+        "published": "2026-10-16T14:00:00+00:00"
+      },
+      {
+        "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+        "content": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+        "published": "2026-10-16T12:55:09+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "OpenAI models hacked a crypto wallet and breached more websites",
+        "content": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+        "published": "2026-10-16T20:59:01+00:00"
+      },
+      {
+        "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+        "content": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but tha…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+        "published": "2026-10-16T18:00:00+00:00"
+      },
+      {
+        "title": "The Download: failed social media bans, and extending pets’ lives",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are stacking up. I…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+        "published": "2026-10-16T12:10:00+00:00"
+      },
+      {
+        "title": "This implant can restore sight for patients with macular degeneration",
+        "content": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It com…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+        "published": "2026-10-16T09:00:00+00:00"
+      },
+      {
+        "title": "Love is infrastructure",
+        "content": "I. Meet cute Barnabas and Mainspring grew up near at hand, about an hour apart with good traffic, but for a long time they weren’t close. They traded glimpses and occasional hellos and then went about their business. Both of them carried on livelier conversations with farther-flung neighbors, who…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+        "published": "2026-10-16T09:00:00+00:00"
+      },
+      {
+        "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+        "content": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+        "published": "2026-10-16T09:00:00+00:00"
+      },
+      {
+        "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+        "content": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing F…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+        "published": "2026-10-16T07:56:32+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
