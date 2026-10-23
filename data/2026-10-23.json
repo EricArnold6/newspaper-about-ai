@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T01:26:39.909569+00:00",
+  "article_count": 19,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "content": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+        "published": "2026-10-22T22:08:24+00:00"
+      },
+      {
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "content": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+        "published": "2026-10-22T19:07:09+00:00"
+      },
+      {
+        "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+        "content": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+        "published": "2026-10-22T19:00:00+00:00"
+      },
+      {
+        "title": "Canva releases its first image generation model",
+        "content": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+        "published": "2026-10-22T19:00:00+00:00"
+      },
+      {
+        "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+        "content": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+        "published": "2026-10-22T18:43:53+00:00"
+      },
+      {
+        "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+        "content": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+        "published": "2026-10-22T16:47:17+00:00"
+      },
+      {
+        "title": "Uber puts all 30,000 employees on ChatGPT Work",
+        "content": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+        "published": "2026-10-22T16:00:00+00:00"
+      },
+      {
+        "title": "Spotify’s current AI bet is about being the music service that agents choose",
+        "content": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+        "published": "2026-10-22T15:03:58+00:00"
+      },
+      {
+        "title": "Claude Duet app is Anthropic’s bet on agents",
+        "content": "Claude Duet is available through waitlist for Pro and Max plan users.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+        "published": "2026-10-22T13:53:26+00:00"
+      },
+      {
+        "title": "Nirva raises $33M for a pendant that only listens to you",
+        "content": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+        "published": "2026-10-22T13:26:52+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Designing an AI serving harness built to last",
+        "content": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windo…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+        "published": "2026-10-22T21:17:29+00:00"
+      },
+      {
+        "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+        "content": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+        "published": "2026-10-22T20:17:52+00:00"
+      },
+      {
+        "title": "The Foundations of Scalable AI",
+        "content": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+        "published": "2026-10-22T18:48:04+00:00"
+      },
+      {
+        "title": "Beyond tree cover: mapping the world’s forest types",
+        "content": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+        "published": "2026-10-22T14:30:24+00:00"
+      },
+      {
+        "title": "The Download: computing’s next leap and permafrost’s climate threat",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+        "published": "2026-10-22T12:10:00+00:00"
+      },
+      {
+        "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+        "content": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+        "published": "2026-10-22T11:30:33+00:00"
+      },
+      {
+        "title": "Making the case for context-aware AI",
+        "content": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As compan…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+        "published": "2026-10-22T10:00:00+00:00"
+      },
+      {
+        "title": "Three things you should know about permafrost",
+        "content": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it. The great news for both of us is that my colleague James Temple just published two…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
+        "published": "2026-10-22T10:00:00+00:00"
+      },
+      {
+        "title": "AI’s hidden storage bill: What inference leaves behind",
+        "content": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—fr…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+        "published": "2026-10-22T08:41:18+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
