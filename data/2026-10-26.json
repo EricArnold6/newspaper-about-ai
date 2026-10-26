@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T01:28:43.328427+00:00",
+  "article_count": 3,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "content": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+        "published": "2026-10-25T21:31:16+00:00"
+      },
+      {
+        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "content": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "published": "2026-10-25T16:57:32+00:00"
+      },
+      {
+        "title": "The hottest AI wearables and gadgets you should know about",
+        "content": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+        "published": "2026-10-25T14:10:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
