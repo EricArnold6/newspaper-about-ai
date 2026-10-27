@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T01:28:50.018322+00:00",
+  "article_count": 6,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+        "content": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+        "published": "2026-10-26T16:49:42+00:00"
+      },
+      {
+        "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+        "content": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+        "published": "2026-10-26T16:46:36+00:00"
+      },
+      {
+        "title": "Anthropic officially files for its public debut",
+        "content": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+        "published": "2026-10-26T14:35:22+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Will the real Anthropic please stand up",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+        "published": "2026-10-26T17:45:43+00:00"
+      },
+      {
+        "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young People’s Alliance, and Emma Leiken, executive director of t…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
+        "published": "2026-10-26T12:40:00+00:00"
+      },
+      {
+        "title": "The focus on AI safety disasters ignores everyday harms",
+        "content": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+        "published": "2026-10-26T09:01:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
