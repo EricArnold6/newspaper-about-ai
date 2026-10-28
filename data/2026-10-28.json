@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T01:11:38.762066+00:00",
+  "article_count": 15,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "content": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+        "published": "2026-10-27T23:34:27+00:00"
+      },
+      {
+        "title": "The data center boom has an upside: innovation for the US grid",
+        "content": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+        "published": "2026-10-27T22:55:41+00:00"
+      },
+      {
+        "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+        "content": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+        "published": "2026-10-27T21:44:34+00:00"
+      },
+      {
+        "title": "Who’s really in charge at Anthropic after the IPO?",
+        "content": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+        "published": "2026-10-27T21:38:28+00:00"
+      },
+      {
+        "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+        "content": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+        "published": "2026-10-27T18:55:35+00:00"
+      },
+      {
+        "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+        "content": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+        "published": "2026-10-27T17:08:08+00:00"
+      },
+      {
+        "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+        "content": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+        "published": "2026-10-27T16:30:57+00:00"
+      },
+      {
+        "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+        "content": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+        "published": "2026-10-27T14:59:09+00:00"
+      },
+      {
+        "title": "Japan internet giant GMO says hackers posted stolen customer data",
+        "content": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+        "published": "2026-10-27T13:32:57+00:00"
+      },
+      {
+        "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+        "content": "The new standard, WebAI, is designed to work with a variety of AI models.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+        "published": "2026-10-27T13:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+        "content": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+        "published": "2026-10-27T20:25:55+00:00"
+      },
+      {
+        "title": "Genie 4: A new generation of world simulation",
+        "content": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "published": "2026-10-27T16:01:38+00:00"
+      },
+      {
+        "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so ar…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+        "published": "2026-10-27T12:10:00+00:00"
+      },
+      {
+        "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+        "content": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+        "published": "2026-10-27T11:19:18+00:00"
+      },
+      {
+        "title": "How solid-state transformers could help power the AI boom",
+        "content": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade. As the world races to…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+        "published": "2026-10-27T09:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
