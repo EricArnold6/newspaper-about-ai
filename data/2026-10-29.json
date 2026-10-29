@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T01:11:12.356752+00:00",
+  "article_count": 14,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+        "content": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+        "published": "2026-10-28T21:58:32+00:00"
+      },
+      {
+        "title": "Google expands AI Search ads globally as core ad growth slows",
+        "content": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+        "published": "2026-10-28T21:48:37+00:00"
+      },
+      {
+        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+        "content": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+        "published": "2026-10-28T21:34:30+00:00"
+      },
+      {
+        "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+        "content": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+        "published": "2026-10-28T21:25:30+00:00"
+      },
+      {
+        "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+        "content": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+        "published": "2026-10-28T19:19:58+00:00"
+      },
+      {
+        "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+        "content": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. Acc…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+        "published": "2026-10-28T19:05:46+00:00"
+      },
+      {
+        "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+        "content": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. Acc…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+        "published": "2026-10-28T18:50:39+00:00"
+      },
+      {
+        "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+        "content": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+        "published": "2026-10-28T17:00:00+00:00"
+      },
+      {
+        "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+        "content": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+        "published": "2026-10-28T17:00:00+00:00"
+      },
+      {
+        "title": "AI execs may be too out of touch to build for the general public",
+        "content": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+        "published": "2026-10-28T15:53:52+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Creating AI value with enterprise context",
+        "content": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the o…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+        "published": "2026-10-28T20:32:02+00:00"
+      },
+      {
+        "title": "Gemini 4 Carbon: Our next frontier model",
+        "content": "",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+        "published": "2026-10-28T17:00:58+00:00"
+      },
+      {
+        "title": "The Download: dead startups fueling AI and interspecies communication",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+        "published": "2026-10-28T12:10:00+00:00"
+      },
+      {
+        "title": "Pairing industrial AI autonomy and human control",
+        "content": "",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+        "published": "2026-10-28T12:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
