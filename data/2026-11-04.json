@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T01:09:17.068039+00:00",
+  "article_count": 15,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Anthropic is working on a system to prove AI models’ identity",
+        "content": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+        "published": "2026-11-03T22:41:03+00:00"
+      },
+      {
+        "title": "Data centers are turning to old jet engines as the wait for power grows",
+        "content": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+        "published": "2026-11-03T22:19:53+00:00"
+      },
+      {
+        "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+        "content": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+        "published": "2026-11-03T21:43:08+00:00"
+      },
+      {
+        "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+        "content": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+        "published": "2026-11-03T21:05:55+00:00"
+      },
+      {
+        "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+        "content": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+        "published": "2026-11-03T19:34:43+00:00"
+      },
+      {
+        "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+        "content": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+        "published": "2026-11-03T18:42:16+00:00"
+      },
+      {
+        "title": "Anthropic is still grappling with the economics of compute",
+        "content": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+        "published": "2026-11-03T17:07:01+00:00"
+      },
+      {
+        "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+        "content": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+        "published": "2026-11-03T16:30:34+00:00"
+      },
+      {
+        "title": "Apple restricts dating apps and AI companions to users 18 and up",
+        "content": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+        "published": "2026-11-03T15:38:27+00:00"
+      },
+      {
+        "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+        "content": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+        "published": "2026-11-03T14:30:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Agentic cheminformatics with Google Antigravity",
+        "content": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+        "published": "2026-11-03T17:01:49+00:00"
+      },
+      {
+        "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+        "content": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+        "published": "2026-11-03T16:03:13+00:00"
+      },
+      {
+        "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing systems t…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+        "published": "2026-11-03T13:10:00+00:00"
+      },
+      {
+        "title": "How “reverse game theory” could keep AI agents in check",
+        "content": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+        "published": "2026-11-03T10:43:41+00:00"
+      },
+      {
+        "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had bee…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+        "published": "2026-11-03T04:18:47+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
