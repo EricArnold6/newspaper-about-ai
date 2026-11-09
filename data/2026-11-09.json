@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T01:10:11.822935+00:00",
+  "article_count": 1,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+        "content": "In a memo to the company, Huang admitted that he had an affair.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+        "published": "2026-11-08T21:00:11+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
