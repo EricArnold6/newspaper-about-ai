@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T01:10:23.138820+00:00",
+  "article_count": 2,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+        "content": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+        "published": "2026-11-22T21:14:07+00:00"
+      },
+      {
+        "title": "Why data centers are at the center of the Big Tech backlash",
+        "content": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+        "published": "2026-11-22T18:08:43+00:00"
+      }
+    ],
+    "technical_breakthroughs": [],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
