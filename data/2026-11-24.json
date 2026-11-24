@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T01:14:55.093747+00:00",
+  "article_count": 14,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "content": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "published": "2026-11-23T22:05:50+00:00"
+      },
+      {
+        "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+        "content": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+        "published": "2026-11-23T22:02:05+00:00"
+      },
+      {
+        "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+        "content": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+        "published": "2026-11-23T21:47:41+00:00"
+      },
+      {
+        "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+        "content": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+        "published": "2026-11-23T21:25:42+00:00"
+      },
+      {
+        "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+        "content": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+        "published": "2026-11-23T20:38:53+00:00"
+      },
+      {
+        "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+        "content": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+        "published": "2026-11-23T19:14:46+00:00"
+      },
+      {
+        "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+        "content": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+        "published": "2026-11-23T18:12:22+00:00"
+      },
+      {
+        "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+        "content": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+        "published": "2026-11-23T17:14:23+00:00"
+      },
+      {
+        "title": "Jensen Huang isn’t out of the woods yet",
+        "content": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+        "published": "2026-11-23T16:57:40+00:00"
+      },
+      {
+        "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+        "content": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+        "published": "2026-11-23T16:39:10+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+        "published": "2026-11-23T17:36:08+00:00"
+      },
+      {
+        "title": "Finding faster quantum algorithms with agents and formal verification",
+        "content": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+        "source": "DeepMind Blog",
+        "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+        "published": "2026-11-23T16:59:40+00:00"
+      },
+      {
+        "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are improving expone…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+        "published": "2026-11-23T13:10:00+00:00"
+      },
+      {
+        "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+        "content": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+        "published": "2026-11-23T11:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
