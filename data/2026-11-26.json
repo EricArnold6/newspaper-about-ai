@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T01:09:29.418703+00:00",
+  "article_count": 14,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+        "content": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+        "published": "2026-11-25T22:44:32+00:00"
+      },
+      {
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "content": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "published": "2026-11-25T20:03:27+00:00"
+      },
+      {
+        "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+        "content": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+        "published": "2026-11-25T19:54:57+00:00"
+      },
+      {
+        "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+        "content": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+        "published": "2026-11-25T19:44:24+00:00"
+      },
+      {
+        "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+        "content": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+        "published": "2026-11-25T18:11:46+00:00"
+      },
+      {
+        "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+        "content": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+        "published": "2026-11-25T17:35:58+00:00"
+      },
+      {
+        "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+        "content": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-L…",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+        "published": "2026-11-25T15:41:43+00:00"
+      },
+      {
+        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "content": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+        "published": "2026-11-25T14:10:18+00:00"
+      },
+      {
+        "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+        "content": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+        "published": "2026-11-25T13:00:00+00:00"
+      },
+      {
+        "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+        "content": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether …",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+        "published": "2026-11-25T00:12:02+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "Backblaze explains why it's sharing customer information with advertisers",
+        "content": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+        "source": "Ars Technica AI",
+        "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+        "published": "2026-11-25T18:38:29+00:00"
+      },
+      {
+        "title": "How data centers are driving a US natural-gas boom",
+        "content": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other p…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+        "published": "2026-11-25T17:00:00+00:00"
+      },
+      {
+        "title": "The Download: AI swamping open records, and firefighting for permafrost",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors’ interest in public records. Over the last few years, venture-backed startups have …",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+        "published": "2026-11-25T13:10:00+00:00"
+      },
+      {
+        "title": "AI is straining America’s open records systems",
+        "content": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church i…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+        "published": "2026-11-25T10:00:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
