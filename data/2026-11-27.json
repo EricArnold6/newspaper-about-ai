@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T01:09:40.329558+00:00",
+  "article_count": 4,
+  "sections": {
+    "product_updates": [
+      {
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "content": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+        "published": "2026-11-26T20:03:54+00:00"
+      },
+      {
+        "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+        "content": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+        "published": "2026-11-26T16:00:00+00:00"
+      }
+    ],
+    "technical_breakthroughs": [
+      {
+        "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics.…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+        "published": "2026-11-26T13:10:00+00:00"
+      },
+      {
+        "title": "The next generation of bionic hands is here—and they can feel",
+        "content": "Avi Davidson lost his left hand as a teenager. Since then, he’s cycled through a few prosthetics. But his latest is different—it’s wired up to nerves in the upper part of his forearm and allows him to feel pressure. For the first time in years, he can use his left limb to handle delicate objects…",
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+        "published": "2026-11-26T09:59:00+00:00"
+      }
+    ],
+    "interesting_news": []
+  },
+  "sections_meta": {
+    "product_updates": {
+      "label": "产品更新",
+      "icon": "🚀"
+    },
+    "technical_breakthroughs": {
+      "label": "技术突破",
+      "icon": "🔬"
+    },
+    "interesting_news": {
+      "label": "趣闻速递",
+      "icon": "✨"
+    }
+  }
+}
